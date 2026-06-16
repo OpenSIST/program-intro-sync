@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "program-intro-sync",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-05-03",
+  "triggers": {
+    "crons": ["0 22 * * *"]
+  },
+  "vars": {
+    "OPENSIST_API_ROOT": "https://alpha.opensist.tech/",
+    "HIGH_CONFIDENCE": "0.72",
+    "LOW_CONFIDENCE": "0.45"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "program-intro-sync",
+      "database_id": "REPLACE_WITH_D1_DATABASE_ID"
+    }
+  ]
+}
