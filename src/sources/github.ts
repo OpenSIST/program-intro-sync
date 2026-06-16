@@ -33,6 +33,8 @@ export async function discoverGitHubSource(
   if (tree.truncated) {
     throw new Error(`GitHub tree is truncated for ${config.name}; source-specific pagination is required.`);
   }
+  const maxRawDownloads = parsePositiveInt(env.MAX_RAW_DOWNLOADS_PER_SOURCE, 25);
+  let rawDownloads = 0;
   const docs: SourceDoc[] = [];
   const seenKeys = new Set<string>();
   for (const item of tree.tree) {
@@ -60,6 +62,10 @@ export async function discoverGitHubSource(
       });
       continue;
     }
+    if (rawDownloads >= maxRawDownloads) {
+      continue;
+    }
+    rawDownloads += 1;
     const rawMarkdown = await fetchRawMarkdown(env, config, commit, item.path);
     const markdown = normalizeMarkdown(rawMarkdown);
     if (!isLikelyProgramDescription(markdown, item.path)) {
@@ -149,4 +155,12 @@ function isLikelyProgramDescription(markdown: string, sourcePath: string): boole
 
 function githubBlobUrl(config: SourceConfig, commit: string, sourcePath: string): string {
   return `${config.repoUrl}/blob/${commit}/${sourcePath}`;
+}
+
+function parsePositiveInt(value: string | undefined, fallback: number): number {
+  if (!value) {
+    return fallback;
+  }
+  const parsed = Number(value);
+  return Number.isFinite(parsed) && parsed > 0 ? Math.floor(parsed) : fallback;
 }

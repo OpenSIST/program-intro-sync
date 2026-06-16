@@ -272,6 +272,67 @@ export class MonitorRepository {
     };
   }
 
+  async listProgramSnapshots(): Promise<Map<string, OpenSistProgram>> {
+    const result = await this.db.prepare(
+      `select program_id, university, program_name, degree, region_json,
+              target_applicant_major_json, description_hash
+       from opensist_program_snapshots`,
+    ).all<{
+      program_id: string;
+      university: string;
+      program_name: string;
+      degree: string | null;
+      region_json: string | null;
+      target_applicant_major_json: string | null;
+      description_hash: string | null;
+    }>();
+    return new Map((result.results ?? []).map((row) => [row.program_id, {
+      programId: row.program_id,
+      university: row.university,
+      programName: row.program_name,
+      degree: row.degree ?? undefined,
+      region: parseJsonArray(row.region_json),
+      targetApplicantMajor: parseJsonArray(row.target_applicant_major_json),
+      descriptionHash: row.description_hash,
+    }]));
+  }
+
+  async upsertPrograms(programs: OpenSistProgram[]): Promise<void> {
+    const statement = this.db.prepare(
+      `insert into opensist_program_snapshots (
+         program_id,
+         university,
+         program_name,
+         degree,
+         region_json,
+         target_applicant_major_json,
+         description_hash,
+         seen_at
+       )
+       values (?, ?, ?, ?, ?, ?, ?, current_timestamp)
+       on conflict(program_id) do update set
+         university = excluded.university,
+         program_name = excluded.program_name,
+         degree = excluded.degree,
+         region_json = excluded.region_json,
+         target_applicant_major_json = excluded.target_applicant_major_json,
+         description_hash = excluded.description_hash,
+         seen_at = current_timestamp`,
+    );
+    for (let index = 0; index < programs.length; index += 50) {
+      const chunk = programs.slice(index, index + 50);
+      await this.db.batch(chunk.map((program) => statement.bind(
+        program.programId,
+        program.university,
+        program.programName,
+        program.degree ?? null,
+        JSON.stringify(program.region ?? []),
+        JSON.stringify(program.targetApplicantMajor ?? []),
+        program.descriptionHash,
+      )));
+    }
+  }
+
   async getMatch(sourceDocumentId: number): Promise<{
     matched_program_id: string | null;
     confidence: number;

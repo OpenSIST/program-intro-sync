@@ -146,7 +146,7 @@ The monitor writes D1 rows:
 
 ## Step 7: Downstream Consumption
 
-LLM merge, review, notification, or PR creation are downstream consumers.
+LLM merge, review, notification, and backend publishing are downstream consumers.
 
 They read:
 
@@ -159,6 +159,8 @@ order by e.created_at asc;
 ```
 
 The monitor does not call these consumers synchronously.
+
+Program descriptions are stored in the OpenSIST backend database. Publishing merged descriptions should call a reviewed backend admin API, not submit a frontend repository PR.
 
 ## No-Change Behavior
 

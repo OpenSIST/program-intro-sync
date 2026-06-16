@@ -19,7 +19,7 @@ export async function runMonitor(env: Env, triggerType: TriggerType): Promise<Mo
   await repository.createRun(runId, triggerType);
   try {
     const programs = await fetchOpenSistPrograms(env);
-    await syncOpenSistPrograms(repository, programs, summary);
+    await syncOpenSistPrograms(repository, programs, summary, env);
     const thresholds = parseThresholds(env);
     for (const sourceConfig of SOURCE_CONFIGS) {
       const source = await repository.upsertSource(sourceConfig);
@@ -30,7 +30,6 @@ export async function runMonitor(env: Env, triggerType: TriggerType): Promise<Mo
       for (const doc of discovery.docs) {
         const previous = existingDocs.get(doc.sourceKey) ?? null;
         if (!doc.changed && previous) {
-          await repository.touchDocument(previous.id);
           continue;
         }
         const saved = await repository.upsertSourceDocument(source, doc);
@@ -54,30 +53,62 @@ async function syncOpenSistPrograms(
   repository: MonitorRepository,
   programs: OpenSistProgram[],
   summary: MutableSummary,
+  env: Env,
 ): Promise<void> {
+  const previousPrograms = await repository.listProgramSnapshots();
+  const maxUpserts = parsePositiveInt(env.MAX_PROGRAM_UPSERTS_PER_RUN, 25);
+  const changedPrograms: Array<{
+    program: OpenSistProgram;
+    previous: OpenSistProgram | null;
+    changed: boolean;
+    descriptionChanged: boolean;
+  }> = [];
   for (const program of programs) {
-    const result = await repository.upsertProgram(program);
-    if (result.changed) {
+    const previous = previousPrograms.get(program.programId) ?? null;
+    const changed = Boolean(previous && (
+      previous.university !== program.university ||
+      previous.programName !== program.programName ||
+      previous.degree !== program.degree ||
+      JSON.stringify(previous.region ?? []) !== JSON.stringify(program.region ?? []) ||
+      JSON.stringify(previous.targetApplicantMajor ?? []) !== JSON.stringify(program.targetApplicantMajor ?? [])
+    ));
+    const descriptionChanged = Boolean(previous && previous.descriptionHash !== program.descriptionHash);
+    if (!previous || changed || descriptionChanged) {
+      changedPrograms.push({program, previous, changed, descriptionChanged});
+    }
+  }
+  const programsToProcess = changedPrograms.slice(0, maxUpserts);
+  await repository.upsertPrograms(programsToProcess.map((entry) => entry.program));
+  for (const {program, previous, changed, descriptionChanged} of programsToProcess) {
+    if (changed) {
       await countEvent(summary, repository.insertEvent({
         eventKey: `opensist_program_changed:${program.programId}:${program.descriptionHash ?? "no-desc"}`,
         eventType: "opensist_program_changed",
         matchedProgramId: program.programId,
-        previousHash: result.previous?.descriptionHash ?? null,
+        previousHash: previous?.descriptionHash ?? null,
         currentHash: program.descriptionHash,
-        previousValue: result.previous,
+        previousValue: previous,
         currentValue: program,
       }));
     }
-    if (result.descriptionChanged) {
+    if (descriptionChanged) {
       await countEvent(summary, repository.insertEvent({
         eventKey: `opensist_description_changed:${program.programId}:${program.descriptionHash ?? "no-desc"}`,
         eventType: "opensist_description_changed",
         matchedProgramId: program.programId,
-        previousHash: result.previous?.descriptionHash ?? null,
+        previousHash: previous?.descriptionHash ?? null,
         currentHash: program.descriptionHash,
       }));
     }
   }
+}
+
+function parsePositiveInt(value: string | undefined, fallback: number): number {
+  if (!value) {
+    return fallback;
+  }
+  const parsed = Number(value);
+  return Number.isFinite(parsed) && parsed > 0 ? Math.floor(parsed) : fallback;
 }
 
 async function recordDocumentEvents(

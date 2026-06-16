@@ -7,6 +7,7 @@
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "typecheck": "tsc --noEmit",
+    "eval:llm-summary": "node scripts/evaluate-llm-summary/index.mjs",
     "db:migrate:local": "wrangler d1 migrations apply program-intro-sync --local",
     "db:migrate:remote": "wrangler d1 migrations apply program-intro-sync --remote"
   },

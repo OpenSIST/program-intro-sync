@@ -18,7 +18,7 @@ It owns:
 It does not own:
 
 - LLM merge
-- PR creation
+- Backend publishing
 - Backend mutation
 - Human review UI
 - Publishing final descriptions
@@ -58,7 +58,7 @@ LLM merge service:
 Publisher/reviewer:
   merge_drafts
   -> human review
-  -> optional backend update
+  -> backend publish API
 ```
 
 The monitor should be able to run even if no LLM provider exists.

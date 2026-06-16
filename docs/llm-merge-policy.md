@@ -4,6 +4,8 @@
 
 The LLM generates review drafts only. It does not publish descriptions, write backend data, or decide factual conflicts.
 
+Publishing is a separate reviewed backend API step. See `docs/backend-publish-api.md`.
+
 ## Merge Eligibility
 
 Generate a draft only when:
@@ -136,3 +138,9 @@ After LLM output:
 - Reject markdown without source attribution.
 - Reject output containing unsupported provider commentary.
 - Force manual review when `riskLevel=high` or conflicts are non-empty.
+
+## Publish Boundary
+
+After validation, the merge worker may write a draft row, but it must not call the backend publish API directly.
+
+Only an approved draft should be eligible for backend publishing. The publisher should send the reviewed Markdown, source attributions, event IDs, and base description hash to the backend API so the backend can perform authorization, concurrency checks, and audit logging.

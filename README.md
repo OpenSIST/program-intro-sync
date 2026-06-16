@@ -12,7 +12,7 @@ It is intentionally separate from `OpenSIST.github.io`. The frontend should not 
 - Match external documents to OpenSIST `ProgramID`.
 - Store monitoring state and change events in Cloudflare D1.
 - Expose changed description candidates for downstream consumers.
-- Never write directly to the OpenSIST production backend.
+- Never write directly to the OpenSIST production backend from the monitor.
 
 ## Non-Goals
 
@@ -32,11 +32,13 @@ program-intro-sync/
     0001_initial.sql
   docs/
     AI_CODING_AGENT.md
+    current-status-summary.md
     architecture.md
     description-monitor.md
     sync-pipeline.md
     cloudflare-llm-research.md
     llm-merge-policy.md
+    llm-summary-evaluation.md
     data-model.md
     security-and-config.md
     memory/
@@ -52,7 +54,7 @@ program-intro-sync/
     utils/
 ```
 
-The current MVP implements the data monitor only. LLM merge, draft storage, review UI, and PR output are intentionally outside this service.
+The current MVP implements the data monitor only. LLM merge, draft storage, review UI, and backend publishing are intentionally outside this service.
 
 ## High-Level Pipeline
 
@@ -71,6 +73,8 @@ Cloudflare Worker Cron/manual trigger
 
 The monitoring core only records facts: source content hashes, match results, and change events. Data fetching and LLM merge are separate modules connected through stored D1 rows.
 
+The first scan may need multiple monitor runs. To stay inside Cloudflare Workers subrequest limits, the monitor batch-writes OpenSIST snapshots and downloads at most `MAX_RAW_DOWNLOADS_PER_SOURCE` new or changed Markdown files per source per run.
+
 ## Local Setup
 
 Install dependencies:
@@ -79,13 +83,23 @@ Install dependencies:
 npm install
 ```
 
-Create a D1 database and replace `database_id` in `wrangler.jsonc`:
+The Cloudflare account and D1 database are already configured in `wrangler.jsonc`:
 
-```sh
-wrangler d1 create program-intro-sync
+```txt
+account_id = c1e0d935e0f8ba4685b9b6702130efe7
+D1 database_name = program-intro-sync
+D1 database_id = 3073eab7-e1f8-4e1e-b171-33740db9ad20
+MAX_PROGRAM_UPSERTS_PER_RUN = 25
+MAX_RAW_DOWNLOADS_PER_SOURCE = 1
 ```
 
-Apply migrations:
+For a fresh Cloudflare account, create a database and replace `database_id` in `wrangler.jsonc`:
+
+```sh
+npx wrangler d1 create program-intro-sync
+```
+
+Apply local or remote migrations:
 
 ```sh
 npm run db:migrate:local
@@ -104,6 +118,12 @@ Run locally:
 
 ```sh
 npm run dev
+```
+
+Deploy:
+
+```sh
+npm run deploy
 ```
 
 Admin endpoints:
@@ -127,6 +147,7 @@ Authorization: Bearer <ADMIN_TOKEN>
 ## Documentation Map
 
 - [AI coding agent guide](docs/AI_CODING_AGENT.md): start here when asking an AI agent to work on this repo.
+- [Current status summary](docs/current-status-summary.md): concise snapshot of what is deployed, what works, and what should be fixed next.
 - [Project memory](docs/memory/project-memory.md): persistent context, decisions, and current state.
 - [Architecture](docs/architecture.md): boundaries, modules, and storage policy.
 - [Description monitor](docs/description-monitor.md): monitor scope, event types, and API shape.
@@ -134,4 +155,6 @@ Authorization: Bearer <ADMIN_TOKEN>
 - [Data model](docs/data-model.md): D1 tables and runtime data shapes.
 - [Security and config](docs/security-and-config.md): secrets, logging, license, and rate-limit rules.
 - [Cloudflare LLM research](docs/cloudflare-llm-research.md): Workers AI, AI Gateway, and pricing notes.
+- [LLM summary evaluation](docs/llm-summary-evaluation.md): local-only prompt experiments on existing D1 data.
 - [LLM merge policy](docs/llm-merge-policy.md): future DeepSeek/Qwen merge constraints.
+- [Backend publish API](docs/backend-publish-api.md): proposed replacement for PR-based publishing.

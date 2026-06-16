@@ -233,6 +233,11 @@ create table if not exists monitor_runs (
 
 The monitor does not store LLM merge drafts in the current MVP.
 
-When a downstream DeepSeek/AI Gateway merge worker is added, introduce a new migration for draft state instead of overloading `description_change_events`. See `docs/llm-merge-policy.md` for the expected merge input/output contract.
+When a downstream DeepSeek/AI Gateway merge worker is added, introduce a new migration for draft state instead of overloading `description_change_events`.
+
+Draft rows should be reviewed before any backend mutation. See:
+
+- `docs/llm-merge-policy.md` for the expected merge input/output contract.
+- `docs/backend-publish-api.md` for the reviewed backend publishing path.
 
 Then the body contains the LLM-generated review draft.

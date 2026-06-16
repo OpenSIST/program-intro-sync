@@ -10,6 +10,8 @@ export type Env = {
   ADMIN_TOKEN?: string;
   HIGH_CONFIDENCE?: string;
   LOW_CONFIDENCE?: string;
+  MAX_PROGRAM_UPSERTS_PER_RUN?: string;
+  MAX_RAW_DOWNLOADS_PER_SOURCE?: string;
 };
 
 export type SourceConfig = {

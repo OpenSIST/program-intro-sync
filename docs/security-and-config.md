@@ -74,7 +74,22 @@ If license is unknown:
 
 ## Config Files
 
-Recommended config:
+Current non-secret Cloudflare config lives in `wrangler.jsonc`.
+
+Configured resources:
+
+```txt
+account_id = c1e0d935e0f8ba4685b9b6702130efe7
+D1 binding = DB
+D1 database_name = program-intro-sync
+D1 database_id = 3073eab7-e1f8-4e1e-b171-33740db9ad20
+MAX_PROGRAM_UPSERTS_PER_RUN = 25
+MAX_RAW_DOWNLOADS_PER_SOURCE = 1
+```
+
+Remote D1 migration `0001_initial.sql` has already been applied.
+
+Legacy/future config files may be useful if config grows:
 
 ```txt
 config/sources.json
@@ -104,9 +119,30 @@ Secrets should be supplied by environment variables, not config files:
 
 ```txt
 OPENSIST_COOKIE
+GITHUB_TOKEN
+ADMIN_TOKEN
 ```
 
 LLM keys belong to the downstream merge service, not the monitor.
+
+## Deployment Checklist
+
+Before deploying the Worker:
+
+1. Confirm `wrangler.jsonc` points at the intended account and D1 database.
+2. Run `npm run typecheck`.
+3. Run `npm run db:migrate:remote` if migrations changed.
+4. Set secrets with `wrangler secret put`.
+5. Run `npm run deploy`.
+
+The current repo has completed steps 1-3. `ADMIN_TOKEN` has been generated locally, stored in ignored file `.admin-token`, and uploaded as a Worker secret.
+
+Current secret status:
+
+- `ADMIN_TOKEN` is set.
+- `OPENSIST_COOKIE` is set for the MVP.
+- Optionally set `GITHUB_TOKEN` if unauthenticated GitHub API limits become a problem.
+- Re-deploy after code/config changes.
 
 ## Rate Limits
 
@@ -115,6 +151,7 @@ For GitHub repos:
 - Prefer GitHub REST tree APIs and raw file downloads.
 - Use `GITHUB_TOKEN` to avoid low unauthenticated rate limits.
 - Download raw Markdown only for new or changed blobs.
+- Keep `MAX_RAW_DOWNLOADS_PER_SOURCE` bounded so the first scan can progress across multiple Worker invocations without hitting subrequest limits.
 
 For web sources:
 

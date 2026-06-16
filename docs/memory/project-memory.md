@@ -20,7 +20,7 @@ Reasons:
 
 - It pulls data from multiple places: OpenSIST backend, GitHub repos, and later possibly web pages.
 - It owns crawler/monitoring state and automation secrets.
-- It should output events and later PRs/drafts without coupling to frontend deploys.
+- It should output events and later drafts without coupling to frontend deploys.
 - It must not pollute OpenSIST backend data during MVP work.
 
 Current local path:
@@ -87,8 +87,60 @@ Merge Worker
 
 Review/Publisher
   -> human review
-  -> optional PR or backend update
+  -> backend publish API
 ```
+
+## Publishing Direction
+
+Program descriptions live in the OpenSIST backend database. A PR to the frontend repository is not the right primary publishing mechanism.
+
+The intended production path is:
+
+```txt
+description_change_events
+-> merge_drafts
+-> human review
+-> backend admin publish API
+```
+
+The monitor remains read-only. Backend publishing should be added only after a draft table and review step exist. See `docs/backend-publish-api.md`.
+
+## LLM Summary Evaluation Status
+
+A local-only summary evaluation workflow has been added.
+
+Files:
+
+- `prompts/llm-summary-system.md`
+- `scripts/evaluate-llm-summary/index.mjs`
+- `docs/llm-summary-evaluation.md`
+
+The script reads high-confidence source documents from remote D1 and writes local ignored results under `outputs/llm-summary-evals/`. Dry-run mode has been verified.
+
+Real AI calls require `CLOUDFLARE_API_TOKEN` or `CF_API_TOKEN` in the local environment.
+
+Current baseline model for evaluation:
+
+```txt
+@cf/meta/llama-3.3-70b-instruct-fp8-fast
+```
+
+Observed result:
+
+- AI Gateway / Workers AI path works.
+- Qwen3 and GLM reasoning models returned visible reasoning and consumed output tokens before producing final JSON.
+- Llama 3.3 70B fast produced strict JSON more reliably for this summary task.
+- Latest Harvard CSE local script sample wrote `outputs/llm-summary-evals/2026-06-16T08-46-11-669Z.json`.
+- That sample used `prompt_tokens=1125`, `completion_tokens=305`, `total_tokens=1430`.
+- Validation passed with no warnings.
+- A two-sample OpenCS batch hit a Cloudflare AI 408 timeout, so the script now records per-sample AI failures instead of aborting the whole run.
+
+Important finding:
+
+- `GlobalCS:docs/Program/T0.5/EPFL MSDH.md` was matched to `MSCS@EPFL` with high confidence.
+- This is a matcher false positive because MSDH is Digital Humanities, not MSCS.
+- The LLM summary set `shouldUseForDraft=false`, which is useful as a safety signal, but matcher logic must be fixed before merge drafts.
+- Next matcher work should add explicit program-code/name disagreement penalties and a fixture where `EPFL MSDH` must not match `MSCS@EPFL`.
 
 ## Pricing Research Memory
 
@@ -121,6 +173,7 @@ Verification already performed:
 - `npm install`
 - `npm run typecheck`
 - `npm run db:migrate:local`
+- `npm run db:migrate:remote`
 - `npm audit --omit=dev`
 
 Notes from verification:
@@ -128,6 +181,15 @@ Notes from verification:
 - `npm install` reported dev dependency audit findings, but `npm audit --omit=dev` reported zero production vulnerabilities.
 - Local `wrangler dev` reached `Ready` after setting `compatibility_date` to `2026-05-03`.
 - The environment used during implementation could not curl the local Wrangler port from another shell, likely due to proxy/sandbox isolation, so `/health` was not fully verified through HTTP.
+- Cloudflare account is configured in `wrangler.jsonc` as `c1e0d935e0f8ba4685b9b6702130efe7`.
+- Remote D1 database `program-intro-sync` was created in region `WNAM`.
+- Remote D1 database id is `3073eab7-e1f8-4e1e-b171-33740db9ad20`.
+- Remote migration `0001_initial.sql` was applied successfully.
+- Remote `sqlite_master` query confirmed these monitor tables exist: `sources`, `source_documents`, `opensist_program_snapshots`, `program_matches`, `description_change_events`, and `monitor_runs`.
+- First remote manual monitor run proved `OPENSIST_COOKIE` could fetch OpenSIST data and wrote 327 program snapshots, but failed before source scanning due to Cloudflare Workers subrequest limits.
+- The monitor was then updated to write only changed/new OpenSIST program snapshots, cap program snapshot writes with `MAX_PROGRAM_UPSERTS_PER_RUN=25`, and cap raw GitHub Markdown downloads with `MAX_RAW_DOWNLOADS_PER_SOURCE=1`, so first source ingestion can progress across multiple runs.
+- After that fix was deployed, manual monitor run `03e50966-b0ef-45ba-a859-6e47c26029e4` succeeded with `sourcesScanned=3`, `documentsSeen=26`, and `eventsCreated=2`.
+- Remote D1 counts after the successful run: `sources=3`, `source_documents=26`, `opensist_program_snapshots=327`, `description_change_events=26`.
 
 ## Secrets And Config
 
@@ -138,6 +200,24 @@ Expected Cloudflare secrets:
 - `ADMIN_TOKEN`: optional bearer token for admin endpoints.
 
 Do not commit real cookies, JWTs, provider API keys, raw request headers, or full private backend responses.
+
+## Cloudflare Deployment Status
+
+Done:
+
+- Wrangler login was completed on the local machine.
+- `wrangler.jsonc` includes the selected Cloudflare `account_id`.
+- Remote D1 database `program-intro-sync` exists.
+- Remote D1 migration `0001_initial.sql` has been applied.
+- Remote monitor tables were confirmed through `sqlite_master`.
+
+Additional status:
+
+- `ADMIN_TOKEN` was generated locally, saved in ignored file `.admin-token`, and uploaded as a Worker secret.
+- `OPENSIST_COOKIE` was uploaded as a Worker secret for the MVP.
+- Worker was deployed and `/health` plus admin auth were verified.
+- `GITHUB_TOKEN` remains optional; set it only if unauthenticated GitHub API limits become a problem.
+- Run manual monitor passes until first source ingestion catches up.
 
 ## Event Semantics
 
@@ -159,6 +239,7 @@ Downstream services should query pending events and mark them `consumed`, `ignor
 ## Known Limitations
 
 - Matcher is deterministic and conservative; it needs more aliases and evaluation data.
+- Current matcher can over-score same-university but different-program sources, e.g. `EPFL MSDH` -> `MSCS@EPFL`.
 - GitHub tree fetch currently fails if GitHub returns a truncated recursive tree.
 - Source license labels for GlobalCS and CSGrad still need confirmation.
 - The monitor does not store full source Markdown, so a future merge service may need to re-fetch source content by `source_url`/`source_commit`.

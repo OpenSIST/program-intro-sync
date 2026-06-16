@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "program-intro-sync",
+  "account_id": "c1e0d935e0f8ba4685b9b6702130efe7",
   "main": "src/index.ts",
   "compatibility_date": "2026-05-03",
   "triggers": {
@@ -9,13 +10,15 @@
   "vars": {
     "OPENSIST_API_ROOT": "https://alpha.opensist.tech/",
     "HIGH_CONFIDENCE": "0.72",
-    "LOW_CONFIDENCE": "0.45"
+    "LOW_CONFIDENCE": "0.45",
+    "MAX_PROGRAM_UPSERTS_PER_RUN": "25",
+    "MAX_RAW_DOWNLOADS_PER_SOURCE": "1"
   },
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "program-intro-sync",
-      "database_id": "REPLACE_WITH_D1_DATABASE_ID"
+      "database_id": "3073eab7-e1f8-4e1e-b171-33740db9ad20"
     }
   ]
 }

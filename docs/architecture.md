@@ -67,9 +67,9 @@ Only changed items should go into LLM merge.
 
 ### Change Event Store
 
-The monitor writes immutable-ish change events to D1. Downstream systems can query these rows later to run LLM merge, manual review, notifications, or PR creation.
+The monitor writes immutable-ish change events to D1. Downstream systems can query these rows later to run LLM merge, manual review, notifications, or backend publishing.
 
-The monitoring core does not call an LLM and does not create PRs.
+The monitoring core does not call an LLM and does not publish to the backend.
 
 ## Data Flow
 
