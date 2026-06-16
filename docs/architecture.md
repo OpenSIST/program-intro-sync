@@ -74,20 +74,20 @@ The monitoring core does not call an LLM and does not create PRs.
 ## Data Flow
 
 ```txt
-fetchExternalSources()
-  -> SourceDoc[]
-
 fetchOpenSistPrograms()
-  -> Program[]
+  -> upsert opensist_program_snapshots
 
-matchSources(SourceDoc[], Program[])
-  -> MatchedSourceDoc[]
+for each configured source:
+  upsert sources
+  list existing source_documents
+  discoverGitHubSource()
+    -> SourceDoc[]
+  upsert source_documents
+  matchProgram(SourceDoc, OpenSistProgram[])
+    -> program_matches
+  insert idempotent description_change_events
 
-detectChanges(MatchedSourceDoc[], SourceState)
-  -> ChangeSet
-
-persistChanges(ChangeSet)
-  -> D1 rows
+finish monitor_runs
 ```
 
 ## Storage
@@ -100,6 +100,7 @@ Recommended storage:
 D1 tables:
 - sources
 - source_documents
+- opensist_program_snapshots
 - program_matches
 - description_change_events
 - monitor_runs

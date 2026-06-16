@@ -112,8 +112,9 @@ LLM keys belong to the downstream merge service, not the monitor.
 
 For GitHub repos:
 
-- Prefer shallow clones or GitHub compare API.
-- Cache repos during a single run.
+- Prefer GitHub REST tree APIs and raw file downloads.
+- Use `GITHUB_TOKEN` to avoid low unauthenticated rate limits.
+- Download raw Markdown only for new or changed blobs.
 
 For web sources:
 
