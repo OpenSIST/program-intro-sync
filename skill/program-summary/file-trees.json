@@ -1,0 +1,1344 @@
+{
+  "OpenCS": [
+    {
+      "name": "2023fall CS PhD 美国申请总结 by Flash.md",
+      "path": "docs/2023fall CS PhD 美国申请总结 by Flash.md"
+    },
+    {
+      "name": "2025fall游戏开发美硕申请总结 by skx.md",
+      "path": "docs/2025fall游戏开发美硕申请总结 by skx.md"
+    },
+    {
+      "name": "22fall申请季总结 by Flash.md",
+      "path": "docs/22fall申请季总结 by Flash.md"
+    },
+    {
+      "name": "BCS@UBC.md",
+      "path": "docs/BCS@UBC.md"
+    },
+    {
+      "name": "Big Data@SFU.md",
+      "path": "docs/Big Data@SFU.md"
+    },
+    {
+      "name": "CAS MEng@McMaster.md",
+      "path": "docs/CAS MEng@McMaster.md"
+    },
+    {
+      "name": "CE MEng@TAMU.md",
+      "path": "docs/CE MEng@TAMU.md"
+    },
+    {
+      "name": "CE@NYU Tandon.md",
+      "path": "docs/CE@NYU Tandon.md"
+    },
+    {
+      "name": "CGGT@UPenn.md",
+      "path": "docs/CGGT@UPenn.md"
+    },
+    {
+      "name": "CM@Cornell Tech.md",
+      "path": "docs/CM@Cornell Tech.md"
+    },
+    {
+      "name": "CS Align@NEU.md",
+      "path": "docs/CS Align@NEU.md"
+    },
+    {
+      "name": "CS General@NEU.md",
+      "path": "docs/CS General@NEU.md"
+    },
+    {
+      "name": "CS Meng@Cornell Tech.md",
+      "path": "docs/CS Meng@Cornell Tech.md"
+    },
+    {
+      "name": "CS Meng@Cornell.md",
+      "path": "docs/CS Meng@Cornell.md"
+    },
+    {
+      "name": "CS Meng@VT.md",
+      "path": "docs/CS Meng@VT.md"
+    },
+    {
+      "name": "CS PhD&Master F1签证.md",
+      "path": "docs/CS PhD&Master F1签证.md"
+    },
+    {
+      "name": "CS-PMP@Wisc.md",
+      "path": "docs/CS-PMP@Wisc.md"
+    },
+    {
+      "name": "CS28@USC.md",
+      "path": "docs/CS28@USC.md"
+    },
+    {
+      "name": "CS37@USC.md",
+      "path": "docs/CS37@USC.md"
+    },
+    {
+      "name": "CS75@UCSD.md",
+      "path": "docs/CS75@UCSD.md"
+    },
+    {
+      "name": "CSDA@Dartmouth.md",
+      "path": "docs/CSDA@Dartmouth.md"
+    },
+    {
+      "name": "CSE@GaTech.md",
+      "path": "docs/CSE@GaTech.md"
+    },
+    {
+      "name": "CSE@Harvard.md",
+      "path": "docs/CSE@Harvard.md"
+    },
+    {
+      "name": "CSE@MIT.md",
+      "path": "docs/CSE@MIT.md"
+    },
+    {
+      "name": "Cybersecurity@SFU.md",
+      "path": "docs/Cybersecurity@SFU.md"
+    },
+    {
+      "name": "DS75@UCSD.md",
+      "path": "docs/DS75@UCSD.md"
+    },
+    {
+      "name": "DS@Columbia.md",
+      "path": "docs/DS@Columbia.md"
+    },
+    {
+      "name": "DS@Harvard.md",
+      "path": "docs/DS@Harvard.md"
+    },
+    {
+      "name": "DS@NYU.md",
+      "path": "docs/DS@NYU.md"
+    },
+    {
+      "name": "DS@UMich.md",
+      "path": "docs/DS@UMich.md"
+    },
+    {
+      "name": "DS@UPenn.md",
+      "path": "docs/DS@UPenn.md"
+    },
+    {
+      "name": "EC79@UCSD.md",
+      "path": "docs/EC79@UCSD.md"
+    },
+    {
+      "name": "EC82@UCSD.md",
+      "path": "docs/EC82@UCSD.md"
+    },
+    {
+      "name": "EC93@UCSD.md",
+      "path": "docs/EC93@UCSD.md"
+    },
+    {
+      "name": "ECE MEng@Cornell.md",
+      "path": "docs/ECE MEng@Cornell.md"
+    },
+    {
+      "name": "ECE MEng@Western.md",
+      "path": "docs/ECE MEng@Western.md"
+    },
+    {
+      "name": "ECE MEng@uAlberta.md",
+      "path": "docs/ECE MEng@uAlberta.md"
+    },
+    {
+      "name": "ECE MEng@uOttawa.md",
+      "path": "docs/ECE MEng@uOttawa.md"
+    },
+    {
+      "name": "ECE Meng(coop)@Waterloo.md",
+      "path": "docs/ECE Meng(coop)@Waterloo.md"
+    },
+    {
+      "name": "ECE Meng@UBC.md",
+      "path": "docs/ECE Meng@UBC.md"
+    },
+    {
+      "name": "ECE Meng@UIUC.md",
+      "path": "docs/ECE Meng@UIUC.md"
+    },
+    {
+      "name": "ECE Meng@UofT.md",
+      "path": "docs/ECE Meng@UofT.md"
+    },
+    {
+      "name": "ECE Meng@Waterloo.md",
+      "path": "docs/ECE Meng@Waterloo.md"
+    },
+    {
+      "name": "ECE@CMU.md",
+      "path": "docs/ECE@CMU.md"
+    },
+    {
+      "name": "ECE@Duke-Kunshan.md",
+      "path": "docs/ECE@Duke-Kunshan.md"
+    },
+    {
+      "name": "ECE@Duke.md",
+      "path": "docs/ECE@Duke.md"
+    },
+    {
+      "name": "ECE@GaTech-Shenzhen.md",
+      "path": "docs/ECE@GaTech-Shenzhen.md"
+    },
+    {
+      "name": "ECE@GaTech.md",
+      "path": "docs/ECE@GaTech.md"
+    },
+    {
+      "name": "ECE@UT Austin.md",
+      "path": "docs/ECE@UT Austin.md"
+    },
+    {
+      "name": "EE-PMP@UW.md",
+      "path": "docs/EE-PMP@UW.md"
+    },
+    {
+      "name": "EE@Stanford.md",
+      "path": "docs/EE@Stanford.md"
+    },
+    {
+      "name": "EECS Meng@Berkeley.md",
+      "path": "docs/EECS Meng@Berkeley.md"
+    },
+    {
+      "name": "ICME@Stanford.md",
+      "path": "docs/ICME@Stanford.md"
+    },
+    {
+      "name": "IS@NEU.md",
+      "path": "docs/IS@NEU.md"
+    },
+    {
+      "name": "IS@Pitt.md",
+      "path": "docs/IS@Pitt.md"
+    },
+    {
+      "name": "ISB@NEU.md",
+      "path": "docs/ISB@NEU.md"
+    },
+    {
+      "name": "MACS@Dalhousie.md",
+      "path": "docs/MACS@Dalhousie.md"
+    },
+    {
+      "name": "MCDS@CMU.md",
+      "path": "docs/MCDS@CMU.md"
+    },
+    {
+      "name": "MCIS@UPenn.md",
+      "path": "docs/MCIS@UPenn.md"
+    },
+    {
+      "name": "MCIT@UPenn.md",
+      "path": "docs/MCIT@UPenn.md"
+    },
+    {
+      "name": "MCS@NCSU.md",
+      "path": "docs/MCS@NCSU.md"
+    },
+    {
+      "name": "MCS@Rice.md",
+      "path": "docs/MCS@Rice.md"
+    },
+    {
+      "name": "MCS@TAMU.md",
+      "path": "docs/MCS@TAMU.md"
+    },
+    {
+      "name": "MCS@UCI.md",
+      "path": "docs/MCS@UCI.md"
+    },
+    {
+      "name": "MCS@UIUC.md",
+      "path": "docs/MCS@UIUC.md"
+    },
+    {
+      "name": "MCS@UVa.md",
+      "path": "docs/MCS@UVa.md"
+    },
+    {
+      "name": "MCS@uOttawa.md",
+      "path": "docs/MCS@uOttawa.md"
+    },
+    {
+      "name": "MDSAI@Waterloo.md",
+      "path": "docs/MDSAI@Waterloo.md"
+    },
+    {
+      "name": "MEng Soft@uCalgary.md",
+      "path": "docs/MEng Soft@uCalgary.md"
+    },
+    {
+      "name": "MEng@UCLA.md",
+      "path": "docs/MEng@UCLA.md"
+    },
+    {
+      "name": "MI@UofT.md",
+      "path": "docs/MI@UofT.md"
+    },
+    {
+      "name": "MIIS@CMU.md",
+      "path": "docs/MIIS@CMU.md"
+    },
+    {
+      "name": "MISM@CMU.md",
+      "path": "docs/MISM@CMU.md"
+    },
+    {
+      "name": "MITS@CMU.md",
+      "path": "docs/MITS@CMU.md"
+    },
+    {
+      "name": "MLT@CMU.md",
+      "path": "docs/MLT@CMU.md"
+    },
+    {
+      "name": "MMath@Waterloo.md",
+      "path": "docs/MMath@Waterloo.md"
+    },
+    {
+      "name": "MPCS@UChicago.md",
+      "path": "docs/MPCS@UChicago.md"
+    },
+    {
+      "name": "MPS-IS@Cornell.md",
+      "path": "docs/MPS-IS@Cornell.md"
+    },
+    {
+      "name": "MPhil-CSE@HKUST.md",
+      "path": "docs/MPhil-CSE@HKUST.md"
+    },
+    {
+      "name": "MS&E@Stanford.md",
+      "path": "docs/MS&E@Stanford.md"
+    },
+    {
+      "name": "MSAII@CMU.md",
+      "path": "docs/MSAII@CMU.md"
+    },
+    {
+      "name": "MSCS&SE@UWB.md",
+      "path": "docs/MSCS&SE@UWB.md"
+    },
+    {
+      "name": "MSCS@BC.md",
+      "path": "docs/MSCS@BC.md"
+    },
+    {
+      "name": "MSCS@BU.md",
+      "path": "docs/MSCS@BU.md"
+    },
+    {
+      "name": "MSCS@Berkeley.md",
+      "path": "docs/MSCS@Berkeley.md"
+    },
+    {
+      "name": "MSCS@Brandeis.md",
+      "path": "docs/MSCS@Brandeis.md"
+    },
+    {
+      "name": "MSCS@CMU.md",
+      "path": "docs/MSCS@CMU.md"
+    },
+    {
+      "name": "MSCS@Columbia.md",
+      "path": "docs/MSCS@Columbia.md"
+    },
+    {
+      "name": "MSCS@Cornell.md",
+      "path": "docs/MSCS@Cornell.md"
+    },
+    {
+      "name": "MSCS@Dartmouth.md",
+      "path": "docs/MSCS@Dartmouth.md"
+    },
+    {
+      "name": "MSCS@Duke.md",
+      "path": "docs/MSCS@Duke.md"
+    },
+    {
+      "name": "MSCS@Emory.md",
+      "path": "docs/MSCS@Emory.md"
+    },
+    {
+      "name": "MSCS@GWU.md",
+      "path": "docs/MSCS@GWU.md"
+    },
+    {
+      "name": "MSCS@GaTech.md",
+      "path": "docs/MSCS@GaTech.md"
+    },
+    {
+      "name": "MSCS@NWU.md",
+      "path": "docs/MSCS@NWU.md"
+    },
+    {
+      "name": "MSCS@NYU Courant.md",
+      "path": "docs/MSCS@NYU Courant.md"
+    },
+    {
+      "name": "MSCS@NYU Tandon.md",
+      "path": "docs/MSCS@NYU Tandon.md"
+    },
+    {
+      "name": "MSCS@Purdue.md",
+      "path": "docs/MSCS@Purdue.md"
+    },
+    {
+      "name": "MSCS@Rutgers.md",
+      "path": "docs/MSCS@Rutgers.md"
+    },
+    {
+      "name": "MSCS@SBU.md",
+      "path": "docs/MSCS@SBU.md"
+    },
+    {
+      "name": "MSCS@SCU.md",
+      "path": "docs/MSCS@SCU.md"
+    },
+    {
+      "name": "MSCS@SIT.md",
+      "path": "docs/MSCS@SIT.md"
+    },
+    {
+      "name": "MSCS@SMU.md",
+      "path": "docs/MSCS@SMU.md"
+    },
+    {
+      "name": "MSCS@Stanford.md",
+      "path": "docs/MSCS@Stanford.md"
+    },
+    {
+      "name": "MSCS@Syracuse.md",
+      "path": "docs/MSCS@Syracuse.md"
+    },
+    {
+      "name": "MSCS@TAMU.md",
+      "path": "docs/MSCS@TAMU.md"
+    },
+    {
+      "name": "MSCS@Tufts.md",
+      "path": "docs/MSCS@Tufts.md"
+    },
+    {
+      "name": "MSCS@UBC.md",
+      "path": "docs/MSCS@UBC.md"
+    },
+    {
+      "name": "MSCS@UCD.md",
+      "path": "docs/MSCS@UCD.md"
+    },
+    {
+      "name": "MSCS@UCLA.md",
+      "path": "docs/MSCS@UCLA.md"
+    },
+    {
+      "name": "MSCS@UCSB.md",
+      "path": "docs/MSCS@UCSB.md"
+    },
+    {
+      "name": "MSCS@UF.md",
+      "path": "docs/MSCS@UF.md"
+    },
+    {
+      "name": "MSCS@UIUC.md",
+      "path": "docs/MSCS@UIUC.md"
+    },
+    {
+      "name": "MSCS@UMD.md",
+      "path": "docs/MSCS@UMD.md"
+    },
+    {
+      "name": "MSCS@UMN.md",
+      "path": "docs/MSCS@UMN.md"
+    },
+    {
+      "name": "MSCS@UMass.md",
+      "path": "docs/MSCS@UMass.md"
+    },
+    {
+      "name": "MSCS@UT-Austin.md",
+      "path": "docs/MSCS@UT-Austin.md"
+    },
+    {
+      "name": "MSCS@UTD.md",
+      "path": "docs/MSCS@UTD.md"
+    },
+    {
+      "name": "MSCS@UVa.md",
+      "path": "docs/MSCS@UVa.md"
+    },
+    {
+      "name": "MSCS@Vanderbilt.md",
+      "path": "docs/MSCS@Vanderbilt.md"
+    },
+    {
+      "name": "MSCS@Virginia Tech.md",
+      "path": "docs/MSCS@Virginia Tech.md"
+    },
+    {
+      "name": "MSCS@WUSTL.md",
+      "path": "docs/MSCS@WUSTL.md"
+    },
+    {
+      "name": "MSCS@Western.md",
+      "path": "docs/MSCS@Western.md"
+    },
+    {
+      "name": "MSCS@Wisc.md",
+      "path": "docs/MSCS@Wisc.md"
+    },
+    {
+      "name": "MSCS@uAlberta.md",
+      "path": "docs/MSCS@uAlberta.md"
+    },
+    {
+      "name": "MSCS@uCalgary.md",
+      "path": "docs/MSCS@uCalgary.md"
+    },
+    {
+      "name": "MSCSE@OSU.md",
+      "path": "docs/MSCSE@OSU.md"
+    },
+    {
+      "name": "MSCSE@PSU.md",
+      "path": "docs/MSCSE@PSU.md"
+    },
+    {
+      "name": "MSCSE@UCSC.md",
+      "path": "docs/MSCSE@UCSC.md"
+    },
+    {
+      "name": "MSCSE@UMich.md",
+      "path": "docs/MSCSE@UMich.md"
+    },
+    {
+      "name": "MSCSS@UWT.md",
+      "path": "docs/MSCSS@UWT.md"
+    },
+    {
+      "name": "MSCV@CMU.md",
+      "path": "docs/MSCV@CMU.md"
+    },
+    {
+      "name": "MSD@Utah.md",
+      "path": "docs/MSD@Utah.md"
+    },
+    {
+      "name": "MSE-SS@CMU.md",
+      "path": "docs/MSE-SS@CMU.md"
+    },
+    {
+      "name": "MSECE@UIUC.md",
+      "path": "docs/MSECE@UIUC.md"
+    },
+    {
+      "name": "MSECS@JHU.md",
+      "path": "docs/MSECS@JHU.md"
+    },
+    {
+      "name": "MSECS@Princeton.md",
+      "path": "docs/MSECS@Princeton.md"
+    },
+    {
+      "name": "MSIM@UIUC.md",
+      "path": "docs/MSIM@UIUC.md"
+    },
+    {
+      "name": "MSIN@CMU.md",
+      "path": "docs/MSIN@CMU.md"
+    },
+    {
+      "name": "MSIS@NYU Courant.md",
+      "path": "docs/MSIS@NYU Courant.md"
+    },
+    {
+      "name": "MSIS@UNC.md",
+      "path": "docs/MSIS@UNC.md"
+    },
+    {
+      "name": "MSMITE@CMU.md",
+      "path": "docs/MSMITE@CMU.md"
+    },
+    {
+      "name": "MSML@CMU.md",
+      "path": "docs/MSML@CMU.md"
+    },
+    {
+      "name": "MSR@CMU.md",
+      "path": "docs/MSR@CMU.md"
+    },
+    {
+      "name": "MSWE@UCI.md",
+      "path": "docs/MSWE@UCI.md"
+    },
+    {
+      "name": "MSc@UofT.md",
+      "path": "docs/MSc@UofT.md"
+    },
+    {
+      "name": "MScAc@UofT.md",
+      "path": "docs/MScAc@UofT.md"
+    },
+    {
+      "name": "NetSys@UCI.md",
+      "path": "docs/NetSys@UCI.md"
+    },
+    {
+      "name": "One-Year MSCS@Yale.md",
+      "path": "docs/One-Year MSCS@Yale.md"
+    },
+    {
+      "name": "PCP@Wisc.md",
+      "path": "docs/PCP@Wisc.md"
+    },
+    {
+      "name": "SES@NEU.md",
+      "path": "docs/SES@NEU.md"
+    },
+    {
+      "name": "SESV@CMU.md",
+      "path": "docs/SESV@CMU.md"
+    },
+    {
+      "name": "ScM CS@Brown.md",
+      "path": "docs/ScM CS@Brown.md"
+    },
+    {
+      "name": "Two-Year MSCS@Yale.md",
+      "path": "docs/Two-Year MSCS@Yale.md"
+    },
+    {
+      "name": "Visual Computing@SFU.md",
+      "path": "docs/Visual Computing@SFU.md"
+    },
+    {
+      "name": "alumni.md",
+      "path": "docs/alumni.md"
+    },
+    {
+      "name": "blog.md",
+      "path": "docs/blog.md"
+    },
+    {
+      "name": "contribute.md",
+      "path": "docs/contribute.md"
+    },
+    {
+      "name": "contributor.md",
+      "path": "docs/contributor.md"
+    },
+    {
+      "name": "datapoints.md",
+      "path": "docs/datapoints.md"
+    },
+    {
+      "name": "faq.md",
+      "path": "docs/faq.md"
+    },
+    {
+      "name": "guide.md",
+      "path": "docs/guide.md"
+    },
+    {
+      "name": "link.md",
+      "path": "docs/link.md"
+    },
+    {
+      "name": "newapplicant.md",
+      "path": "docs/newapplicant.md"
+    },
+    {
+      "name": "newdatapoints.md",
+      "path": "docs/newdatapoints.md"
+    },
+    {
+      "name": "newprogram.md",
+      "path": "docs/newprogram.md"
+    },
+    {
+      "name": "newprogress.md",
+      "path": "docs/newprogress.md"
+    },
+    {
+      "name": "newvisa.md",
+      "path": "docs/newvisa.md"
+    },
+    {
+      "name": "phdinfo.md",
+      "path": "docs/phdinfo.md"
+    },
+    {
+      "name": "program_info.md",
+      "path": "docs/program_info.md"
+    },
+    {
+      "name": "sponsor.md",
+      "path": "docs/sponsor.md"
+    },
+    {
+      "name": "submit.md",
+      "path": "docs/submit.md"
+    },
+    {
+      "name": "zen.md",
+      "path": "docs/zen.md"
+    },
+    {
+      "name": "加拿大study permit安调情况 by Flash.md",
+      "path": "docs/加拿大study permit安调情况 by Flash.md"
+    },
+    {
+      "name": "北美CS PhD申请回忆 by denghilbert.md",
+      "path": "docs/北美CS PhD申请回忆 by denghilbert.md"
+    }
+  ],
+  "GlobalCS": [
+    {
+      "name": "EPFL MSDH.md",
+      "path": "docs/Program/T0.5/EPFL MSDH.md"
+    },
+    {
+      "name": "Cambridge ACS.md",
+      "path": "docs/Program/T0/Cambridge ACS.md"
+    },
+    {
+      "name": "Cambridge MLMI.md",
+      "path": "docs/Program/T0/Cambridge MLMI.md"
+    },
+    {
+      "name": "EPFL MSCS.md",
+      "path": "docs/Program/T0/EPFL MSCS.md"
+    },
+    {
+      "name": "ETH Cyber Security.md",
+      "path": "docs/Program/T0/ETH Cyber Security.md"
+    },
+    {
+      "name": "ETH MSCS.md",
+      "path": "docs/Program/T0/ETH MSCS.md"
+    },
+    {
+      "name": "ETH MSDS.md",
+      "path": "docs/Program/T0/ETH MSDS.md"
+    },
+    {
+      "name": "Oxford ACS.md",
+      "path": "docs/Program/T0/Oxford ACS.md"
+    },
+    {
+      "name": "UCL CSML MSc.md",
+      "path": "docs/Program/T0/UCL CSML MSc.md"
+    },
+    {
+      "name": "Aarhus CS.md",
+      "path": "docs/Program/T1.5/Aarhus CS.md"
+    },
+    {
+      "name": "CTH CSN.md",
+      "path": "docs/Program/T1.5/CTH CSN.md"
+    },
+    {
+      "name": "CTH DSAI.md",
+      "path": "docs/Program/T1.5/CTH DSAI.md"
+    },
+    {
+      "name": "CTH SE.md",
+      "path": "docs/Program/T1.5/CTH SE.md"
+    },
+    {
+      "name": "CUHK CS Msc.md",
+      "path": "docs/Program/T1.5/CUHK CS Msc.md"
+    },
+    {
+      "name": "CUHK IE.md",
+      "path": "docs/Program/T1.5/CUHK IE.md"
+    },
+    {
+      "name": "EIT欧盟奖学金.md",
+      "path": "docs/Program/T1.5/EIT欧盟奖学金.md"
+    },
+    {
+      "name": "EM欧盟奖学金.md",
+      "path": "docs/Program/T1.5/EM欧盟奖学金.md"
+    },
+    {
+      "name": "Edinburgh CS.md",
+      "path": "docs/Program/T1.5/Edinburgh CS.md"
+    },
+    {
+      "name": "HKU CS Msc.md",
+      "path": "docs/Program/T1.5/HKU CS Msc.md"
+    },
+    {
+      "name": "HKUST BDT.md",
+      "path": "docs/Program/T1.5/HKUST BDT.md"
+    },
+    {
+      "name": "HKUST IT.md",
+      "path": "docs/Program/T1.5/HKUST IT.md"
+    },
+    {
+      "name": "KU CS.md",
+      "path": "docs/Program/T1.5/KU CS.md"
+    },
+    {
+      "name": "LMU Informatics.md",
+      "path": "docs/Program/T1.5/LMU Informatics.md"
+    },
+    {
+      "name": "NTU Cyber Security.md",
+      "path": "docs/Program/T1.5/NTU Cyber Security.md"
+    },
+    {
+      "name": "NTU MSAI.md",
+      "path": "docs/Program/T1.5/NTU MSAI.md"
+    },
+    {
+      "name": "NTU MSDS.md",
+      "path": "docs/Program/T1.5/NTU MSDS.md"
+    },
+    {
+      "name": "NUS Mcomp.md",
+      "path": "docs/Program/T1.5/NUS Mcomp.md"
+    },
+    {
+      "name": "TUE CS.md",
+      "path": "docs/Program/T1.5/TUE CS.md"
+    },
+    {
+      "name": "UCL CGVI.md",
+      "path": "docs/Program/T1.5/UCL CGVI.md"
+    },
+    {
+      "name": "UCL CS Msc.md",
+      "path": "docs/Program/T1.5/UCL CS Msc.md"
+    },
+    {
+      "name": "UH CS.md",
+      "path": "docs/Program/T1.5/UH CS.md"
+    },
+    {
+      "name": "UH DS.md",
+      "path": "docs/Program/T1.5/UH DS.md"
+    },
+    {
+      "name": "University of Heidelberg DCS.md",
+      "path": "docs/Program/T1.5/University of Heidelberg DCS.md"
+    },
+    {
+      "name": "Aalto CS.md",
+      "path": "docs/Program/T1/Aalto CS.md"
+    },
+    {
+      "name": "Aalto HCI.md",
+      "path": "docs/Program/T1/Aalto HCI.md"
+    },
+    {
+      "name": "Aalto MLDSAI.md",
+      "path": "docs/Program/T1/Aalto MLDSAI.md"
+    },
+    {
+      "name": "Edinburgh AI.md",
+      "path": "docs/Program/T1/Edinburgh AI.md"
+    },
+    {
+      "name": "IC AC.md",
+      "path": "docs/Program/T1/IC AC.md"
+    },
+    {
+      "name": "IC AIML.md",
+      "path": "docs/Program/T1/IC AIML.md"
+    },
+    {
+      "name": "KTH MSCS.md",
+      "path": "docs/Program/T1/KTH MSCS.md"
+    },
+    {
+      "name": "KTH MSML.md",
+      "path": "docs/Program/T1/KTH MSML.md"
+    },
+    {
+      "name": "Polimi CSE.md",
+      "path": "docs/Program/T1/Polimi CSE.md"
+    },
+    {
+      "name": "TUD MSCESE.md",
+      "path": "docs/Program/T1/TUD MSCESE.md"
+    },
+    {
+      "name": "TUD MSCS.md",
+      "path": "docs/Program/T1/TUD MSCS.md"
+    },
+    {
+      "name": "UCL DSML MSc.md",
+      "path": "docs/Program/T1/UCL DSML MSc.md"
+    },
+    {
+      "name": "UCL ML MSc.md",
+      "path": "docs/Program/T1/UCL ML MSc.md"
+    },
+    {
+      "name": "UvA AI.md",
+      "path": "docs/Program/T1/UvA AI.md"
+    },
+    {
+      "name": "CTH CAS.md",
+      "path": "docs/Program/T2/CTH CAS.md"
+    },
+    {
+      "name": "DTU AI.md",
+      "path": "docs/Program/T2/DTU AI.md"
+    },
+    {
+      "name": "DTU CS.md",
+      "path": "docs/Program/T2/DTU CS.md"
+    },
+    {
+      "name": "FAU AI.md",
+      "path": "docs/Program/T2/FAU AI.md"
+    },
+    {
+      "name": "NUS CE.md",
+      "path": "docs/Program/T2/NUS CE.md"
+    },
+    {
+      "name": "NUS DSML.md",
+      "path": "docs/Program/T2/NUS DSML.md"
+    },
+    {
+      "name": "SMU MITB.md",
+      "path": "docs/Program/T2/SMU MITB.md"
+    },
+    {
+      "name": "TU Graz CS.md",
+      "path": "docs/Program/T2/TU Graz CS.md"
+    },
+    {
+      "name": "TU Wien CS.md",
+      "path": "docs/Program/T2/TU Wien CS.md"
+    },
+    {
+      "name": "University of Vienna DS.md",
+      "path": "docs/Program/T2/University of Vienna DS.md"
+    },
+    {
+      "name": "Uppsala CS.md",
+      "path": "docs/Program/T2/Uppsala CS.md"
+    },
+    {
+      "name": "UvA&VU CS.md",
+      "path": "docs/Program/T2/UvA&VU CS.md"
+    },
+    {
+      "name": "IPP DSAI.md",
+      "path": "docs/Program/TX/IPP DSAI.md"
+    },
+    {
+      "name": "KAIST CS.md",
+      "path": "docs/Program/TX/KAIST CS.md"
+    },
+    {
+      "name": "KAUST CS Msc.md",
+      "path": "docs/Program/TX/KAUST CS Msc.md"
+    },
+    {
+      "name": "Keio GSMG.md",
+      "path": "docs/Program/TX/Keio GSMG.md"
+    },
+    {
+      "name": "Keio IGP.md",
+      "path": "docs/Program/TX/Keio IGP.md"
+    },
+    {
+      "name": "Keio KMD.md",
+      "path": "docs/Program/TX/Keio KMD.md"
+    },
+    {
+      "name": "Keio SDM.md",
+      "path": "docs/Program/TX/Keio SDM.md"
+    },
+    {
+      "name": "L'X AiViC.md",
+      "path": "docs/Program/TX/L'X AiViC.md"
+    },
+    {
+      "name": "TUM CS.md",
+      "path": "docs/Program/TX/TUM CS.md"
+    },
+    {
+      "name": "UTokyo CS.md",
+      "path": "docs/Program/TX/UTokyo CS.md"
+    },
+    {
+      "name": "UZH AI.md",
+      "path": "docs/Program/TX/UZH AI.md"
+    },
+    {
+      "name": "UZH CS.md",
+      "path": "docs/Program/TX/UZH CS.md"
+    },
+    {
+      "name": "UZH DS.md",
+      "path": "docs/Program/TX/UZH DS.md"
+    },
+    {
+      "name": "University of Bonn CS.md",
+      "path": "docs/Program/TX/University of Bonn CS.md"
+    },
+    {
+      "name": "University of Stuttgart CS.md",
+      "path": "docs/Program/TX/University of Stuttgart CS.md"
+    },
+    {
+      "name": "Waseda AO.md",
+      "path": "docs/Program/TX/Waseda AO.md"
+    },
+    {
+      "name": "Waseda IPS.md",
+      "path": "docs/Program/TX/Waseda IPS.md"
+    }
+  ],
+  "CSGrad": [
+    {
+      "name": "Duke mscs.md",
+      "path": "docs/A+/Duke mscs.md"
+    },
+    {
+      "name": "Gatech CSE.md",
+      "path": "docs/A+/Gatech CSE.md"
+    },
+    {
+      "name": "UCLA MENG.md",
+      "path": "docs/A+/UCLA MENG.md"
+    },
+    {
+      "name": "UCLA MSCS.md",
+      "path": "docs/A+/UCLA MSCS.md"
+    },
+    {
+      "name": "Upenn CIS.md",
+      "path": "docs/A+/Upenn CIS.md"
+    },
+    {
+      "name": "Upenn DS.md",
+      "path": "docs/A+/Upenn DS.md"
+    },
+    {
+      "name": "Upenn MSR.md",
+      "path": "docs/A+/Upenn MSR.md"
+    },
+    {
+      "name": "Wisc CS PMP.md",
+      "path": "docs/A+/Wisc CS PMP.md"
+    },
+    {
+      "name": "ucsd cs75.md",
+      "path": "docs/A+/ucsd cs75.md"
+    },
+    {
+      "name": "ut ece.md",
+      "path": "docs/A+/ut ece.md"
+    },
+    {
+      "name": "CMU MSESS.md",
+      "path": "docs/A-/CMU MSESS.md"
+    },
+    {
+      "name": "Columbia DS.md",
+      "path": "docs/A-/Columbia DS.md"
+    },
+    {
+      "name": "Columbia ce.md",
+      "path": "docs/A-/Columbia ce.md"
+    },
+    {
+      "name": "Gatech ECE.md",
+      "path": "docs/A-/Gatech ECE.md"
+    },
+    {
+      "name": "NYU DS.md",
+      "path": "docs/A-/NYU DS.md"
+    },
+    {
+      "name": "UCSB MSCS.md",
+      "path": "docs/A-/UCSB MSCS.md"
+    },
+    {
+      "name": "Ucsd EC79.md",
+      "path": "docs/A-/Ucsd EC79.md"
+    },
+    {
+      "name": "brown scmcs.md",
+      "path": "docs/A-/brown scmcs.md"
+    },
+    {
+      "name": "cmu sesv.md",
+      "path": "docs/A-/cmu sesv.md"
+    },
+    {
+      "name": "duke ece.md",
+      "path": "docs/A-/duke ece.md"
+    },
+    {
+      "name": "jhu msecs.md",
+      "path": "docs/A-/jhu msecs.md"
+    },
+    {
+      "name": "uchicago mpcs.md",
+      "path": "docs/A-/uchicago mpcs.md"
+    },
+    {
+      "name": "CMU ECE.md",
+      "path": "docs/A/CMU ECE.md"
+    },
+    {
+      "name": "CMU MSMITE.md",
+      "path": "docs/A/CMU MSMITE.md"
+    },
+    {
+      "name": "UMD MSCS.md",
+      "path": "docs/A/UMD MSCS.md"
+    },
+    {
+      "name": "Umich MSCS.md",
+      "path": "docs/A/Umich MSCS.md"
+    },
+    {
+      "name": "Upenn MCIT.md",
+      "path": "docs/A/Upenn MCIT.md"
+    },
+    {
+      "name": "Yale MSCS.md",
+      "path": "docs/A/Yale MSCS.md"
+    },
+    {
+      "name": "cmu mits.md",
+      "path": "docs/A/cmu mits.md"
+    },
+    {
+      "name": "columbia mscs.md",
+      "path": "docs/A/columbia mscs.md"
+    },
+    {
+      "name": "uiuc mcs.md",
+      "path": "docs/A/uiuc mcs.md"
+    },
+    {
+      "name": "uw ee pmp.md",
+      "path": "docs/A/uw ee pmp.md"
+    },
+    {
+      "name": "Columbia ee.md",
+      "path": "docs/B+/Columbia ee.md"
+    },
+    {
+      "name": "Cornell MPS-IS.md",
+      "path": "docs/B+/Cornell MPS-IS.md"
+    },
+    {
+      "name": "NWU MSCS.md",
+      "path": "docs/B+/NWU MSCS.md"
+    },
+    {
+      "name": "NYU Tandon.md",
+      "path": "docs/B+/NYU Tandon.md"
+    },
+    {
+      "name": "Rics MCS.md",
+      "path": "docs/B+/Rics MCS.md"
+    },
+    {
+      "name": "UWT MSCS.md",
+      "path": "docs/B+/UWT MSCS.md"
+    },
+    {
+      "name": "Upenn EE.md",
+      "path": "docs/B+/Upenn EE.md"
+    },
+    {
+      "name": "cmu mism.md",
+      "path": "docs/B+/cmu mism.md"
+    },
+    {
+      "name": "cornell tech CM.md",
+      "path": "docs/B+/cornell tech CM.md"
+    },
+    {
+      "name": "tamu cse.md",
+      "path": "docs/B+/tamu cse.md"
+    },
+    {
+      "name": "uci mswe.md",
+      "path": "docs/B+/uci mswe.md"
+    },
+    {
+      "name": "NEU IS.md",
+      "path": "docs/B-/NEU IS.md"
+    },
+    {
+      "name": "NEU SES.md",
+      "path": "docs/B-/NEU SES.md"
+    },
+    {
+      "name": "SCU MSCSE.md",
+      "path": "docs/B-/SCU MSCSE.md"
+    },
+    {
+      "name": "UIUC MSIM.md",
+      "path": "docs/B-/UIUC MSIM.md"
+    },
+    {
+      "name": "Emory MSCS.md",
+      "path": "docs/B/Emory MSCS.md"
+    },
+    {
+      "name": "NCSU MCS.md",
+      "path": "docs/B/NCSU MCS.md"
+    },
+    {
+      "name": "NEU CS ALIGN.md",
+      "path": "docs/B/NEU CS ALIGN.md"
+    },
+    {
+      "name": "NEU MSCS.md",
+      "path": "docs/B/NEU MSCS.md"
+    },
+    {
+      "name": "UCI MCS.md",
+      "path": "docs/B/UCI MCS.md"
+    },
+    {
+      "name": "UIUC ECE MENG.md",
+      "path": "docs/B/UIUC ECE MENG.md"
+    },
+    {
+      "name": "UMass MSCS.md",
+      "path": "docs/B/UMass MSCS.md"
+    },
+    {
+      "name": "USC CS37.md",
+      "path": "docs/B/USC CS37.md"
+    },
+    {
+      "name": "utah state university MSCS.md",
+      "path": "docs/B/utah state university MSCS.md"
+    },
+    {
+      "name": "UMN MSCS.md",
+      "path": "docs/C+/UMN MSCS.md"
+    },
+    {
+      "name": "CMU MIIS.md",
+      "path": "docs/S/CMU MIIS.md"
+    },
+    {
+      "name": "CMU MSAII.md",
+      "path": "docs/S/CMU MSAII.md"
+    },
+    {
+      "name": "CMU MSCV.md",
+      "path": "docs/S/CMU MSCV.md"
+    },
+    {
+      "name": "CMU MSML.md",
+      "path": "docs/S/CMU MSML.md"
+    },
+    {
+      "name": "CMU MSR.md",
+      "path": "docs/S/CMU MSR.md"
+    },
+    {
+      "name": "Cornell CS MENG.md",
+      "path": "docs/S/Cornell CS MENG.md"
+    },
+    {
+      "name": "UCB EECS meng.md",
+      "path": "docs/S/UCB EECS meng.md"
+    },
+    {
+      "name": "UT MSCS.md",
+      "path": "docs/S/UT MSCS.md"
+    },
+    {
+      "name": "cmu mcds.md",
+      "path": "docs/S/cmu mcds.md"
+    },
+    {
+      "name": "cmu msin.md",
+      "path": "docs/S/cmu msin.md"
+    },
+    {
+      "name": "gatech mscs.md",
+      "path": "docs/S/gatech mscs.md"
+    },
+    {
+      "name": "Harvard CSE.md",
+      "path": "docs/SS/Harvard CSE.md"
+    },
+    {
+      "name": "Harvard DS.md",
+      "path": "docs/SS/Harvard DS.md"
+    },
+    {
+      "name": "Harvard HDS.md",
+      "path": "docs/SS/Harvard HDS.md"
+    },
+    {
+      "name": "Stanford Stat DS.md",
+      "path": "docs/SS/Stanford Stat DS.md"
+    },
+    {
+      "name": "Stanford Symbolic System.md",
+      "path": "docs/SS/Stanford Symbolic System.md"
+    },
+    {
+      "name": "Yale MSCS 2year.md",
+      "path": "docs/SS/Yale MSCS 2year.md"
+    },
+    {
+      "name": "caltech msee.md",
+      "path": "docs/SS/caltech msee.md"
+    },
+    {
+      "name": "cmu mscs.md",
+      "path": "docs/SS/cmu mscs.md"
+    },
+    {
+      "name": "stanford icme.md",
+      "path": "docs/SS/stanford icme.md"
+    },
+    {
+      "name": "stanford msee.md",
+      "path": "docs/SS/stanford msee.md"
+    },
+    {
+      "name": "uiuc mscs.md",
+      "path": "docs/SS/uiuc mscs.md"
+    },
+    {
+      "name": "MIT CSE.md",
+      "path": "docs/SSS/MIT CSE.md"
+    },
+    {
+      "name": "MIT EECS.md",
+      "path": "docs/SSS/MIT EECS.md"
+    },
+    {
+      "name": "Princeton MSECS.md",
+      "path": "docs/SSS/Princeton MSECS.md"
+    },
+    {
+      "name": "stanford mscs.md",
+      "path": "docs/SSS/stanford mscs.md"
+    }
+  ]
+}

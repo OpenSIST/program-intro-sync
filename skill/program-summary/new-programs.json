@@ -1,0 +1,3507 @@
+{
+  "generated_at": "2026-06-19",
+  "total_new_programs": 143,
+  "programs": [
+    {
+      "university_full": "École Polytechnique",
+      "university_code": "EcolePolytechnique",
+      "program_name": "MSc&T AiViC (Artificial Intelligence and Advanced Visual Computing)",
+      "suggested_program_id": "AiViC@EcolePolytechnique",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "Engineering"
+      ],
+      "duration": "2 years",
+      "location": "Palaiseau, France",
+      "brief_description": "École Polytechnique's MSc&T in Artificial Intelligence and Advanced Visual Computing is a research-oriented program in the IP Paris cluster that excels in 3D vision and computer graphics, with mandatory internships and strong pathways to doctoral studies.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/L'X%20AiViC.md",
+          "file_name": "L'X AiViC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of British Columbia",
+      "university_code": "UBC",
+      "program_name": "BCS Second Degree",
+      "suggested_program_id": "BCS@UBC",
+      "degree": "Other",
+      "target_majors": [
+        "CS",
+        "Non-CS career changers"
+      ],
+      "duration": "",
+      "location": "Vancouver, Canada",
+      "brief_description": "A second undergraduate degree in Computer Science for students who already hold a bachelor's degree, offering the same teaching pace and quality as regular UBC CS undergraduates. Graduates receive a 3-year open work permit and can participate in co-op internships during the program.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/BCS%40UBC.md",
+          "file_name": "BCS@UBC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "McMaster University",
+      "university_code": "McMaster",
+      "program_name": "CAS MEng",
+      "suggested_program_id": "CAS MEng@McMaster",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "SE"
+      ],
+      "duration": "",
+      "location": "Hamilton, Canada",
+      "brief_description": "A Master of Engineering in Computing and Software (CAS) that requires a faculty advisor match and thesis project, with flexible co-op options via McMaster's own co-op platform. The program provides 8 OINP bonus immigration points and allows advisor changes after admission.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CAS%20MEng%40McMaster.md",
+          "file_name": "CAS MEng@McMaster.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Texas A&M University",
+      "university_code": "TAMU",
+      "program_name": "CE MEng",
+      "suggested_program_id": "CE MEng@TAMU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "Flexible (up to 3 years on default I-20)",
+      "location": "College Station, USA",
+      "brief_description": "A Master of Engineering in Computer Engineering under the CSE department, essentially equivalent to the MCS program but with two additional ECE courses. Features easy internal transfers between MEng, MCS, MSCE, and MSCS tracks, and supports co-op during semesters.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CE%20MEng%40TAMU.md",
+          "file_name": "CE MEng@TAMU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Cornell University",
+      "university_code": "CornellTech",
+      "program_name": "CM",
+      "suggested_program_id": "CM@CornellTech",
+      "degree": "Master",
+      "target_majors": [
+        "Business",
+        "CS",
+        "Design",
+        "HCI",
+        "IS",
+        "Info Systems"
+      ],
+      "duration": "2 years",
+      "location": "New York, USA",
+      "brief_description": "The Connective Media (CM) master's program at Cornell Tech that strongly prefers students with entrepreneurial aspirations. Students can earn a CS Certificate by completing sufficient CS coursework, with course offerings expanding to include systems courses from Spring 2024.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CM%40Cornell%20Tech.md",
+          "file_name": "CM@Cornell Tech.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/cornell%20tech%20CM.md",
+          "file_name": "cornell tech CM.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Cornell University",
+      "university_code": "CornellTech",
+      "program_name": "CS MEng",
+      "suggested_program_id": "CS MEng@CornellTech",
+      "degree": "Master",
+      "target_majors": [
+        "CS"
+      ],
+      "duration": "1 year",
+      "location": "New York, USA",
+      "brief_description": "A one-year, non-extendable Master of Engineering in CS at Cornell Tech's Roosevelt Island campus, featuring innovative curriculum with small class sizes and Studio projects. Located in NYC with affordable housing compared to Manhattan, but with intense job search pressure given the short timeline.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS%20Meng%40Cornell%20Tech.md",
+          "file_name": "CS Meng@Cornell Tech.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Virginia Tech",
+      "university_code": "VT",
+      "program_name": "CS MEng",
+      "suggested_program_id": "CS MEng@VT",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Washington DC area (NCR campus), USA",
+      "brief_description": "A 30-credit career-oriented Master of Engineering in CS offered at Virginia Tech's NCR (National Capital Region/Washington DC) campus with co-op component. The NCR campus has a higher acceptance rate compared to the main campus, making it a solid fallback option.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS%20Meng%40VT.md",
+          "file_name": "CS Meng@VT.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Southern California",
+      "university_code": "USC",
+      "program_name": "CS37",
+      "suggested_program_id": "CS37@USC",
+      "degree": "Master",
+      "target_majors": [
+        "CS"
+      ],
+      "duration": "2 years",
+      "location": "Los Angeles, USA",
+      "brief_description": "USC's CS37 is one of two large MSCS tracks (alongside CS28) with admissions based primarily on GPA, requiring no recommendation letters and primarily recruiting from top Chinese universities; best suited as a safety school for high-GPA applicants.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B/USC%20CS37.md",
+          "file_name": "USC CS37.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Columbia University",
+      "university_code": "Columbia",
+      "program_name": "MS Data Science",
+      "suggested_program_id": "DS@Columbia",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "EE"
+      ],
+      "duration": "",
+      "location": "New York, USA",
+      "brief_description": "Columbia University's Data Science master's program; the file is largely a stub with minimal content, noting that mainland Chinese admissions declined in Fall 2023 compared to prior years.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/DS%40Columbia.md",
+          "file_name": "DS@Columbia.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Harvard University",
+      "university_code": "Harvard",
+      "program_name": "MS Data Science",
+      "suggested_program_id": "DS@Harvard",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "Economics",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Cambridge, USA",
+      "brief_description": "A highly selective (~6% acceptance rate) and unusually flexible data science master's that allows students to choose courses freely across Harvard and MIT, with options to write a thesis, substitute research for credits, or forgo the thesis entirely — suited for diverse backgrounds from career switchers to future PhD applicants.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/DS%40Harvard.md",
+          "file_name": "DS@Harvard.md"
+        }
+      ]
+    },
+    {
+      "university_full": "New York University",
+      "university_code": "NYU",
+      "program_name": "MS Data Science",
+      "suggested_program_id": "DS@NYU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "EE"
+      ],
+      "duration": "",
+      "location": "New York, USA",
+      "brief_description": "NYU's Data Science master's program; the file is a near-empty stub with section headers but no substantive content filled in.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/DS%40NYU.md",
+          "file_name": "DS@NYU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Michigan",
+      "university_code": "UMich",
+      "program_name": "Master of Data Science",
+      "suggested_program_id": "DS@UMich",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Ann Arbor, USA",
+      "brief_description": "A cross-school data science master's co-run by four colleges at UMich, offering research access through faculty connections; however, the program is noted for severe course-registration bottlenecks where essential ML and SDE prerequisite courses are oversubscribed, making it difficult for students to build the skills they need.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/DS%40UMich.md",
+          "file_name": "DS@UMich.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Pennsylvania",
+      "university_code": "UPenn",
+      "program_name": "MS in Data Science",
+      "suggested_program_id": "DS@UPenn",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Philadelphia, USA",
+      "brief_description": "UPenn's Data Science master's program features flexible course selection and the option to pursue a dual CIS degree at additional cost; the file is mostly a stub with limited substantive detail.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/DS%40UPenn.md",
+          "file_name": "DS@UPenn.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, San Diego",
+      "university_code": "UCSD",
+      "program_name": "MS Computer Engineering (EC79)",
+      "suggested_program_id": "EC79@UCSD",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE"
+      ],
+      "duration": "",
+      "location": "San Diego, USA",
+      "brief_description": "Considered the best CS-track option within UCSD's ECE department (program code EC79, Computer Engineering specialization), it offers the widest selection of CS electives among UCSD ECE programs and attracts many CS applicants; the only required core course is VLSI, which may challenge non-EE-background students.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/EC79%40UCSD.md",
+          "file_name": "EC79@UCSD.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/Ucsd%20EC79.md",
+          "file_name": "Ucsd EC79.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, San Diego",
+      "university_code": "UCSD",
+      "program_name": "MS Electrical and Computer Engineering (EC82)",
+      "suggested_program_id": "EC82@UCSD",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "",
+      "location": "San Diego, USA",
+      "brief_description": "UCSD ECE master's program under code EC82; the file is a near-stub with only a link to official UCSD admissions/enrollment/placement statistics and a community forum course comparison thread.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/EC82%40UCSD.md",
+          "file_name": "EC82@UCSD.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, San Diego",
+      "university_code": "UCSD",
+      "program_name": "MS ECE – Machine Learning and Data Science (EC93)",
+      "suggested_program_id": "EC93@UCSD",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS",
+        "Math"
+      ],
+      "duration": "",
+      "location": "San Diego, USA",
+      "brief_description": "UCSD's ECE specialization in Machine Learning and Data Science (program code EC93, MLDS track); it does not allow transfers from other UCSD ECE programs, making direct admission the only entry path.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/EC93%40UCSD.md",
+          "file_name": "EC93@UCSD.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Waterloo",
+      "university_code": "Waterloo",
+      "program_name": "ECE MEng (Co-op)",
+      "suggested_program_id": "ECE MEng Coop@Waterloo",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "20-24 months",
+      "location": "Waterloo, Canada",
+      "brief_description": "Launched in Fall 2023 as a likely successor to Waterloo's discontinued MMath Coursework program, this ECE MEng with co-op runs 5–6 terms (20–24 months) and includes 1–2 optional co-op terms using the university's shared placement system; students who cannot secure a co-op placement graduate under the standard ECE MEng path.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20Meng(coop)%40Waterloo.md",
+          "file_name": "ECE Meng(coop)@Waterloo.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of British Columbia",
+      "university_code": "UBC",
+      "program_name": "ECE MEng",
+      "suggested_program_id": "ECE MEng@UBC",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "up to 5 years",
+      "location": "Vancouver, Canada",
+      "brief_description": "UBC's ECE Master of Engineering offers a flexible timeline (up to 5 years), up to three co-op terms after the first semester, and relatively affordable tuition (~$23,914 CAD/year); graduates can immediately apply for BC Provincial Nominee Program (BCPNP) permanent residency, though Vancouver's high cost of living should be factored in.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20Meng%40UBC.md",
+          "file_name": "ECE Meng@UBC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Toronto",
+      "university_code": "UofT",
+      "program_name": "ECE MEng",
+      "suggested_program_id": "ECE MEng@UofT",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "",
+      "location": "Toronto, Canada",
+      "brief_description": "University of Toronto's ECE Master of Engineering has no co-op, no scheduled breaks, and no internship option built into the program structure, making it a purely coursework-focused degree; students have flexibility in course selection and can customize their academic path.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20Meng%40UofT.md",
+          "file_name": "ECE Meng@UofT.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Waterloo",
+      "university_code": "Waterloo",
+      "program_name": "ECE MEng",
+      "suggested_program_id": "ECE MEng@Waterloo",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "",
+      "location": "Waterloo, Canada",
+      "brief_description": "Waterloo's standard ECE Master of Engineering (without co-op) targets applicants from top Chinese universities (985, GPA 85+), has no built-in co-op or scheduled break, accepts both fall and spring intakes, and issues offers relatively quickly for early applicants; a separate ECE MEng Co-op track (added Fall 2022) requires a distinct application and fee.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20Meng%40Waterloo.md",
+          "file_name": "ECE Meng@Waterloo.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Western University",
+      "university_code": "Western",
+      "program_name": "ECE MEng",
+      "suggested_program_id": "ECE MEng@Western",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "1 year",
+      "location": "London, Canada",
+      "brief_description": "A one-year ECE Master of Engineering at Western University that can be optionally combined with a two-semester Graduate Diploma (potentially extending the Canadian work permit to three years); features an SDE track with many software courses and a CO-OP option requiring a separate application at enrollment.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20MEng%40Western.md",
+          "file_name": "ECE MEng@Western.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Alberta",
+      "university_code": "uAlberta",
+      "program_name": "ECE MEng",
+      "suggested_program_id": "ECE MEng@uAlberta",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "",
+      "location": "Edmonton, Canada",
+      "brief_description": "ECE Master of Engineering at the University of Alberta; described as having very rigorous coursework with almost no easy elective options, and the file contains minimal detail beyond one representative admission case (non-top-tier university, 85 GPA, IELTS 7).",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20MEng%40uAlberta.md",
+          "file_name": "ECE MEng@uAlberta.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Ottawa",
+      "university_code": "uOttawa",
+      "program_name": "ECE MEng",
+      "suggested_program_id": "ECE MEng@uOttawa",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "",
+      "location": "Ottawa, Canada",
+      "brief_description": "ECE Master of Engineering at uOttawa with unpredictable admission standards (GPA bar fluctuates 82–90+); located outside the Greater Toronto Area, which gives graduates +8 points under Ontario's Graduate Immigration Stream (OINP), making it attractive for permanent residency pathways; co-op is available but merit-restricted to roughly the top 10% of students.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20MEng%40uOttawa.md",
+          "file_name": "ECE MEng@uOttawa.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Duke Kunshan University",
+      "university_code": "DKU",
+      "program_name": "ECE",
+      "suggested_program_id": "ECE@DKU",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CS",
+        "CE"
+      ],
+      "duration": "2 years",
+      "location": "Kunshan, China",
+      "brief_description": "A Duke-equivalent ECE master's program at the Duke Kunshan campus offering the same diploma as Duke University, with first-year domestic tuition rates and strong internship placement at major Chinese tech companies. Accepts students from any major background and offers OPT but not CPT.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%40Duke-Kunshan.md",
+          "file_name": "ECE@Duke-Kunshan.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Georgia Institute of Technology",
+      "university_code": "GaTech",
+      "program_name": "ECE",
+      "suggested_program_id": "ECE@GaTech-Shenzhen",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CS",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Shenzhen, China",
+      "brief_description": "Georgia Tech's ECE master's program offered at its Shenzhen campus, providing OPT eligibility without CPT; described as a cost-effective option for students seeking a Georgia Tech degree while studying in China.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%40GaTech-Shenzhen.md",
+          "file_name": "ECE@GaTech-Shenzhen.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Washington",
+      "university_code": "UW",
+      "program_name": "EE PMP (MSECE)",
+      "suggested_program_id": "EE-PMP@UW",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Seattle, USA",
+      "brief_description": "UW's Electrical Engineering Professional Master's Program (being rebranded as MSECE) offers co-op options without extending graduation, strong Seattle tech recruiting especially at Microsoft, and flexible software-focused coursework including deep learning and computer vision.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/EE-PMP%40UW.md",
+          "file_name": "EE-PMP@UW.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A/uw%20ee%20pmp.md",
+          "file_name": "uw ee pmp.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Harvard University",
+      "university_code": "Harvard",
+      "program_name": "HDS",
+      "suggested_program_id": "HDS@Harvard",
+      "degree": "Master",
+      "target_majors": [
+        "Statistics",
+        "Math",
+        "CS",
+        "Economics",
+        "Applied Math"
+      ],
+      "duration": "2 years",
+      "location": "Boston, USA",
+      "brief_description": "Harvard's Health Data Science (HDS) program is a highly selective (~15-20 students/year), 100%-placement program under the School of Public Health, featuring interdisciplinary coursework in biostatistics, capstone projects with Harvard hospitals, and cross-registration at MIT.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/Harvard%20HDS.md",
+          "file_name": "Harvard HDS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Stanford University",
+      "university_code": "Stanford",
+      "program_name": "ICME",
+      "suggested_program_id": "ICME@Stanford",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Data Science",
+        "EE",
+        "Engineering",
+        "Math",
+        "Statistics"
+      ],
+      "duration": "",
+      "location": "Stanford, California, USA",
+      "brief_description": "Stanford's Interdisciplinary Center for Mathematical Engineering (ICME) offers four tracks—General, Data Science, Imaging Science, and Mathematical and Computational Finance (MCF)—targeting students with strong mathematical foundations who seek careers in quantitative finance or top tech companies.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/stanford%20icme.md",
+          "file_name": "stanford icme.md"
+        },
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ICME%40Stanford.md",
+          "file_name": "ICME@Stanford.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Keio University",
+      "university_code": "Keio",
+      "program_name": "IGP (Information and Computer Science)",
+      "suggested_program_id": "IGP-ICS@Keio",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "2 years",
+      "location": "Yokohama, Japan",
+      "brief_description": "Keio University's International Graduate Program in Science and Engineering offers a research-focused MS in Information and Computer Science, admitting students in April or September with admission contingent on securing a faculty advisor's agreement before applying.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Keio%20IGP.md",
+          "file_name": "Keio IGP.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Waseda University",
+      "university_code": "Waseda",
+      "program_name": "MEng IPS (Graduate School of Information, Production and Systems)",
+      "suggested_program_id": "IPS@Waseda",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Engineering"
+      ],
+      "duration": "2 years",
+      "location": "Kitakyushu, Japan",
+      "brief_description": "Waseda University's IPS campus in Kitakyushu offers a Master of Engineering with flexible admission (no interview or exam required) and accelerated 3+2 or 1+1 pathways for partner school students, though it is lower-ranked among Japanese programs with a complex application process.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Waseda%20IPS.md",
+          "file_name": "Waseda IPS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Northeastern University",
+      "university_code": "NEU",
+      "program_name": "ISB",
+      "suggested_program_id": "ISB@NEU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "IS",
+        "Business",
+        "Engineering"
+      ],
+      "duration": "",
+      "location": "Boston, USA",
+      "brief_description": "Northeastern University's Information Systems with Business concentration, a non-CS-title master's program blending technology and business studies with Northeastern's co-op framework.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ISB%40NEU.md",
+          "file_name": "ISB@NEU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Keio University",
+      "university_code": "Keio",
+      "program_name": "KMD (Master of Media Design)",
+      "suggested_program_id": "KMD@Keio",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Design",
+        "Engineering",
+        "HCI",
+        "Media",
+        "Media Studies"
+      ],
+      "duration": "2 years",
+      "location": "Yokohama, Japan",
+      "brief_description": "Keio University's Graduate School of Media Design offers a cross-disciplinary Master of Media Design with English-taught September intake and a unique dual-degree option through the CEMS program, the only such offering at a Japanese university.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Keio%20KMD.md",
+          "file_name": "Keio KMD.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Keio%20KMD.md",
+          "file_name": "Keio KMD.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Dalhousie University",
+      "university_code": "Dalhousie",
+      "program_name": "MACS",
+      "suggested_program_id": "MACS@Dalhousie",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "Math",
+        "Engineering"
+      ],
+      "duration": "",
+      "location": "Halifax, Canada",
+      "brief_description": "Dalhousie University's Master of Applied Computer Science featuring a mandatory interview process, co-op placements, and practical curriculum design; admits students with a diverse range of academic backgrounds including 211 universities.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MACS%40Dalhousie.md",
+          "file_name": "MACS@Dalhousie.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Simon Fraser University",
+      "university_code": "SFU",
+      "program_name": "Master of Big Data",
+      "suggested_program_id": "MBigData@SFU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "Statistics"
+      ],
+      "duration": "16-20 months",
+      "location": "Burnaby, Canada",
+      "brief_description": "A professional master's program with a machine learning focus and co-op component, ranked top 2 on Canada's West Coast. Offers flexibility through deferment and BCPNP immigration pathway, with co-op placement rates of 35% for the 2023 cohort.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/Big%20Data%40SFU.md",
+          "file_name": "Big Data@SFU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Carnegie Mellon University",
+      "university_code": "CMU",
+      "program_name": "MCDS",
+      "suggested_program_id": "MCDS@CMU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "DS",
+        "EE",
+        "Math",
+        "Statistics"
+      ],
+      "duration": "",
+      "location": "Pittsburgh, USA",
+      "brief_description": "CMU's Master of Computational Data Science is the School of Computer Science's flagship employment-focused program, just below the MSCS in prestige, with graduates predominantly landing SDE roles at major tech companies. Admits primarily top Chinese university graduates (Tsinghua, PKU, Fudan, SJTU) and international students.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/S/cmu%20mcds.md",
+          "file_name": "cmu mcds.md"
+        },
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCDS%40CMU.md",
+          "file_name": "MCDS@CMU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Pennsylvania",
+      "university_code": "UPenn",
+      "program_name": "MCIS",
+      "suggested_program_id": "MCIS@UPenn",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "Engineering"
+      ],
+      "duration": "",
+      "location": "Philadelphia, USA",
+      "brief_description": "UPenn's Master of Computer and Information Science, described as nearly a 'mainland Chinese blacklist' program that strongly prefers international students with high GPAs; successful domestic Chinese applicants are rare and typically come from elite institutions with exceptional profiles.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCIS%40UPenn.md",
+          "file_name": "MCIS@UPenn.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Pennsylvania",
+      "university_code": "UPenn",
+      "program_name": "MCIT",
+      "suggested_program_id": "MCIT@UPenn",
+      "degree": "Master",
+      "target_majors": [
+        "Biology",
+        "Business",
+        "CS",
+        "EE",
+        "Engineering",
+        "Math",
+        "Other",
+        "Physics"
+      ],
+      "duration": "2-2.5 years",
+      "location": "Philadelphia, USA",
+      "brief_description": "UPenn's Master of Computer and Information Technology (MCIT) is a top-tier program explicitly designed for career switchers with no prior CS background, offering a selective 9.6% acceptance rate and strong placements at Amazon, Google, and Meta.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCIT%40UPenn.md",
+          "file_name": "MCIT@UPenn.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A/Upenn%20MCIT.md",
+          "file_name": "Upenn MCIT.md"
+        }
+      ]
+    },
+    {
+      "university_full": "North Carolina State University",
+      "university_code": "NCSU",
+      "program_name": "MCS",
+      "suggested_program_id": "MCS@NCSU",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE",
+        "Engineering",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Raleigh, USA",
+      "brief_description": "NC State's Master of Computer Science is career-focused with a software development curriculum well-suited for SDE roles, located near Research Triangle Park. The program is career-change friendly (with prerequisite courses), requires GRE for international applicants, and has a student population skewed toward Indian students.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B/NCSU%20MCS.md",
+          "file_name": "NCSU MCS.md"
+        },
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCS%40NCSU.md",
+          "file_name": "MCS@NCSU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Texas A&M University",
+      "university_code": "TAMU",
+      "program_name": "MCS / MSCS / MSCE",
+      "suggested_program_id": "MCS@TAMU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE"
+      ],
+      "duration": "1.5-3 years",
+      "location": "College Station, USA",
+      "brief_description": "Texas A&M offers multiple CS/CE master's tracks (MCS, MSCS, MSCE, MSAI) with both thesis and non-thesis options; the research atmosphere is strong with TA/RA funding available for thesis students and good co-op/internship opportunities.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/tamu%20cse.md",
+          "file_name": "tamu cse.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Ottawa",
+      "university_code": "uOttawa",
+      "program_name": "MCS",
+      "suggested_program_id": "MCS@uOttawa",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "Engineering"
+      ],
+      "duration": "",
+      "location": "Ottawa, Canada",
+      "brief_description": "University of Ottawa's Master of Computer Science offering both course-based and thesis-based tracks (including an MCS-AI specialization), a new 3+1+1 pathway for partner school students with tuition reduction, and optional co-op for top-ranking students.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCS%40uOttawa.md",
+          "file_name": "MCS@uOttawa.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Simon Fraser University",
+      "university_code": "SFU",
+      "program_name": "Master of Cybersecurity",
+      "suggested_program_id": "MCybersecurity@SFU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Information Security"
+      ],
+      "duration": "16-20 months",
+      "location": "Burnaby, Canada",
+      "brief_description": "A professional master's program in Cybersecurity at SFU with a co-op component (4- or 8-month options), preferring applicants with information security coursework or CTF competition experience. Co-op placement rate was 47% for the 2023 cohort, with BCPNP immigration pathway available.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/Cybersecurity%40SFU.md",
+          "file_name": "Cybersecurity@SFU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Waterloo",
+      "university_code": "Waterloo",
+      "program_name": "MDSAI",
+      "suggested_program_id": "MDSAI@Waterloo",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "EE",
+        "Engineering"
+      ],
+      "duration": "3 semesters + co-op",
+      "location": "Waterloo, Canada",
+      "brief_description": "University of Waterloo's Master of Data Science and Artificial Intelligence featuring three semesters of coursework combined with 4–8 months of co-op; predominantly admits international graduates and has shown expansion trends with broader institutional representation.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MDSAI%40Waterloo.md",
+          "file_name": "MDSAI@Waterloo.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Waseda University",
+      "university_code": "Waseda",
+      "program_name": "MEng CS/Engineering (AO track)",
+      "suggested_program_id": "MEng AO@Waseda",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Engineering",
+        "AI"
+      ],
+      "duration": "2 years",
+      "location": "Tokyo, Japan",
+      "brief_description": "A research-oriented Master of Engineering in Computer Science at Waseda's Tokyo campus admitting students twice yearly (April/September), with broad faculty coverage across AI, ML, and robotics, contingent on pre-application professor endorsement.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Waseda%20AO.md",
+          "file_name": "Waseda AO.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Waseda University",
+      "university_code": "Waseda",
+      "program_name": "MEng IPS",
+      "suggested_program_id": "MEng IPS@Waseda",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Engineering"
+      ],
+      "duration": "2 years",
+      "location": "Kitakyushu, Japan",
+      "brief_description": "Waseda's Graduate School of Information, Production and Systems in Kitakyushu offers no entrance exam or interview admission with multiple annual cycles, featuring a G-Course for partner-university students to begin graduate work in their senior year.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Waseda%20IPS.md",
+          "file_name": "Waseda IPS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Calgary",
+      "university_code": "uCalgary",
+      "program_name": "MEng Software",
+      "suggested_program_id": "MEng Soft@uCalgary",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE",
+        "Software Engineering"
+      ],
+      "duration": "1 year",
+      "location": "Calgary, Canada",
+      "brief_description": "University of Calgary's one-year Master of Engineering in Software Engineering, designed for working professionals with at least one year of full-time SDE experience; the 1-year duration does not qualify for a 3-year post-graduation work permit.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MEng%20Soft%40uCalgary.md",
+          "file_name": "MEng Soft@uCalgary.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, Los Angeles",
+      "university_code": "UCLA",
+      "program_name": "MEng",
+      "suggested_program_id": "MEng@UCLA",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Mechanical Engineering",
+        "Biomedical Engineering"
+      ],
+      "duration": "1 year (extendable by 1 quarter)",
+      "location": "Los Angeles, USA",
+      "brief_description": "UCLA's Master of Engineering program offers multiple tracks, with Data Science being the most popular, and is particularly welcoming to applicants transitioning from non-CS engineering backgrounds. Launched in Fall 2021, the program allows free track switching and cross-disciplinary course enrollment across the engineering school.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MEng%40UCLA.md",
+          "file_name": "MEng@UCLA.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Waseda University",
+      "university_code": "Waseda",
+      "program_name": "MEng CS (Graduate School of Fundamental Science and Engineering)",
+      "suggested_program_id": "MEngCS@Waseda",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Robotics",
+        "AI"
+      ],
+      "duration": "2 years",
+      "location": "Tokyo, Japan",
+      "brief_description": "Waseda University's research-focused Master of Engineering in Computer Science (AO admissions track) admits students via an advisor-matching process with two annual cycles, covering AI, machine learning, robotics, CV, and NLP, with strong job market recognition in Japan.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Waseda%20AO.md",
+          "file_name": "Waseda AO.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Toronto",
+      "university_code": "UofT",
+      "program_name": "MI",
+      "suggested_program_id": "MI@UofT",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Information Systems",
+        "Library Science",
+        "HCI"
+      ],
+      "duration": "20 months",
+      "location": "Toronto, Canada",
+      "brief_description": "The University of Toronto's Master of Information is a 20-month professional program with an optional 8-month co-op, offering tracks including Information System Design (ISD) which is the most software-engineering oriented. The program has strict English proficiency requirements and is less accessible to mainland Chinese undergraduates due to language standards.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MI%40UofT.md",
+          "file_name": "MI@UofT.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Carnegie Mellon University",
+      "university_code": "CMU",
+      "program_name": "MISM",
+      "suggested_program_id": "MISM@CMU",
+      "degree": "Master",
+      "target_majors": [
+        "Business",
+        "CS",
+        "EE",
+        "Engineering",
+        "IS",
+        "Information Systems"
+      ],
+      "duration": "12-16 months",
+      "location": "Pittsburgh, USA",
+      "brief_description": "Carnegie Mellon's Master of Information Systems Management at Heinz College offers 12-month and 16-month tracks (plus BIDA and Global variants), attracting career-changers with tech backgrounds seeking management-oriented roles. The program accepts superscored GRE/GMAT, requires WES credential evaluation, and provides publicly available employment outcome data.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MISM%40CMU.md",
+          "file_name": "MISM@CMU.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/cmu%20mism.md",
+          "file_name": "cmu mism.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Carnegie Mellon University",
+      "university_code": "CMU",
+      "program_name": "MITS",
+      "suggested_program_id": "MITS@CMU",
+      "degree": "Master",
+      "target_majors": [
+        "Business",
+        "CS",
+        "EE",
+        "Engineering",
+        "IS",
+        "Policy"
+      ],
+      "duration": "16 months",
+      "location": "Pittsburgh, USA",
+      "brief_description": "CMU's Master of Information Technology Strategy is a small (20-30 students), interdisciplinary program jointly offered by the College of Engineering, School of Computer Science, and Institute for Politics and Strategy, featuring high course flexibility with 7-10 SCS electives plus a capstone. The program is well-suited for applicants with diverse backgrounds seeking tech leadership roles at the intersection of technology and policy.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MITS%40CMU.md",
+          "file_name": "MITS@CMU.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A/cmu%20mits.md",
+          "file_name": "cmu mits.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Chicago",
+      "university_code": "UChicago",
+      "program_name": "MPCS",
+      "suggested_program_id": "MPCS@UChicago",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE",
+        "Math",
+        "Physics"
+      ],
+      "duration": "9-18 months",
+      "location": "Chicago, USA",
+      "brief_description": "UChicago's Master of Science in Computer Science (MPCS) is a rigorous, selective program targeting non-CS majors with strong GPAs and CS graduates with internship experience at major tech companies, with a flexible curriculum spanning undergraduate through doctoral-level courses. The program offers evening/part-time formats, requires a placement exam, and includes merit-based scholarships primarily for the pre-doctoral pathway.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MPCS%40UChicago.md",
+          "file_name": "MPCS@UChicago.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/uchicago%20mpcs.md",
+          "file_name": "uchicago mpcs.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Cornell University",
+      "university_code": "Cornell",
+      "program_name": "MPS-IS",
+      "suggested_program_id": "MPS-IS@Cornell",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Data Science",
+        "HCI",
+        "IS",
+        "Information Science",
+        "Math",
+        "Other",
+        "Social Science"
+      ],
+      "duration": "1 year",
+      "location": "Ithaca, USA",
+      "brief_description": "Cornell's Master of Professional Studies in Information Science is a one-year program with strong HCI specialization options and high course selection priority nearly equivalent to Cornell's CS program, welcoming both CS and non-CS applicants with interest in HCI. Due to its one-year duration, internships are generally not possible during the program, though semester extensions may be available.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MPS-IS%40Cornell.md",
+          "file_name": "MPS-IS@Cornell.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/Cornell%20MPS-IS.md",
+          "file_name": "Cornell MPS-IS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Cambridge",
+      "university_code": "Cambridge",
+      "program_name": "MPhil ACS",
+      "suggested_program_id": "MPhil ACS@Cambridge",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "9 months",
+      "location": "Cambridge, UK",
+      "brief_description": "Cambridge's MPhil in Advanced Computer Science is an intensive 9-month taught program requiring a research proposal and thesis, with competitive admissions, English-language instruction, and pathways for exceptional students to continue to a Cambridge PhD.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T0/Cambridge%20ACS.md",
+          "file_name": "Cambridge ACS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Hong Kong University of Science and Technology",
+      "university_code": "HKUST",
+      "program_name": "MPhil CSE",
+      "suggested_program_id": "MPhil-CSE@HKUST",
+      "degree": "Other",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "2 years",
+      "location": "Hong Kong, China",
+      "brief_description": "HKUST's MPhil in Computer Science and Engineering is a research-focused degree with admission difficulty comparable to a PhD, requiring strong academic credentials (90+ GPA) or substantial research experience, with professor-led admissions. Students receive a monthly stipend of approximately HK$18,000 covering tuition and housing, and must complete coursework and a thesis defense.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MPhil-CSE%40HKUST.md",
+          "file_name": "MPhil-CSE@HKUST.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Imperial College London",
+      "university_code": "IC",
+      "program_name": "MRes Artificial Intelligence and Machine Learning",
+      "suggested_program_id": "MRes AIML@IC",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "1 year",
+      "location": "London, United Kingdom",
+      "brief_description": "Imperial College London's MRes AI and Machine Learning is a research-focused master's with a one-page research proposal required since 2025 and limited pathways to continue as an IC doctoral student; it leverages IC's strong global reputation and London's rich job market.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/IC%20AIML.md",
+          "file_name": "IC AIML.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Imperial College London",
+      "university_code": "ICL",
+      "program_name": "MRes Artificial Intelligence and Machine Learning",
+      "suggested_program_id": "MRes AIML@ICL",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "SE"
+      ],
+      "duration": "1 year",
+      "location": "London, UK",
+      "brief_description": "Imperial College London's MRes in AI and Machine Learning is a research-oriented 1-year program with a thesis requirement that offers a pathway to doctoral studies, with a 2025 intake introducing a one-page research proposal in lieu of prior supervisor contact.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/IC%20AIML.md",
+          "file_name": "IC AIML.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Stanford University",
+      "university_code": "Stanford",
+      "program_name": "MS&E",
+      "suggested_program_id": "MS&E@Stanford",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "Operations Research",
+        "Engineering"
+      ],
+      "duration": "",
+      "location": "Stanford, USA",
+      "brief_description": "Stanford's Management Science & Engineering master's program is notable for its highly flexible, tech-oriented course selection that allows students to build a strongly technical curriculum. The program is part of Stanford's engineering school and appeals to students seeking quantitative and systems-focused study at the intersection of engineering and management.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MS%26E%40Stanford.md",
+          "file_name": "MS&E@Stanford.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Columbia University",
+      "university_code": "Columbia",
+      "program_name": "MS Computer Engineering",
+      "suggested_program_id": "MSCE@Columbia",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "18 months",
+      "location": "New York City, USA",
+      "brief_description": "Columbia's 18-month Computer Engineering master's offers extremely flexible course selection and a summer internship window, making it a popular NY-market alternative for those who don't gain MSCS admission.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/Columbia%20ce.md",
+          "file_name": "Columbia ce.md"
+        }
+      ]
+    },
+    {
+      "university_full": "New York University",
+      "university_code": "NYU",
+      "program_name": "MS CE",
+      "suggested_program_id": "MSCE@NYUTandon",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "",
+      "location": "New York, USA",
+      "brief_description": "A Master of Science in Computer Engineering at NYU Tandon School of Engineering that is friendly to EE backgrounds and career changers, allowing students to take all software courses without hardware requirements. Applicants from 985-tier Chinese universities with GPA above 3.0 have strong admission chances.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CE%40NYU%20Tandon.md",
+          "file_name": "CE@NYU Tandon.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Delft University of Technology",
+      "university_code": "TUDelft",
+      "program_name": "MSc Computer and Embedded System Engineering",
+      "suggested_program_id": "MSCESE@TUDelft",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Delft, Netherlands",
+      "brief_description": "TU Delft's merged Computer and Embedded System Engineering master's emphasizes computer architecture and systems-level design, with mandatory internship and thesis requirements and strong international reputation at an accessible European cost.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/TUD%20MSCESE.md",
+          "file_name": "TUD MSCESE.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Washington Bothell",
+      "university_code": "UWB",
+      "program_name": "MSCS&SE",
+      "suggested_program_id": "MSCS&SE@UWB",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Bothell, USA",
+      "brief_description": "UW Bothell's MS in Computer Science and Software Engineering is a 2-year program (extendable to 2.5 years or compressible to 1.5 years) located in the Greater Seattle tech hub adjacent to Amazon, offering one guaranteed co-op plus 1-2 summer internship opportunities. The program favors CS-background applicants but strong essays can offset lower GPAs.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%26SE%40UWB.md",
+          "file_name": "MSCS&SE@UWB.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Southern California",
+      "university_code": "USC",
+      "program_name": "MSCS (28-unit)",
+      "suggested_program_id": "MSCS28@USC",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Los Angeles, USA",
+      "brief_description": "The 28-unit MSCS track at USC Viterbi School of Engineering, a more accessible professional master's program evaluated primarily by GPA grouped by institution. Recommendation letters and statements of purpose are optional and reportedly not reviewed in the admission process.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS28%40USC.md",
+          "file_name": "CS28@USC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Southern California",
+      "university_code": "USC",
+      "program_name": "MSCS (37-unit)",
+      "suggested_program_id": "MSCS37@USC",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Los Angeles, USA",
+      "brief_description": "The 37-unit MSCS track at USC that requires a stronger academic profile (GPA 3.7+ recommended) and prefers STEM backgrounds — career changers from liberal arts or business are less welcome. An early admission application option is available for CS majors.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS37%40USC.md",
+          "file_name": "CS37@USC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Boston College",
+      "university_code": "BC",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@BC",
+      "degree": "Master",
+      "target_majors": [
+        "CS"
+      ],
+      "duration": "",
+      "location": "Boston, USA",
+      "brief_description": "Boston College's MSCS is a 5th-year accelerated master's program exclusively for Boston College's own undergraduate students and does not admit external applicants. As an internal program, it is not a viable option for outside applicants.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40BC.md",
+          "file_name": "MSCS@BC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, Berkeley",
+      "university_code": "Berkeley",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Berkeley",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Berkeley, USA",
+      "brief_description": "UC Berkeley's MSCS is a 5th-year master's program open only to Berkeley's own undergraduate students and does not accept applications from external candidates. As a result, it is not accessible to outside applicants.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Berkeley.md",
+          "file_name": "MSCS@Berkeley.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Brandeis University",
+      "university_code": "Brandeis",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Brandeis",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE",
+        "Liberal Arts"
+      ],
+      "duration": "2 semesters (extendable)",
+      "location": "Waltham, USA",
+      "brief_description": "Brandeis University's MSCS is a liberal-arts-to-CS-friendly program offering modest but meaningful scholarships ($10,000-$12,500 per term) that significantly reduce the net tuition cost for a private university. A representative admit had a GPA above 3.8 with coursework in C++, computer networks, and data structures, and received ~$25,000 in fellowship support.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Brandeis.md",
+          "file_name": "MSCS@Brandeis.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Dartmouth College",
+      "university_code": "Dartmouth",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Dartmouth",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "7 terms",
+      "location": "Hanover, USA",
+      "brief_description": "Dartmouth's MSCS is an Ivy League program spanning 7 terms with a low application fee ($40) and generous financial aid (50-75% or full scholarships possible), placing strong emphasis on Statement of Purpose and code samples in its evaluation. The program carries high per-term tuition (~$20,000) but the scholarship potential makes it relatively accessible financially.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Dartmouth.md",
+          "file_name": "MSCS@Dartmouth.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Emory University",
+      "university_code": "Emory",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Emory",
+      "degree": "Master",
+      "target_majors": [
+        "Bioinformatics",
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "2 years",
+      "location": "Atlanta, USA",
+      "brief_description": "Emory's MSCS is a small, elite-focused program offering CS and Bioinformatics tracks, emphasizing healthcare-oriented ML/AI research with generous automatic partial scholarships (30-50%) and strong research mentorship due to favorable faculty-to-student ratios.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B/Emory%20MSCS.md",
+          "file_name": "Emory MSCS.md"
+        },
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Emory.md",
+          "file_name": "MSCS@Emory.md"
+        }
+      ]
+    },
+    {
+      "university_full": "George Washington University",
+      "university_code": "GWU",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@GWU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Washington D.C., USA",
+      "brief_description": "George Washington University's Master of Science in Computer Science is a graduate program in Washington D.C.; the community-contributed page contains minimal details beyond its structural template.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40GWU.md",
+          "file_name": "MSCS@GWU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "New York University Tandon School of Engineering",
+      "university_code": "NYUTandon",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@NYUTandon",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Brooklyn, USA",
+      "brief_description": "A competitive Master of Science in Computer Science at NYU's Tandon School of Engineering that strongly prefers CS-background applicants with high GPAs; has become highly selective in recent years with most admits in the 3.6–3.9 GPA range.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40NYU%20Tandon.md",
+          "file_name": "MSCS@NYU Tandon.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/NYU%20Tandon.md",
+          "file_name": "NYU Tandon.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Rutgers University",
+      "university_code": "Rutgers",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Rutgers",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "New Brunswick, USA",
+      "brief_description": "A Master of Science in Computer Science at Rutgers University that is friendly to career-changers when prerequisites are met, suitable as a target or safety option for applicants with GPAs in the 3.2–3.7 range; tuition is noted as relatively high for a public university.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Rutgers.md",
+          "file_name": "MSCS@Rutgers.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Stony Brook University",
+      "university_code": "SBU",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@SBU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Stony Brook, USA",
+      "brief_description": "A Master of Science in Computer Science at Stony Brook University with an academic and theory-oriented focus and strong subject rankings; requires GRE for international applicants and submission of grades from four core CS areas.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40SBU.md",
+          "file_name": "MSCS@SBU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Santa Clara University",
+      "university_code": "SCU",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@SCU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Santa Clara, USA",
+      "brief_description": "A 2-year Master of Science in Computer Science at Santa Clara University located near Silicon Valley, featuring a co-op program that allows up to three internships (2 summer + 1 co-op), small class sizes, flexible quarter-based enrollment, and no letters of recommendation or personal statement required.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40SCU.md",
+          "file_name": "MSCS@SCU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Stevens Institute of Technology",
+      "university_code": "SIT",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@SIT",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Hoboken, USA",
+      "brief_description": "A Master of Science in Computer Science at Stevens Institute of Technology; community-contributed details are sparse but the program serves applicants from CS and engineering backgrounds.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40SIT.md",
+          "file_name": "MSCS@SIT.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Southern Methodist University",
+      "university_code": "SMU",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@SMU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Dallas, USA",
+      "brief_description": "A Master of Science in Computer Science at Southern Methodist University; community-contributed content is minimal, indicating limited applicant data available for this program.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40SMU.md",
+          "file_name": "MSCS@SMU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Syracuse University",
+      "university_code": "Syracuse",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Syracuse",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Syracuse, USA",
+      "brief_description": "A Master of Science in Computer Science at Syracuse University; community-contributed content is minimal, indicating limited applicant data available for this program.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Syracuse.md",
+          "file_name": "MSCS@Syracuse.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of British Columbia",
+      "university_code": "UBC",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@UBC",
+      "degree": "Master",
+      "target_majors": [
+        "CS"
+      ],
+      "duration": "2 years",
+      "location": "Vancouver, Canada",
+      "brief_description": "A highly competitive research-focused Master of Science in Computer Science at UBC with an acceptance rate of 3–7%, offering funded positions through TA/RA stipends and a PhD-Track conversion pathway; graduates are eligible for BC's Provincial Nominee Program immigration pathway.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UBC.md",
+          "file_name": "MSCS@UBC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Bonn",
+      "university_code": "UBonn",
+      "program_name": "MSc CS",
+      "suggested_program_id": "MSCS@UBonn",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Bonn, Germany",
+      "brief_description": "One of Europe's rare research-focused master's programs in Computer Science, tuition-free with tracks in Algorithmics, Graphics/Vision/Audio, Information/Communication Management, and Intelligent Systems, offering strong PhD pathway preparation near several top research institutes.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/University%20of%20Bonn%20CS.md",
+          "file_name": "University of Bonn CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, Davis",
+      "university_code": "UCD",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@UCD",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Davis, USA",
+      "brief_description": "A Master of Science in Computer Science at UC Davis with an academic orientation focused on theoretical and AI coursework; GRE is not required (except for ECE applicants) and the program is noted as PhD-transfer friendly.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UCD.md",
+          "file_name": "MSCS@UCD.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Michigan",
+      "university_code": "UMich",
+      "program_name": "MSCS / MSCSE",
+      "suggested_program_id": "MSCS@UMich",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "1-2 years",
+      "location": "Ann Arbor, USA",
+      "brief_description": "UMich's CS master's (offered as both MS and MSE tracks with identical requirements) provides TA funding opportunities covering tuition and stipend, with flexible graduation timelines and strong placement at top tech companies.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A/Umich%20MSCS.md",
+          "file_name": "Umich MSCS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Utah State University",
+      "university_code": "USU",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@USU",
+      "degree": "Master",
+      "target_majors": [
+        "CS"
+      ],
+      "duration": "up to 4 years",
+      "location": "Logan, USA",
+      "brief_description": "Utah State University's MSCS is notable for offering full funding through TA/RA positions with ~$2,000/month stipends, maintains a separate admissions pool from its PhD program making it less competitive, and accepts applicants from diverse backgrounds including coding bootcamps.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B/utah%20state%20university%20MSCS.md",
+          "file_name": "utah state university MSCS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Texas at Dallas",
+      "university_code": "UTD",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@UTD",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Richardson, USA",
+      "brief_description": "A career-changer-friendly Master of Science in Computer Science at UT Dallas; the program has a notably flexible application process and offers offers even when application materials are incomplete.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UTD.md",
+          "file_name": "MSCS@UTD.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Tokyo",
+      "university_code": "UTokyo",
+      "program_name": "CS Master's",
+      "suggested_program_id": "MSCS@UTokyo",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "Engineering"
+      ],
+      "duration": "2 years",
+      "location": "Tokyo, Japan",
+      "brief_description": "A research-focused English-language Computer Science master's at the University of Tokyo, distinguished by a unique exam-based admissions process, strong QS rankings, and a thesis requirement that provides solid grounding for doctoral study.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/UTokyo%20CS.md",
+          "file_name": "UTokyo CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Washington Tacoma",
+      "university_code": "UWT",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@UWT",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE",
+        "Math"
+      ],
+      "duration": "4-5 quarters",
+      "location": "Tacoma, USA",
+      "brief_description": "UW Tacoma's MSCS offers affordable tuition (~$50k total), flexible CPT co-op policy, six specialization tracks, and the UW brand recognition at a lower cost of living than Seattle, making it an attractive value option.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/UWT%20MSCS.md",
+          "file_name": "UWT MSCS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Virginia Polytechnic Institute and State University",
+      "university_code": "VT",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@VT",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "HCI"
+      ],
+      "duration": "2 years",
+      "location": "Blacksburg, USA",
+      "brief_description": "A 2-year research-oriented Master of Science in Computer Science at Virginia Tech requiring a thesis, with TA funding on par with PhD stipends; the program is professor-driven with a pre-doctoral pathway and is actively expanding HCI faculty.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Virginia%20Tech.md",
+          "file_name": "MSCS@Virginia Tech.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Vanderbilt University",
+      "university_code": "Vanderbilt",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Vanderbilt",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Nashville, USA",
+      "brief_description": "A Master of Science in Computer Science at Vanderbilt University; community-contributed content is minimal, indicating limited applicant data available for this program.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Vanderbilt.md",
+          "file_name": "MSCS@Vanderbilt.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Western University",
+      "university_code": "Western",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@Western",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "SE"
+      ],
+      "duration": "4 terms",
+      "location": "London, Canada",
+      "brief_description": "A Master of Science in Computer Science at Western University offering course-based, project-based, and thesis-based tracks; graduates receive a 3-year PGWP and the London, Ontario location provides additional Ontario Immigrant Nominee Program immigration points.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Western.md",
+          "file_name": "MSCS@Western.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Alberta",
+      "university_code": "uAlberta",
+      "program_name": "MSc Computing Science",
+      "suggested_program_id": "MSCS@uAlberta",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Edmonton, Canada",
+      "brief_description": "A Master of Science in Computing Science at the University of Alberta offering both a research-based thesis track (with a dedicated Statistical Machine Learning branch) and a coursework-based Multimedia specialization track; research admission depends heavily on supervisor matching.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40uAlberta.md",
+          "file_name": "MSCS@uAlberta.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Calgary",
+      "university_code": "uCalgary",
+      "program_name": "MSCS",
+      "suggested_program_id": "MSCS@uCalgary",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "SE"
+      ],
+      "duration": "",
+      "location": "Calgary, Canada",
+      "brief_description": "A purely research-oriented Master of Science in Computer Science at the University of Calgary with a Software Engineering specialization offered jointly with the Department of Electrical and Software Engineering; requires only two recommendation letters and supervisor contact prior to application.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40uCalgary.md",
+          "file_name": "MSCS@uCalgary.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Georgia Institute of Technology",
+      "university_code": "GaTech",
+      "program_name": "MS CSE",
+      "suggested_program_id": "MSCSE@GaTech",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Atlanta, USA",
+      "brief_description": "A mathematically rigorous MS in Computational Science and Engineering at Georgia Tech with a heavy four-course-per-semester workload. Admission difficulty varies by home unit (College of Computing being most selective), though all graduates receive the same diploma regardless of unit.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Gatech%20CSE.md",
+          "file_name": "Gatech CSE.md"
+        },
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CSE%40GaTech.md",
+          "file_name": "CSE@GaTech.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Gatech%20CSE.md",
+          "file_name": "Gatech CSE.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Pennsylvania State University",
+      "university_code": "PSU",
+      "program_name": "MSCSE",
+      "suggested_program_id": "MSCSE@PSU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "University Park, USA",
+      "brief_description": "Penn State's MS in Computer Science and Engineering is a research-oriented 2-year program in a rural campus setting; a 1-year MEng option is also available for those seeking industry employment.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCSE%40PSU.md",
+          "file_name": "MSCSE@PSU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Santa Clara University",
+      "university_code": "SCU",
+      "program_name": "MSCSE",
+      "suggested_program_id": "MSCSE@SCU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Santa Clara, USA",
+      "brief_description": "SCU's MSCSE is a 46-credit quarter-system program in the heart of Silicon Valley, offering a relatively affordable tuition (~$53,000 total), thesis options, and flexible scheduling that allows career switchers to complete prerequisites concurrently.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B-/SCU%20MSCSE.md",
+          "file_name": "SCU MSCSE.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Washington Tacoma",
+      "university_code": "UWT",
+      "program_name": "MSCSS",
+      "suggested_program_id": "MSCSS@UWT",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Tacoma, USA",
+      "brief_description": "UW Tacoma's MS in Computer Science and Systems awards a diploma specifying Tacoma (distinct from Seattle), is relatively accommodating to career changers, and offers two co-op experiences with a low cost of living.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCSS%40UWT.md",
+          "file_name": "MSCSS@UWT.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Utah",
+      "university_code": "UUtah",
+      "program_name": "MSD",
+      "suggested_program_id": "MSD@UUtah",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Salt Lake City, USA",
+      "brief_description": "The University of Utah's Master of Software Development is a professional master's program focused on software engineering skills; the community file is largely a placeholder with minimal content.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSD%40Utah.md",
+          "file_name": "MSD@Utah.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Dartmouth College",
+      "university_code": "Dartmouth",
+      "program_name": "MSDA",
+      "suggested_program_id": "MSDA@Dartmouth",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Art",
+        "Design",
+        "HCI"
+      ],
+      "duration": "2 years",
+      "location": "Hanover, USA",
+      "brief_description": "The MS in Computer Science with a concentration in Digital Arts (MSDA) at Dartmouth, a highly competitive program (10-15% acceptance rate) that seeks students combining strong CS foundations with creative portfolios in graphics, AR/VR, robotics, HCI, and interactive art. Students complete three terms of coursework plus three terms of research projects.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CSDA%40Dartmouth.md",
+          "file_name": "CSDA@Dartmouth.md"
+        }
+      ]
+    },
+    {
+      "university_full": "École Polytechnique Fédérale de Lausanne",
+      "university_code": "EPFL",
+      "program_name": "MSc Digital Humanities",
+      "suggested_program_id": "MSDH@EPFL",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Humanities",
+        "Design"
+      ],
+      "duration": "2-3 years",
+      "location": "Lausanne, Switzerland",
+      "brief_description": "EPFL's MSc in Digital Humanities is housed in the College of Humanities (not the CS department), combines technical digital methods with humanities research, requires a thesis and mandatory Swiss internship, and offers relatively affordable tuition with potential scholarships.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T0.5/EPFL%20MSDH.md",
+          "file_name": "EPFL MSDH.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, San Diego",
+      "university_code": "UCSD",
+      "program_name": "MS Data Science (HDSI)",
+      "suggested_program_id": "MSDS75@UCSD",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "EE"
+      ],
+      "duration": "",
+      "location": "San Diego, USA",
+      "brief_description": "A 75-unit Master of Science in Data Science offered through UCSD's Halicioglu Data Science Institute (HDSI), a rapidly growing institute that recruited senior faculty from top-15 schools. The program features comprehensive DS coursework with applied domain courses well-suited for AI+X interdisciplinary work, with recent admissions (2024) favoring statistics/math backgrounds.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/DS75%40UCSD.md",
+          "file_name": "DS75@UCSD.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Columbia University",
+      "university_code": "Columbia",
+      "program_name": "MS Data Science",
+      "suggested_program_id": "MSDS@Columbia",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "Statistics",
+        "Data Science"
+      ],
+      "duration": "",
+      "location": "New York City, USA",
+      "brief_description": "Columbia's Data Science master's program emphasizes data science and machine learning with competitive admissions drawing top international talent; best suited for CS/math/EE undergraduates rather than career switchers.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/Columbia%20DS.md",
+          "file_name": "Columbia DS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Harvard University",
+      "university_code": "Harvard",
+      "program_name": "MS Data Science",
+      "suggested_program_id": "MSDS@Harvard",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Statistics",
+        "Math",
+        "Economics"
+      ],
+      "duration": "",
+      "location": "Cambridge, USA",
+      "brief_description": "Harvard's MS in Data Science is a highly competitive program (~8% admit rate, ~70 students/year) that allows students to take courses at both Harvard and MIT, with graduates primarily placing in hedge funds and major tech companies (FAANG).",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/Harvard%20DS.md",
+          "file_name": "Harvard DS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "New York University",
+      "university_code": "NYU",
+      "program_name": "MS Data Science",
+      "suggested_program_id": "MSDS@NYU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "Statistics",
+        "Data Science"
+      ],
+      "duration": "",
+      "location": "New York City, USA",
+      "brief_description": "NYU's mathematically rigorous Data Science master's targets CS, math, and statistics undergraduates preparing for doctoral studies or data science careers, with strong ties to the New York financial sector.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/NYU%20DS.md",
+          "file_name": "NYU DS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Pennsylvania",
+      "university_code": "UPenn",
+      "program_name": "MSDS (Master of Science in Data Science)",
+      "suggested_program_id": "MSDS@UPenn",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Engineering",
+        "Math",
+        "Statistics"
+      ],
+      "duration": "",
+      "location": "Philadelphia, USA",
+      "brief_description": "UPenn's Master in Data Science offers exceptional curriculum flexibility spanning CS, statistics, machine learning, and Wharton business courses, enabling students to effectively build a hidden CS degree, with strong placement in data science and ML roles at top tech and finance firms.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Upenn%20DS.md",
+          "file_name": "Upenn DS.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Upenn%20DS.md",
+          "file_name": "Upenn DS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Keio University",
+      "university_code": "Keio",
+      "program_name": "MSE (IGP)",
+      "suggested_program_id": "MSE@Keio",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE",
+        "Engineering"
+      ],
+      "duration": "2 years",
+      "location": "Yokohama, Japan",
+      "brief_description": "A research-focused Master of Science in Engineering program at Keio University's Yagami Campus, with twice-yearly intake (April/September) and admissions highly dependent on securing a faculty advisor's approval prior to application.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Keio%20IGP.md",
+          "file_name": "Keio IGP.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Illinois Urbana-Champaign",
+      "university_code": "UIUC",
+      "program_name": "MSECE",
+      "suggested_program_id": "MSECE@UIUC",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CE",
+        "CS"
+      ],
+      "duration": "2 years",
+      "location": "Urbana-Champaign, USA",
+      "brief_description": "UIUC's research-based MS in Electrical and Computer Engineering includes a thesis component, offers potential transition to PhD study, and typically includes funding packages; international applicants follow a process similar to PhD admissions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSECE%40UIUC.md",
+          "file_name": "MSECE@UIUC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "California Institute of Technology",
+      "university_code": "Caltech",
+      "program_name": "MSEE",
+      "suggested_program_id": "MSEE@Caltech",
+      "degree": "Master",
+      "target_majors": [
+        "EE",
+        "CS"
+      ],
+      "duration": "9-15 months",
+      "location": "Pasadena, USA",
+      "brief_description": "Caltech's MSEE is a prestigious, small-cohort (~15 students/year) 9-month program that requires 135 credits with only 54 required to be EE, allowing substantial CS elective coursework; graduates place at major tech companies despite the program's EE-focused branding.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/caltech%20msee.md",
+          "file_name": "caltech msee.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Northeastern University",
+      "university_code": "NEU",
+      "program_name": "MS Software Engineering Systems",
+      "suggested_program_id": "MSES@NEU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Boston, USA",
+      "brief_description": "Northeastern's MS in Software Engineering Systems is an academically rigorous program available only at the Boston campus, with a lower admissions threshold than the MSCS and average job placement outcomes.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B-/NEU%20SES.md",
+          "file_name": "NEU SES.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Northeastern University",
+      "university_code": "NEU",
+      "program_name": "MS Information Systems",
+      "suggested_program_id": "MSIS@NEU",
+      "degree": "Master",
+      "target_majors": [
+        "Business",
+        "CS",
+        "Engineering",
+        "IS",
+        "Non-CS"
+      ],
+      "duration": "2 years",
+      "location": "Boston, USA",
+      "brief_description": "Northeastern's MS in Information Systems is a coding-focused, STEM-designated program that offers extensive co-op opportunities and multiple specialization tracks (software development, cybersecurity, data analytics, UX), with the I-20 listing 'Software Engineering' as the degree title.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B-/NEU%20IS.md",
+          "file_name": "NEU IS.md"
+        },
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/IS%40NEU.md",
+          "file_name": "IS@NEU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "New York University",
+      "university_code": "NYU",
+      "program_name": "MSIS",
+      "suggested_program_id": "MSIS@NYU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "IS",
+        "Business"
+      ],
+      "duration": "1 year",
+      "location": "New York, USA",
+      "brief_description": "NYU Courant's MS in Information Systems spans one year with half of credits taken at the Courant Institute and the other half optionally at Stern Business School, with students able to switch to the MSCS track.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSIS%40NYU%20Courant.md",
+          "file_name": "MSIS@NYU Courant.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Pittsburgh",
+      "university_code": "Pitt",
+      "program_name": "MSIS",
+      "suggested_program_id": "MSIS@Pitt",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "IS",
+        "Business",
+        "Engineering"
+      ],
+      "duration": "",
+      "location": "Pittsburgh, USA",
+      "brief_description": "University of Pittsburgh's Master of Science in Information Science program, a non-CS-title degree suited for students interested in information systems and technology management.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/IS%40Pitt.md",
+          "file_name": "IS@Pitt.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of North Carolina at Chapel Hill",
+      "university_code": "UNC",
+      "program_name": "MSIS",
+      "suggested_program_id": "MSIS@UNC",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "IS",
+        "Business"
+      ],
+      "duration": "",
+      "location": "Chapel Hill, USA",
+      "brief_description": "UNC Chapel Hill's MS in Information Science prepares students for careers at the intersection of technology and information management; the community file is a placeholder with minimal content.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSIS%40UNC.md",
+          "file_name": "MSIS@UNC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Carnegie Mellon University",
+      "university_code": "CMU",
+      "program_name": "MSMITE",
+      "suggested_program_id": "MSMITE@CMU",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Pittsburgh, USA",
+      "brief_description": "CMU INI's MS in Mobile and IoT Engineering (formerly MSIT-MOB) is a 2-year program split between Pittsburgh and Silicon Valley campuses, with required coursework in security, networks, and embedded systems, offering strong placement for SDE roles.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSMITE%40CMU.md",
+          "file_name": "MSMITE@CMU.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A/CMU%20MSMITE.md",
+          "file_name": "CMU MSMITE.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, Irvine",
+      "university_code": "UCI",
+      "program_name": "MS Networked Systems",
+      "suggested_program_id": "MSNetSys@UCI",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Irvine, USA",
+      "brief_description": "UCI's MS in Networked Systems offers flexible course selection in CS, a flexible program duration, and TA/RA opportunities; the community file contains minimal content beyond these highlights.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/NetSys%40UCI.md",
+          "file_name": "NetSys@UCI.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Pennsylvania",
+      "university_code": "UPenn",
+      "program_name": "MSR (Master of Science in Robotics)",
+      "suggested_program_id": "MSR@UPenn",
+      "degree": "Master",
+      "target_majors": [
+        "Automation",
+        "CE",
+        "CS",
+        "EE",
+        "ME"
+      ],
+      "duration": "",
+      "location": "Philadelphia, USA",
+      "brief_description": "UPenn's MS in Robotics provides high freedom in curriculum design with access to the world-renowned GRASP Lab, dual-degree options with MCIT/MCIS, and strong placement in autonomous vehicles, computer vision, and robotics roles with starting salaries of $150K-$220K.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Upenn%20MSR.md",
+          "file_name": "Upenn MSR.md"
+        },
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Upenn%20MSR.md",
+          "file_name": "Upenn MSR.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Stanford University",
+      "university_code": "Stanford",
+      "program_name": "MS Statistics (Data Science)",
+      "suggested_program_id": "MSStatDS@Stanford",
+      "degree": "Master",
+      "target_majors": [
+        "Statistics",
+        "DS",
+        "Math",
+        "CS"
+      ],
+      "duration": "",
+      "location": "Stanford, USA",
+      "brief_description": "Stanford's MS in Statistics with a Data Science specialization admits ~50 students per cohort from elite institutions with GPA 3.9+ and GRE 330+, offering top-tier research quality with most graduates securing ML/data science roles at major tech companies.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/Stanford%20Stat%20DS.md",
+          "file_name": "Stanford Stat DS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Stanford University",
+      "university_code": "Stanford",
+      "program_name": "MS Symbolic Systems",
+      "suggested_program_id": "MSSymSys@Stanford",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Linguistics",
+        "Philosophy",
+        "Psychology",
+        "Neuroscience",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Stanford, USA",
+      "brief_description": "Stanford's MS in Symbolic Systems is a highly selective (~5% admit rate), research-based interdisciplinary program combining computer science with linguistics, philosophy, psychology, and neuroscience, requiring a thesis and targeting candidates with dual technical-humanities expertise.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/Stanford%20Symbolic%20System.md",
+          "file_name": "Stanford Symbolic System.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of California, Irvine",
+      "university_code": "UCI",
+      "program_name": "MSWE",
+      "suggested_program_id": "MSWE@UCI",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE",
+        "Non-CS",
+        "non-CS"
+      ],
+      "duration": "2 years",
+      "location": "Irvine, USA",
+      "brief_description": "UCI's MSWE is a career-oriented software engineering master's designed for career switchers and CS graduates, offering a lighter academic workload, guaranteed internship placement support, and career coaching to facilitate entry into software engineering roles.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "CSGrad",
+          "html_url": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/uci%20mswe.md",
+          "file_name": "uci mswe.md"
+        },
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSWE%40UCI.md",
+          "file_name": "MSWE@UCI.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Imperial College London",
+      "university_code": "IC",
+      "program_name": "MSc Advanced Computing",
+      "suggested_program_id": "MSc AC@IC",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "1 year",
+      "location": "London, United Kingdom",
+      "brief_description": "Imperial College London's MSc Advanced Computing benefits from the university's strong global QS ranking and London's abundant internship and job opportunities; early application is strongly advantageous and GPA carries more weight than other components in admissions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/IC%20AC.md",
+          "file_name": "IC AC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Imperial College London",
+      "university_code": "ICL",
+      "program_name": "MSc Advanced Computing",
+      "suggested_program_id": "MSc AC@ICL",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "1 year",
+      "location": "London, UK",
+      "brief_description": "Imperial College London's Advanced Computing MSc is a rigorous 1-year program where early application is strongly advantageous and GPA is weighted more heavily than other credentials, with potential pathway to IC doctoral studies.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/IC%20AC.md",
+          "file_name": "IC AC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Edinburgh",
+      "university_code": "UEdinburgh",
+      "program_name": "MSc Artificial Intelligence",
+      "suggested_program_id": "MSc AI@UEdinburgh",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Edinburgh, UK",
+      "brief_description": "University of Edinburgh's Artificial Intelligence MSc program; content page is currently an empty template awaiting community contributions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/Edinburgh%20AI.md",
+          "file_name": "Edinburgh AI.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Delft University of Technology",
+      "university_code": "TUDelft",
+      "program_name": "MSc Computer and Embedded Systems Engineering",
+      "suggested_program_id": "MSc CESE@TUDelft",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "CE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Delft, Netherlands",
+      "brief_description": "TU Delft's CESE master's focuses on computer architecture and low-level systems design within a rigorous four-assessment-period-per-year structure, offering European employment opportunities at approximately €20,560 annual tuition with mandatory internship and thesis requirements.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/TUD%20MSCESE.md",
+          "file_name": "TUD MSCESE.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Aalto University",
+      "university_code": "Aalto",
+      "program_name": "MSc Computer Science",
+      "suggested_program_id": "MSc CS@Aalto",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "2 years",
+      "location": "Espoo, Finland",
+      "brief_description": "Aalto University's CS master's (degree title: Master of Science in Technology) is recognized for strong HCI and NLP faculty, broad curriculum flexibility, multiple scholarship options, and Finland's favorable residency policies for international graduates.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/Aalto%20CS.md",
+          "file_name": "Aalto CS.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/Aalto%20CS.md",
+          "file_name": "Aalto CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "KTH Royal Institute of Technology",
+      "university_code": "KTH",
+      "program_name": "MSc Computer Science",
+      "suggested_program_id": "MSc CS@KTH",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "2 years",
+      "location": "Stockholm, Sweden",
+      "brief_description": "KTH's MSc Computer Science offers exceptionally diverse specialization tracks, strong ties to the Swedish job market and immigration pathways, merit-based scholarships for second-year students, and opportunities to pursue well-compensated PhD studies in Sweden.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/KTH%20MSCS.md",
+          "file_name": "KTH MSCS.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/KTH%20MSCS.md",
+          "file_name": "KTH MSCS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University College London",
+      "university_code": "UCL",
+      "program_name": "MSc Computer Science",
+      "suggested_program_id": "MSc CS@UCL",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "London, UK",
+      "brief_description": "UCL's Computer Science MSc program; content page is currently an empty template awaiting community contributions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/UCL%20CS%20Msc.md",
+          "file_name": "UCL CS Msc.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Helsinki",
+      "university_code": "UHelsinki",
+      "program_name": "MSc Computer Science",
+      "suggested_program_id": "MSc CS@UHelsinki",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Helsinki, Finland",
+      "brief_description": "University of Helsinki's CS master's program notable for housing one of Northern Europe's few NLP research groups and offering merit-based scholarships including full tuition plus €5,000 supplements, with no application fee.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/UH%20CS.md",
+          "file_name": "UH CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Helsinki",
+      "university_code": "UH",
+      "program_name": "MSc Computer Science",
+      "suggested_program_id": "MSc CS@UHelsinki",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "2 years",
+      "location": "Helsinki, Finland",
+      "brief_description": "University of Helsinki's CS master's program is notable for hosting one of the few NLP research groups in the Nordic region and offering paid summer RA opportunities that frequently lead to doctoral positions, with a relatively accessible admissions threshold compared to peer Nordic institutions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/UH%20CS.md",
+          "file_name": "UH CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Stuttgart",
+      "university_code": "UStuttgart",
+      "program_name": "MSc Informatics (CS)",
+      "suggested_program_id": "MSc CS@UStuttgart",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "SE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Stuttgart, Germany",
+      "brief_description": "An English-language Master's in Computer Science/Informatics at Stuttgart with a world-ranked Visual Computing specialization, affordable tuition (~€1,500/semester), and small cohorts offering strong access to professors and local industry.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/University%20of%20Stuttgart%20CS.md",
+          "file_name": "University of Stuttgart CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Toronto",
+      "university_code": "UofT",
+      "program_name": "MSc CS",
+      "suggested_program_id": "MSc CS@UofT",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "17 months",
+      "location": "Toronto, Canada",
+      "brief_description": "UofT's research-based MSc in Computer Science takes approximately 17 months and requires 4 courses plus a thesis, with international students facing higher tuition and a direct-entry PhD pathway available as an alternative.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSc%40UofT.md",
+          "file_name": "MSc@UofT.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Politecnico di Milano",
+      "university_code": "Polimi",
+      "program_name": "MSc Computer Science and Engineering",
+      "suggested_program_id": "MSc CSE@Polimi",
+      "degree": "Master",
+      "target_majors": [
+        "CE",
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "2 years",
+      "location": "Milan, Italy",
+      "brief_description": "Politecnico di Milano's CSE master's is financially accessible with minimal registration fees (often waived) and scholarships of €7,000+ per year plus housing support, though the theory-heavy curriculum and limited local IT industry push many students to seek internships and thesis placements abroad.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/Polimi%20CSE.md",
+          "file_name": "Polimi CSE.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/Polimi%20CSE.md",
+          "file_name": "Polimi CSE.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Heidelberg",
+      "university_code": "UniHeidelberg",
+      "program_name": "MSc Data and Computer Science",
+      "suggested_program_id": "MSc DCS@UniHeidelberg",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Data Science",
+        "Math",
+        "Statistics"
+      ],
+      "duration": "2 years",
+      "location": "Heidelberg, Germany",
+      "brief_description": "Heidelberg's Data and Computer Science master's sits within one of Germany's most historically prestigious universities with a beautiful campus, offering strong interdisciplinary training; international students should note the APS certification requirement and competitive housing market.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/University%20of%20Heidelberg%20DCS.md",
+          "file_name": "University of Heidelberg DCS.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/University%20of%20Heidelberg%20DCS.md",
+          "file_name": "University of Heidelberg DCS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Helsinki",
+      "university_code": "UHelsinki",
+      "program_name": "MSc Data Science",
+      "suggested_program_id": "MSc DS@UHelsinki",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "Statistics",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Helsinki, Finland",
+      "brief_description": "University of Helsinki's Data Science master's program taught entirely in English with a strong focus on Bayesian machine learning and access to Europe's fastest supercomputer through the Finnish IT Center for Science.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/UH%20DS.md",
+          "file_name": "UH DS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Helsinki",
+      "university_code": "UH",
+      "program_name": "MSc Data Science",
+      "suggested_program_id": "MSc DS@UHelsinki",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "Statistics"
+      ],
+      "duration": "2 years",
+      "location": "Helsinki, Finland",
+      "brief_description": "University of Helsinki's Data Science MSc emphasizes flexible course selection (only 20 of 120 credits required) and provides access to Finnish IT Center for Science GPU clusters; students benefit from generous Finnish student subsidies and paid RA opportunities that frequently lead to PhD positions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/UH%20DS.md",
+          "file_name": "UH DS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University College London",
+      "university_code": "UCL",
+      "program_name": "MSc Data Science and Machine Learning",
+      "suggested_program_id": "MSc DSML@UCL",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "Statistics",
+        "EE"
+      ],
+      "duration": "",
+      "location": "London, UK",
+      "brief_description": "UCL's Data Science and Machine Learning MSc program; content page is currently an empty template awaiting community contributions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/UCL%20DSML%20MSc.md",
+          "file_name": "UCL DSML MSc.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Aalto University",
+      "university_code": "Aalto",
+      "program_name": "MSc Human-Computer Interaction",
+      "suggested_program_id": "MSc HCI@Aalto",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Design",
+        "Psychology",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Espoo, Finland",
+      "brief_description": "Aalto University's HCI master's program, renowned as a top HCI school in the Nordic region with exceptional faculty and scholarship opportunities including full tuition plus €5,000 supplements.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/Aalto%20HCI.md",
+          "file_name": "Aalto HCI.md"
+        }
+      ]
+    },
+    {
+      "university_full": "KTH Royal Institute of Technology",
+      "university_code": "KTH",
+      "program_name": "MSc Machine Learning",
+      "suggested_program_id": "MSc ML@KTH",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "Statistics"
+      ],
+      "duration": "2 years",
+      "location": "Stockholm, Sweden",
+      "brief_description": "KTH's MSc Machine Learning provides rigorous theoretical ML foundations with strong recognition in China, favorable Swedish employment and immigration prospects, and an accelerated 3+2 completion track for qualifying candidates.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/KTH%20MSML.md",
+          "file_name": "KTH MSML.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/KTH%20MSML.md",
+          "file_name": "KTH MSML.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Aalto University",
+      "university_code": "Aalto",
+      "program_name": "MSc Machine Learning, Data Science and Artificial Intelligence",
+      "suggested_program_id": "MSc MLDSAI@Aalto",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "Statistics",
+        "EE"
+      ],
+      "duration": "",
+      "location": "Espoo, Finland",
+      "brief_description": "Aalto University's Machine Learning, Data Science and AI master's program; content page is currently an empty template awaiting community contributions.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/Aalto%20MLDSAI.md",
+          "file_name": "Aalto MLDSAI.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Simon Fraser University",
+      "university_code": "SFU",
+      "program_name": "MSc Visual Computing",
+      "suggested_program_id": "MSc VC@SFU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "16-20 months",
+      "location": "Burnaby, Canada",
+      "brief_description": "SFU's MSc in Visual Computing focuses on machine learning and computer vision, offering flexible co-op options of 4 or 8 months that extend total duration to 16 or 20 months respectively, with a 2024 cohort co-op placement rate of 42%.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/Visual%20Computing%40SFU.md",
+          "file_name": "Visual Computing@SFU.md"
+        }
+      ]
+    },
+    {
+      "university_full": "École Polytechnique (IP Paris)",
+      "university_code": "LX",
+      "program_name": "MSc&T AiViC",
+      "suggested_program_id": "MSc&T AiViC@LX",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math",
+        "AI",
+        "Vision"
+      ],
+      "duration": "2 years",
+      "location": "Palaiseau, France",
+      "brief_description": "École Polytechnique's MSc&T in Artificial Intelligence and Advanced Visual Computing is particularly strong in 3D vision and computer graphics, combining top-tier faculty from engineering schools with mandatory research internships each year to prepare students for doctoral pathways.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/L'X%20AiViC.md",
+          "file_name": "L'X AiViC.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Tokyo",
+      "university_code": "UTokyo",
+      "program_name": "MSc CS (Computer Science)",
+      "suggested_program_id": "MScCS@UTokyo",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "2 years",
+      "location": "Tokyo, Japan",
+      "brief_description": "The University of Tokyo's English-taught Master's in Computer Science uses a unique exam-based selection process, emphasizes research with thesis requirement, and is highly ranked internationally, with relatively lenient permanent residency policies for international graduates.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/UTokyo%20CS.md",
+          "file_name": "UTokyo CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Bonn",
+      "university_code": "UniBonn",
+      "program_name": "MSc Computer Science",
+      "suggested_program_id": "MScCS@UniBonn",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Math",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Bonn, Germany",
+      "brief_description": "The University of Bonn's research-focused MSc in Computer Science is essentially tuition-free (only ~€300/semester in fees) with four specialization tracks, strong proximity to research institutes for PhD pathways, and favorable German residency policies for international students.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/University%20of%20Bonn%20CS.md",
+          "file_name": "University of Bonn CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Stuttgart",
+      "university_code": "UniStuttgart",
+      "program_name": "MSc Computer Science",
+      "suggested_program_id": "MScCS@UniStuttgart",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "SE",
+        "EE"
+      ],
+      "duration": "2 years",
+      "location": "Stuttgart, Germany",
+      "brief_description": "The University of Stuttgart's MSc in Computer Science is a highly selective program (20-40 admits per year) with affordable tuition (~€1,500/semester) and strong specializations including visual computing ranked among the world's top three, alongside autonomous systems and service technology tracks.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/University%20of%20Stuttgart%20CS.md",
+          "file_name": "University of Stuttgart CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Zurich",
+      "university_code": "UZH",
+      "program_name": "MSc Informatics",
+      "suggested_program_id": "MScInformatics@UZH",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "2 years",
+      "location": "Zurich, Switzerland",
+      "brief_description": "The University of Zurich's MSc in Informatics offers five specialization tracks (including AI and Data Science) with very low tuition under 1,000 CHF/year, and students can take ETH Zurich courses for credit, though most students take longer than the nominal two-year duration.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/UZH%20CS.md",
+          "file_name": "UZH CS.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/UZH%20CS.md",
+          "file_name": "UZH CS.md"
+        }
+      ]
+    },
+    {
+      "university_full": "University of Wisconsin-Madison",
+      "university_code": "Wisc",
+      "program_name": "PCP",
+      "suggested_program_id": "PCP@Wisc",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "Math"
+      ],
+      "duration": "",
+      "location": "Madison, USA",
+      "brief_description": "UW-Madison's Professional Capstone Program in CS is a non-thesis professional master's option; the community file is an empty placeholder with no detailed content.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/PCP%40Wisc.md",
+          "file_name": "PCP@Wisc.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Keio University",
+      "university_code": "Keio",
+      "program_name": "SDM (Master of System Design and Management)",
+      "suggested_program_id": "SDM@Keio",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "Engineering",
+        "Management",
+        "Systems Engineering"
+      ],
+      "duration": "2 years",
+      "location": "Yokohama, Japan",
+      "brief_description": "Keio University's Graduate School of System Design and Management is an interdisciplinary master's program particularly suited for career-changers into computer science, offering April or September admission with strong recognition in Japan's job market.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Keio%20SDM.md",
+          "file_name": "Keio SDM.md"
+        },
+        {
+          "repo": "GlobalCS",
+          "html_url": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/Keio%20SDM.md",
+          "file_name": "Keio SDM.md"
+        }
+      ]
+    },
+    {
+      "university_full": "Northeastern University",
+      "university_code": "NEU",
+      "program_name": "SES",
+      "suggested_program_id": "SES@NEU",
+      "degree": "Master",
+      "target_majors": [
+        "CS",
+        "EE",
+        "CE"
+      ],
+      "duration": "",
+      "location": "Boston, USA",
+      "brief_description": "Northeastern University's MS in Software Engineering Systems is a professional master's degree emphasizing software systems development; the community file is an empty placeholder.",
+      "is_program_file": true,
+      "sources": [
+        {
+          "repo": "OpenCS",
+          "html_url": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/SES%40NEU.md",
+          "file_name": "SES@NEU.md"
+        }
+      ]
+    }
+  ]
+}

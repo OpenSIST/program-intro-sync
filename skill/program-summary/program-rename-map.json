@@ -1,0 +1,1964 @@
+[
+  {
+    "program_id": "CS PhD@ASU",
+    "new_id": "CS PhD@ASU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "SE PhD@ASU",
+    "new_id": "SE PhD@ASU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@Aarhus",
+    "new_id": "MSCS@Aarhus",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@BU",
+    "new_id": "MSCS@BU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@BU"
+  },
+  {
+    "program_id": "Neuroscience PhD (GPN)@BU",
+    "new_id": "Neuroscience PhD (GPN)@BU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Psychology PhD@BU",
+    "new_id": "Psychology PhD@BU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@Binghamton",
+    "new_id": "ECE PhD@Binghamton",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Neuroscience PhD@Brandeis",
+    "new_id": "Neuroscience PhD@Brandeis",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EEE PhD@Bristol",
+    "new_id": "EEE PhD@Bristol",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc AI@Bristol",
+    "new_id": "MSc AI@Bristol",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Brown",
+    "new_id": "CS PhD@Brown",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ScM CS@Brown",
+    "new_id": "ScM CS@Brown",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms ScM CS@Brown"
+  },
+  {
+    "program_id": "ScM ECE@Brown",
+    "new_id": "ScM ECE@Brown",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@CMU",
+    "new_id": "CS PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@CMU",
+    "new_id": "ECE PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "HCII PhD@CMU",
+    "new_id": "HCII PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "LIT MS/PhD@CMU",
+    "new_id": "LIT MS/PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "LTI PhD@CMU",
+    "new_id": "LTI PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MET@CMU",
+    "new_id": "MET@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MIIS@CMU",
+    "new_id": "MIIS@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MIIS@CMU"
+  },
+  {
+    "program_id": "ML PhD@CMU",
+    "new_id": "ML PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MLT@CMU",
+    "new_id": "MLT@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MLT@CMU"
+  },
+  {
+    "program_id": "MRSD@CMU",
+    "new_id": "MRSD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS ECE@CMU",
+    "new_id": "ECE@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS canonical is ECE@CMU; MS prefix redundant"
+  },
+  {
+    "program_id": "MSAII@CMU",
+    "new_id": "MSAII@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSAII@CMU"
+  },
+  {
+    "program_id": "MSCS@CMU",
+    "new_id": "MSCS@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@CMU"
+  },
+  {
+    "program_id": "MSCV@CMU",
+    "new_id": "MSCV@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCV@CMU"
+  },
+  {
+    "program_id": "MSE-SE@CMU",
+    "new_id": "MSE-SE@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSE-SS@CMU",
+    "new_id": "MSE-SS@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSE-SS@CMU"
+  },
+  {
+    "program_id": "MSIM@CMU",
+    "new_id": "MSIM@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSIN@CMU",
+    "new_id": "MSIN@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSIN@CMU"
+  },
+  {
+    "program_id": "MSML@CMU",
+    "new_id": "MSML@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSML@CMU"
+  },
+  {
+    "program_id": "MSR@CMU",
+    "new_id": "MSR@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSR@CMU"
+  },
+  {
+    "program_id": "Program in Neural Computation (PNC)@CMU",
+    "new_id": "Program in Neural Computation (PNC)@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Program in Systems Neuroscience (PSN)@CMU",
+    "new_id": "Program in Systems Neuroscience (PSN)@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "RI PhD@CMU",
+    "new_id": "RI PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "SE PhD@CMU",
+    "new_id": "SE PhD@CMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "SESV@CMU",
+    "new_id": "SESV@CMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms SESV@CMU"
+  },
+  {
+    "program_id": "IE PhD@CUHK",
+    "new_id": "IE PhD@CUHK",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc CS（LGU）@CUHK",
+    "new_id": "MSc CS (LGU)@CUHK",
+    "duplicate_of": null,
+    "notes": "Normalize fullwidth parentheses to ASCII"
+  },
+  {
+    "program_id": "MSc MAIR （LGU）@CUHK",
+    "new_id": "MSc MAIR (LGU)@CUHK",
+    "duplicate_of": null,
+    "notes": "Normalize fullwidth parentheses to ASCII"
+  },
+  {
+    "program_id": "MSc in BME@CUHK",
+    "new_id": "MSc BME@CUHK",
+    "duplicate_of": null,
+    "notes": "Remove redundant 'in' preposition for compactness"
+  },
+  {
+    "program_id": "Applied Physics PhD@Caltech",
+    "new_id": "Applied Physics PhD@Caltech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Caltech",
+    "new_id": "CS PhD@Caltech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MedE-EE@Caltech",
+    "new_id": "MedE-EE@Caltech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc AI（CityU DG）@CityU",
+    "new_id": "MSc AI (CityU DG)@CityU",
+    "duplicate_of": null,
+    "notes": "Normalize fullwidth parentheses to ASCII"
+  },
+  {
+    "program_id": "MSc BIS-FIT@CityU",
+    "new_id": "MSc BIS-FIT@CityU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc MIT@CityU",
+    "new_id": "MSc MIT@CityU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc. CIE@CityU",
+    "new_id": "MSc CIE@CityU",
+    "duplicate_of": null,
+    "notes": "Remove erroneous period after MSc"
+  },
+  {
+    "program_id": "Msc CS (CityU DG)@CityU",
+    "new_id": "MSc CS (CityU DG)@CityU",
+    "duplicate_of": null,
+    "notes": "Fix casing: Msc → MSc"
+  },
+  {
+    "program_id": "BME PhD@Colorado Boulder",
+    "new_id": "BME PhD@Colorado Boulder",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Colorado Boulder",
+    "new_id": "CS PhD@Colorado Boulder",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Columbia",
+    "new_id": "CS PhD@Columbia",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EE MS&PhD@Columbia",
+    "new_id": "EE MS&PhD@Columbia",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS EE@Columbia",
+    "new_id": "MS EE@Columbia",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@Columbia",
+    "new_id": "MSCS@Columbia",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@Columbia"
+  },
+  {
+    "program_id": "CS MEng@Cornell",
+    "new_id": "CS MEng@Cornell",
+    "duplicate_of": null,
+    "notes": "OpenCS says 'CS Meng@Cornell'; keeping MEng (standard casing); CS MEng is distinct from ECE MEng"
+  },
+  {
+    "program_id": "CS PhD@Cornell",
+    "new_id": "CS PhD@Cornell",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@Cornell",
+    "new_id": "ECE PhD@Cornell",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@Cornell",
+    "new_id": "MSCS@Cornell",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@Cornell"
+  },
+  {
+    "program_id": "MSDT@Cornell",
+    "new_id": "MSDT@Cornell",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Meng ECE@Cornell",
+    "new_id": "ECE MEng@Cornell",
+    "duplicate_of": null,
+    "notes": "Known bug fix + OpenCS canonical: ECE MEng@Cornell (swap order, fix Meng→MEng)"
+  },
+  {
+    "program_id": "Neurobiology and Behavior PhD (NB&B)@Cornell",
+    "new_id": "Neurobiology and Behavior PhD (NB&B)@Cornell",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "SE@Cornell",
+    "new_id": "SE@Cornell",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Dual MSIS in Health Tech@Cornell Tech",
+    "new_id": "Dual MSIS in Health Tech@Cornell Tech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Dartmouth",
+    "new_id": "CS PhD@Dartmouth",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Engineering PhD@Dartmouth",
+    "new_id": "Engineering PhD@Dartmouth",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Drexel",
+    "new_id": "CS PhD@Drexel",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Duke",
+    "new_id": "CS PhD@Duke",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@Duke",
+    "new_id": "MSCS@Duke",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@Duke"
+  },
+  {
+    "program_id": "MSECE@Duke",
+    "new_id": "ECE@Duke",
+    "duplicate_of": null,
+    "notes": "OpenCS canonical is ECE@Duke; MSECE prefix redundant"
+  },
+  {
+    "program_id": "Neurobiology PhD@Duke",
+    "new_id": "Neurobiology PhD@Duke",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Human-Computer Interaction Design (HCID)@EIT",
+    "new_id": "Human-Computer Interaction Design (HCID)@EIT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ELLIS PhD@ELLIS",
+    "new_id": "ELLIS PhD@ELLIS",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EDIC PhD@EPFL",
+    "new_id": "EDIC PhD@EPFL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@EPFL",
+    "new_id": "MSCS@EPFL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS AI-Center PhD@ETH",
+    "new_id": "CS AI-Center PhD@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS CLS PhD@ETH",
+    "new_id": "CS CLS PhD@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS Direct PhD@ETH",
+    "new_id": "CS Direct PhD@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@ETH",
+    "new_id": "CS PhD@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS CSE@ETH",
+    "new_id": "MSCSE@ETH",
+    "duplicate_of": null,
+    "notes": "ETH has two distinct programs: MSCS (Computer Science) and MS CSE (Computational Science & Engineering). Rename to MSCSE@ETH for clarity; different from MSCS@ETH"
+  },
+  {
+    "program_id": "MS Cyber Security@ETH",
+    "new_id": "MS Cyber Security@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS EEIT@ETH",
+    "new_id": "MS EEIT@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS RSC@ETH",
+    "new_id": "MS RSC@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@ETH",
+    "new_id": "MSCS@ETH",
+    "duplicate_of": null,
+    "notes": "Kept distinct from MSCSE@ETH (different programs)"
+  },
+  {
+    "program_id": "MSDS@ETH",
+    "new_id": "MSDS@ETH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Neuroscience PhD@Emory",
+    "new_id": "Neuroscience PhD@Emory",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "BME PhD@GaTech",
+    "new_id": "BME PhD@GaTech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@GaTech",
+    "new_id": "CS PhD@GaTech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@GaTech",
+    "new_id": "ECE PhD@GaTech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS ECE@GaTech",
+    "new_id": "ECE@GaTech",
+    "duplicate_of": null,
+    "notes": "OpenCS canonical is ECE@GaTech; MS prefix redundant"
+  },
+  {
+    "program_id": "MSCS@GaTech",
+    "new_id": "MSCS@GaTech",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@GaTech"
+  },
+  {
+    "program_id": "MSHCI@GaTech",
+    "new_id": "MSHCI@GaTech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS Phd@HKBU",
+    "new_id": "CS PhD@HKBU",
+    "duplicate_of": null,
+    "notes": "Fix capitalization: Phd → PhD"
+  },
+  {
+    "program_id": "MS in AIDM@HKBU",
+    "new_id": "MS AIDM@HKBU",
+    "duplicate_of": null,
+    "notes": "Remove redundant 'in' preposition"
+  },
+  {
+    "program_id": "CS MPhil@HKU",
+    "new_id": "CS MPhil@HKU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@HKU",
+    "new_id": "CS PhD@HKU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Computer Science (General Stream)@HKU",
+    "new_id": "Computer Science (General Stream)@HKU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "IDS MPhil&PhD@HKU",
+    "new_id": "IDS MPhil&PhD@HKU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@HKU",
+    "new_id": "MSCS@HKU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MScIDT@HKU",
+    "new_id": "MScIDT@HKU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MscEEE@HKU",
+    "new_id": "MScEEE@HKU",
+    "duplicate_of": null,
+    "notes": "Fix casing: Msc → MSc"
+  },
+  {
+    "program_id": "AMC PhD@HKUST",
+    "new_id": "AMC PhD@HKUST",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CSE PhD@HKUST",
+    "new_id": "CSE PhD@HKUST",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE MPhil@HKUST",
+    "new_id": "ECE MPhil@HKUST",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@HKUST",
+    "new_id": "ECE PhD@HKUST",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MPhil （RedBird）@HKUST",
+    "new_id": "MPhil (RedBird)@HKUST",
+    "duplicate_of": null,
+    "notes": "Normalize fullwidth parentheses to ASCII"
+  },
+  {
+    "program_id": "MScIC@HKUST",
+    "new_id": "MScIC@HKUST",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CSE@Harvard",
+    "new_id": "CSE@Harvard",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms CSE@Harvard"
+  },
+  {
+    "program_id": "GSAS CS PhD@Harvard",
+    "new_id": "GSAS CS PhD@Harvard",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD Track@IP-Paris",
+    "new_id": "CS PhD Track@IP-Paris",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS EE@IP-Paris",
+    "new_id": "MS EE@IP-Paris",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc in Computing@Imperial",
+    "new_id": "MSc Computing@Imperial",
+    "duplicate_of": null,
+    "notes": "Remove redundant 'in' preposition"
+  },
+  {
+    "program_id": "BioENG@JHU",
+    "new_id": "BioENG@JHU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS Phd@JHU",
+    "new_id": "CS PhD@JHU",
+    "duplicate_of": null,
+    "notes": "Known bug fix: Phd → PhD"
+  },
+  {
+    "program_id": "MSBME@JHU",
+    "new_id": "MSBME@JHU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSE CS@JHU",
+    "new_id": "MSE CS@JHU",
+    "duplicate_of": null,
+    "notes": "OpenCS says MSECS@JHU but per instructions keep spaces for clarity"
+  },
+  {
+    "program_id": "Neuroscience PhD@JHU",
+    "new_id": "Neuroscience PhD@JHU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "mse ece@JHU",
+    "new_id": "MSE ECE@JHU",
+    "duplicate_of": null,
+    "notes": "Known bug fix: normalize casing from 'mse ece' to 'MSE ECE'"
+  },
+  {
+    "program_id": "CS MS&PhD@KAUST",
+    "new_id": "CS MS&PhD@KAUST",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD (Joint with CUHKSZ)@KAUST",
+    "new_id": "CS PhD (Joint with CUHKSZ)@KAUST",
+    "duplicate_of": null,
+    "notes": "Different from CS PhD@KAUST (joint vs regular program)"
+  },
+  {
+    "program_id": "CS PhD@KAUST",
+    "new_id": "CS PhD@KAUST",
+    "duplicate_of": null,
+    "notes": "Different from CS PhD (Joint with CUHKSZ)@KAUST"
+  },
+  {
+    "program_id": "MSCS@KAUST",
+    "new_id": "MSCS@KAUST",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Interactive Media Technology@KTH",
+    "new_id": "Interactive Media Technology@KTH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Software Engineering of Distributed Systems@KTH",
+    "new_id": "Software Engineering of Distributed Systems@KTH",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Biology@MIT",
+    "new_id": "Biology@MIT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CEE PhD@MIT",
+    "new_id": "CEE PhD@MIT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CSE PhD@MIT",
+    "new_id": "CSE PhD@MIT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EECS PhD@MIT",
+    "new_id": "EECS PhD@MIT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MECHE@MIT",
+    "new_id": "MECHE@MIT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS CSE@MIT",
+    "new_id": "CSE@MIT",
+    "duplicate_of": null,
+    "notes": "OpenCS canonical is CSE@MIT; MS prefix redundant"
+  },
+  {
+    "program_id": "CS MPI-IS PhD@Max Planck",
+    "new_id": "CS MPI-IS PhD@Max Planck",
+    "duplicate_of": null,
+    "notes": "MPI-IS is a different institute from MPI-SWS; distinct program"
+  },
+  {
+    "program_id": "CS PhD, MPI-SWS@Max Planck",
+    "new_id": "CS PhD, MPI-SWS@Max Planck",
+    "duplicate_of": null,
+    "notes": "MPI-SWS is a different institute from MPI-IS; distinct from CS PhD@Max Planck"
+  },
+  {
+    "program_id": "CS PhD@Max Planck",
+    "new_id": "CS PhD@Max Planck",
+    "duplicate_of": null,
+    "notes": "Different from CS PhD, MPI-SWS@Max Planck (different institutes)"
+  },
+  {
+    "program_id": "IMPRS-Neurosciences@Max Planck",
+    "new_id": "IMPRS-Neurosciences@Max Planck",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "IMPRS-TRUST@Max Planck",
+    "new_id": "IMPRS-TRUST@Max Planck",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Master of Artificial Intelligence@Monash",
+    "new_id": "Master of Artificial Intelligence@Monash",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CSC PhD@NCSU",
+    "new_id": "CSC PhD@NCSU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@NCSU",
+    "new_id": "ECE PhD@NCSU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS Align@NEU",
+    "new_id": "CS Align@NEU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms CS Align@NEU"
+  },
+  {
+    "program_id": "CS General@NEU",
+    "new_id": "CS General@NEU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms CS General@NEU"
+  },
+  {
+    "program_id": "ECE PhD@NEU",
+    "new_id": "ECE PhD@NEU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSDS@NEU",
+    "new_id": "MSDS@NEU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSAI@NTU",
+    "new_id": "MSAI@NTU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MScEE@NTU",
+    "new_id": "MScEE@NTU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MScSPML@NTU",
+    "new_id": "MScSPML@NTU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@NUS",
+    "new_id": "CS PhD@NUS",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "DID PhD@NUS",
+    "new_id": "DID PhD@NUS",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MComp-AI@NUS",
+    "new_id": "MComp-AI@NUS",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCE@NUS",
+    "new_id": "MSCE@NUS",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc in EDI@NUS",
+    "new_id": "MSc EDI@NUS",
+    "duplicate_of": null,
+    "notes": "Remove redundant 'in' preposition"
+  },
+  {
+    "program_id": "CS PhD@NWU",
+    "new_id": "CS PhD@NWU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EE PhD@NWU",
+    "new_id": "EE PhD@NWU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCE@NWU",
+    "new_id": "MSCE@NWU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@NWU",
+    "new_id": "MSCS@NWU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@NWU"
+  },
+  {
+    "program_id": "Neuroscience PhD (NUIN)@NWU",
+    "new_id": "Neuroscience PhD (NUIN)@NWU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CDS PhD@NYU",
+    "new_id": "CDS PhD@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@NYU",
+    "new_id": "CS PhD@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Courant MSCS@NYU",
+    "new_id": "MSCS@NYU-Courant",
+    "duplicate_of": null,
+    "notes": "OpenCS canonical is MSCS@NYU Courant; reformatted as MSCS@NYU-Courant per convention"
+  },
+  {
+    "program_id": "EE PhD@NYU",
+    "new_id": "EE PhD@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ITP@NYU",
+    "new_id": "ITP@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSIS@NYU",
+    "new_id": "MSIS@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSQF@NYU",
+    "new_id": "MSQF@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Tandon MSCE@NYU",
+    "new_id": "Tandon MSCE@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Tandon MSCS@NYU",
+    "new_id": "Tandon MSCS@NYU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CSE PhD@OSU",
+    "new_id": "CSE PhD@OSU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@OSU",
+    "new_id": "ECE PhD@OSU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCSE@OSU",
+    "new_id": "MSCSE@OSU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCSE@OSU"
+  },
+  {
+    "program_id": "System Engineering PhD@Oxford",
+    "new_id": "System Engineering PhD@Oxford",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CSE PhD@PSU",
+    "new_id": "CSE PhD@PSU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EE PhD@PSU",
+    "new_id": "EE PhD@PSU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EIE MsC@PolyU",
+    "new_id": "EIE MSc@PolyU",
+    "duplicate_of": null,
+    "notes": "Fix casing: MsC → MSc"
+  },
+  {
+    "program_id": "MDes in ISD@PolyU",
+    "new_id": "MDes ISD@PolyU",
+    "duplicate_of": null,
+    "notes": "Remove redundant 'in' preposition"
+  },
+  {
+    "program_id": "CS PhD@Princeton",
+    "new_id": "CS PhD@Princeton",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSE CS@Princeton",
+    "new_id": "MSE CS@Princeton",
+    "duplicate_of": null,
+    "notes": "OpenCS says MSECS@Princeton but per instructions keep spaces for clarity"
+  },
+  {
+    "program_id": "CS PhD@Purdue",
+    "new_id": "CS PhD@Purdue",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@Purdue",
+    "new_id": "ECE PhD@Purdue",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@Purdue",
+    "new_id": "MSCS@Purdue",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@Purdue"
+  },
+  {
+    "program_id": "MSECE@Purdue",
+    "new_id": "MSECE@Purdue",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSHCI@RIT",
+    "new_id": "MSHCI@RIT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Rice",
+    "new_id": "CS PhD@Rice",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@Rice",
+    "new_id": "ECE PhD@Rice",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MCS@Rice",
+    "new_id": "MCS@Rice",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MCS@Rice"
+  },
+  {
+    "program_id": "New Brunswick CS PhD@Rutgers",
+    "new_id": "New Brunswick CS PhD@Rutgers",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Engineering Science MENG@SFU",
+    "new_id": "Engineering Science MEng@SFU",
+    "duplicate_of": null,
+    "notes": "Fix casing: MENG → MEng (standard degree abbreviation)"
+  },
+  {
+    "program_id": "CS PhD@Stanford",
+    "new_id": "CS PhD@Stanford",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@Stanford",
+    "new_id": "MSCS@Stanford",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@Stanford"
+  },
+  {
+    "program_id": "MSEE@Stanford",
+    "new_id": "MSEE@Stanford",
+    "duplicate_of": null,
+    "notes": "OpenCS says EE@Stanford but per instructions MSEE is more explicit and preferred"
+  },
+  {
+    "program_id": "CS PhD@Stony Brook",
+    "new_id": "CS PhD@Stony Brook",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@TAMU",
+    "new_id": "CS PhD@TAMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@TAMU",
+    "new_id": "ECE PhD@TAMU",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MCS@TAMU",
+    "new_id": "MCS@TAMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MCS@TAMU"
+  },
+  {
+    "program_id": "MSCS@TAMU",
+    "new_id": "MSCS@TAMU",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@TAMU"
+  },
+  {
+    "program_id": "Doctoral Program in Chemical and Biological Sciences@TSRI",
+    "new_id": "Doctoral Program in Chemical and Biological Sciences@TSRI",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@TU Delft",
+    "new_id": "MSCS@TU Delft",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSEE@TU Delft",
+    "new_id": "MSEE@TU Delft",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSc CESE@TU Delft",
+    "new_id": "MSc CESE@TU Delft",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Human Technology Interaction - Human Centered AI@TU/e",
+    "new_id": "HTI-HCAI@TU/e",
+    "duplicate_of": "Human-Technology Interaction@TU/e",
+    "notes": "Duplicate of Human-Technology Interaction@TU/e (same program, longer name is a subtrack description). Abbreviated as HTI-HCAI@TU/e for reference but marked as duplicate."
+  },
+  {
+    "program_id": "Human-Technology Interaction@TU/e",
+    "new_id": "Human-Technology Interaction@TU/e",
+    "duplicate_of": null,
+    "notes": "Canonical form; Human Technology Interaction - Human Centered AI@TU/e is duplicate of this"
+  },
+  {
+    "program_id": "MsC CSE@TU/e",
+    "new_id": "MSc CSE@TU/e",
+    "duplicate_of": null,
+    "notes": "Fix casing: MsC → MSc"
+  },
+  {
+    "program_id": "CS PhD@TUM",
+    "new_id": "CS PhD@TUM",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "International Graduate Program (C)@Tokyo Tech",
+    "new_id": "International Graduate Program (C)@Tokyo Tech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@Tufts",
+    "new_id": "MSCS@Tufts",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@Tufts"
+  },
+  {
+    "program_id": "CS PhD@Tübingen",
+    "new_id": "CS PhD@Tübingen",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MsC (joint with VU Amsterdam)@UAmsterdam",
+    "new_id": "MSc (joint with VU Amsterdam)@UAmsterdam",
+    "duplicate_of": null,
+    "notes": "Fix casing: MsC → MSc"
+  },
+  {
+    "program_id": "MsC CS(joint degree with VU)@UAmsterdam",
+    "new_id": "MSc CS (joint degree with VU)@UAmsterdam",
+    "duplicate_of": null,
+    "notes": "Fix casing: MsC → MSc; add space before parenthesis"
+  },
+  {
+    "program_id": "BME MENG@UBC",
+    "new_id": "BME MEng@UBC",
+    "duplicate_of": null,
+    "notes": "Fix casing: MENG → MEng"
+  },
+  {
+    "program_id": "MSc CS@UBC",
+    "new_id": "MSc CS@UBC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Analytics@UCB",
+    "new_id": "Analytics@UCB",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "EECS MEng@UCB",
+    "new_id": "EECS MEng@UCB",
+    "duplicate_of": null,
+    "notes": "OpenCS says EECS Meng@Berkeley; UCB is standard univ code, MEng is standard casing — already correct"
+  },
+  {
+    "program_id": "EECS PhD@UCB",
+    "new_id": "EECS PhD@UCB",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MDes@UCB",
+    "new_id": "MDes@UCB",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MDevEng@UCB",
+    "new_id": "MDevEng@UCB",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSECE@UCD",
+    "new_id": "MSECE@UCD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UCI",
+    "new_id": "CS PhD@UCI",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MCS@UCI",
+    "new_id": "MCS@UCI",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MCS@UCI"
+  },
+  {
+    "program_id": "MSCE@UCI",
+    "new_id": "MSCE@UCI",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UCI",
+    "new_id": "MSCS@UCI",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Master of Informatics@UCI",
+    "new_id": "Master of Informatics@UCI",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MengEECS@UCI",
+    "new_id": "MEng EECS@UCI",
+    "duplicate_of": null,
+    "notes": "Fix compound: MengEECS → MEng EECS (add space, standard degree casing)"
+  },
+  {
+    "program_id": "Systems Neuroscience PhD@UCL",
+    "new_id": "Systems Neuroscience PhD@UCL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS MEng@UCLA",
+    "new_id": "CS MEng@UCLA",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UCLA",
+    "new_id": "CS PhD@UCLA",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE MS@UCLA",
+    "new_id": "MS ECE@UCLA",
+    "duplicate_of": null,
+    "notes": "Reorder to match convention: degree prefix before department code (MS ECE not ECE MS)"
+  },
+  {
+    "program_id": "ECE PhD@UCLA",
+    "new_id": "ECE PhD@UCLA",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MDSH@UCLA",
+    "new_id": "MDSH@UCLA",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UCLA",
+    "new_id": "MSCS@UCLA",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@UCLA"
+  },
+  {
+    "program_id": "ECE PhD@UCR",
+    "new_id": "ECE PhD@UCR",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UCSB",
+    "new_id": "CS PhD@UCSB",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UCSB",
+    "new_id": "MSCS@UCSB",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@UCSB"
+  },
+  {
+    "program_id": "CSE PhD@UCSC",
+    "new_id": "CSE PhD@UCSC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCSE@UCSC",
+    "new_id": "MSCSE@UCSC",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCSE@UCSC"
+  },
+  {
+    "program_id": "CS PhD@UCSD",
+    "new_id": "CS PhD@UCSD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS75@UCSD",
+    "new_id": "CS75@UCSD",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms CS75@UCSD"
+  },
+  {
+    "program_id": "CS76@UCSD",
+    "new_id": "CS76@UCSD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@UCSD",
+    "new_id": "ECE PhD@UCSD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE@UCSD",
+    "new_id": "ECE@UCSD",
+    "duplicate_of": "MS ECE@UCSD",
+    "notes": "Likely duplicate of MS ECE@UCSD (same UCSD ECE MS program; ECE@UCSD lacks explicit degree prefix). MS ECE@UCSD is the more explicit canonical form."
+  },
+  {
+    "program_id": "MS ECE@UCSD",
+    "new_id": "MS ECE@UCSD",
+    "duplicate_of": null,
+    "notes": "Canonical form for UCSD ECE master's; ECE@UCSD is duplicate"
+  },
+  {
+    "program_id": "ADS@UChicago",
+    "new_id": "ADS@UChicago",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UChicago",
+    "new_id": "CS PhD@UChicago",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UF",
+    "new_id": "MSCS@UF",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@UF"
+  },
+  {
+    "program_id": "PHD_CSCI@UGA",
+    "new_id": "CS PhD@UGA",
+    "duplicate_of": null,
+    "notes": "Malformed ID (underscore, all-caps PHD, CSCI abbreviation); normalized to standard CS PhD@UGA"
+  },
+  {
+    "program_id": "CS PhD@UIUC",
+    "new_id": "CS PhD@UIUC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE MEng@UIUC",
+    "new_id": "ECE MEng@UIUC",
+    "duplicate_of": null,
+    "notes": "OpenCS says ECE Meng@UIUC; already correct with MEng casing"
+  },
+  {
+    "program_id": "ECE PhD@UIUC",
+    "new_id": "ECE PhD@UIUC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MCS@UIUC",
+    "new_id": "MCS@UIUC",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MCS@UIUC"
+  },
+  {
+    "program_id": "MSCS@UIUC",
+    "new_id": "MSCS@UIUC",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@UIUC"
+  },
+  {
+    "program_id": "MSIM@UIUC",
+    "new_id": "MSIM@UIUC",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSIM@UIUC"
+  },
+  {
+    "program_id": "Data Science Course@UKyoto",
+    "new_id": "Data Science Course@UKyoto",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "GFLS MS@UKyoto",
+    "new_id": "GFLS MS@UKyoto",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Intelligence Science and Technology Course@UKyoto",
+    "new_id": "Intelligence Science and Technology Course@UKyoto",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Social Informatics Course@UKyoto",
+    "new_id": "Social Informatics Course@UKyoto",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UMD",
+    "new_id": "CS PhD@UMD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE MEng@UMD",
+    "new_id": "ECE MEng@UMD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@UMD",
+    "new_id": "ECE PhD@UMD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "HCIM@UMD",
+    "new_id": "HCIM@UMD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UMD",
+    "new_id": "MSCS@UMD",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@UMD"
+  },
+  {
+    "program_id": "MSDS@UMD",
+    "new_id": "MSDS@UMD",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Graduate Program in Neuroscience (GPN)@UMN",
+    "new_id": "Graduate Program in Neuroscience (GPN)@UMN",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UMN",
+    "new_id": "MSCS@UMN",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@UMN"
+  },
+  {
+    "program_id": "MSc CS@UMacau",
+    "new_id": "MSc CS@UMacau",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UMass-Amherst",
+    "new_id": "MSCS@UMass",
+    "duplicate_of": null,
+    "notes": "OpenCS canonical is MSCS@UMass; UMass is the standard univ code"
+  },
+  {
+    "program_id": "CSE PhD@UMich",
+    "new_id": "CSE PhD@UMich",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@UMich",
+    "new_id": "ECE PhD@UMich",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MHI@UMich",
+    "new_id": "MHI@UMich",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCSE@UMich",
+    "new_id": "MSCSE@UMich",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCSE@UMich"
+  },
+  {
+    "program_id": "MSDS@UMich",
+    "new_id": "MSDS@UMich",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSECE@UMich",
+    "new_id": "MSECE@UMich",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSI@UMich",
+    "new_id": "MSI@UMich",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "QFRM@UMich",
+    "new_id": "QFRM@UMich",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UNC-Chapel Hill",
+    "new_id": "CS PhD@UNC-Chapel Hill",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSIS@UNC-Chapel Hill",
+    "new_id": "MSIS@UNC-Chapel Hill",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CGGT@UPenn",
+    "new_id": "CGGT@UPenn",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms CGGT@UPenn"
+  },
+  {
+    "program_id": "CS PhD@UPenn",
+    "new_id": "CS PhD@UPenn",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS SCMP@UPenn",
+    "new_id": "MS SCMP@UPenn",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UPenn",
+    "new_id": "MSCS@UPenn",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSE CIS@UPenn",
+    "new_id": "MSE CIS@UPenn",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSE EE@UPenn",
+    "new_id": "MSE EE@UPenn",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Master Fast Track@UPenn",
+    "new_id": "Master Fast Track@UPenn",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UPitt",
+    "new_id": "CS PhD@UPitt",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Neuroscience PhD@UPitt",
+    "new_id": "Neuroscience PhD@UPitt",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@USC",
+    "new_id": "CS PhD@USC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@USC",
+    "new_id": "ECE PhD@USC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MS Game Design and Development@USC",
+    "new_id": "MS Game Design and Development@USC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@USC",
+    "new_id": "MSCS@USC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSECE@USC",
+    "new_id": "MSECE@USC",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MEng@USyd",
+    "new_id": "MEng@USyd",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS (advanced)@USyd",
+    "new_id": "MSCS (advanced)@USyd",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UT-Austin",
+    "new_id": "CS PhD@UT-Austin",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@UT-Austin",
+    "new_id": "ECE PhD@UT-Austin",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UT-Austin",
+    "new_id": "MSCS@UT-Austin",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@UT-Austin"
+  },
+  {
+    "program_id": "MSECE@UT-Austin",
+    "new_id": "MSECE@UT-Austin",
+    "duplicate_of": null,
+    "notes": "OpenCS says ECE@UT Austin but per instructions MSECE is more explicit and preferred; UT-Austin is our standard univ code"
+  },
+  {
+    "program_id": "Neuroscience PhD@UT-Austin",
+    "new_id": "Neuroscience PhD@UT-Austin",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Department of Creative Informatics@UTokyo",
+    "new_id": "Department of Creative Informatics@UTokyo",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "G30-TMI MPhil@UTokyo",
+    "new_id": "G30-TMI MPhil@UTokyo",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "BME, EE MENG@UToronto",
+    "new_id": "BME-EE MEng@UToronto",
+    "duplicate_of": null,
+    "notes": "Fix casing: MENG → MEng; replace comma-space separator with hyphen for compactness"
+  },
+  {
+    "program_id": "CS PhD@UToronto",
+    "new_id": "CS PhD@UToronto",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@UToronto",
+    "new_id": "ECE PhD@UToronto",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MScAC@UToronto",
+    "new_id": "MScAC@UToronto",
+    "duplicate_of": null,
+    "notes": "OpenCS says MScAc@UofT; UToronto is our standard univ code; MScAC casing is correct per instructions"
+  },
+  {
+    "program_id": "CS PhD@UVA",
+    "new_id": "CS PhD@UVA",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MCS@UVA",
+    "new_id": "MCS@UVA",
+    "duplicate_of": null,
+    "notes": "OpenCS says MCS@UVa; UVA is our standard univ code"
+  },
+  {
+    "program_id": "MSCS@UVA",
+    "new_id": "MSCS@UVA",
+    "duplicate_of": null,
+    "notes": "OpenCS says MSCS@UVa; UVA is our standard univ code"
+  },
+  {
+    "program_id": "CS PhD@UW",
+    "new_id": "CS PhD@UW",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@UW",
+    "new_id": "ECE PhD@UW",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "HCDE@UW",
+    "new_id": "HCDE@UW",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@UW-Madison",
+    "new_id": "CS PhD@UW-Madison",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS-PMP@UW-Madison",
+    "new_id": "CS-PMP@UW-Madison",
+    "duplicate_of": null,
+    "notes": "OpenCS says CS-PMP@Wisc; UW-Madison is our standard univ code"
+  },
+  {
+    "program_id": "ECE PhD@UW-Madison",
+    "new_id": "ECE PhD@UW-Madison",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE-PMP@UW-Madison",
+    "new_id": "ECE-PMP@UW-Madison",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@UW-Madison",
+    "new_id": "MSCS@UW-Madison",
+    "duplicate_of": null,
+    "notes": "OpenCS says MSCS@Wisc; UW-Madison is our standard univ code"
+  },
+  {
+    "program_id": "CS PhD@UWaterloo",
+    "new_id": "CS PhD@UWaterloo",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MMath@UWaterloo",
+    "new_id": "MMath@UWaterloo",
+    "duplicate_of": null,
+    "notes": "OpenCS says MMath@Waterloo; UWaterloo is our standard univ code"
+  },
+  {
+    "program_id": "CS PhD@Utah",
+    "new_id": "CS PhD@Utah",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "VIBOT MSc@VIBOT",
+    "new_id": "VIBOT MSc@VIBOT",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CS PhD@Vanderbilt",
+    "new_id": "CS PhD@Vanderbilt",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "CSA PhD@Virginia Tech",
+    "new_id": "CSA PhD@Virginia Tech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ECE PhD@Virginia Tech",
+    "new_id": "ECE PhD@Virginia Tech",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "BME PhD@WUSTL",
+    "new_id": "BME PhD@WUSTL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "ME PhD@WUSTL",
+    "new_id": "ME PhD@WUSTL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@WUSTL",
+    "new_id": "MSCS@WUSTL",
+    "duplicate_of": null,
+    "notes": "OpenCS confirms MSCS@WUSTL"
+  },
+  {
+    "program_id": "MSECE@WUSTL",
+    "new_id": "MSECE@WUSTL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSF@WUSTL",
+    "new_id": "MSF@WUSTL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "Neuroscience PhD@WUSTL",
+    "new_id": "Neuroscience PhD@WUSTL",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "MSCS@William and Mary",
+    "new_id": "MSCS@William and Mary",
+    "duplicate_of": null,
+    "notes": ""
+  },
+  {
+    "program_id": "1-Year MSCS@Yale",
+    "new_id": "MSCS-1Y@Yale",
+    "duplicate_of": null,
+    "notes": "OpenCS says One-Year MSCS@Yale; reformatted to MSCS-1Y@Yale per instructions"
+  },
+  {
+    "program_id": "2-Year MSCS@Yale",
+    "new_id": "MSCS-2Y@Yale",
+    "duplicate_of": null,
+    "notes": "OpenCS says Two-Year MSCS@Yale; reformatted to MSCS-2Y@Yale per instructions"
+  },
+  {
+    "program_id": "CS PhD@Yale",
+    "new_id": "CS PhD@Yale",
+    "duplicate_of": null,
+    "notes": ""
+  }
+]

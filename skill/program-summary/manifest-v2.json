@@ -1,0 +1,5318 @@
+{
+  "generatedAt": "2026-06-19T00:00:00Z-agent-rematched",
+  "programCount": 327,
+  "fileCounts": {
+    "OpenCS": 175,
+    "GlobalCS": 76,
+    "CSGrad": 83
+  },
+  "programs": {
+    "1-Year MSCS@Yale": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/One-Year MSCS@Yale.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/One-Year%20MSCS%40Yale.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/One-Year%20MSCS%40Yale.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A/Yale MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A/Yale%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A/Yale%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "2-Year MSCS@Yale": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/Two-Year MSCS@Yale.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/Two-Year%20MSCS%40Yale.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/Two-Year%20MSCS%40Yale.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SS/Yale MSCS 2year.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SS/Yale%20MSCS%202year.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/Yale%20MSCS%202year.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "ADS@UChicago": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "AMC PhD@HKUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Analytics@UCB": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Applied Physics PhD@Caltech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "BME MENG@UBC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "BME PhD@Colorado Boulder": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "BME PhD@GaTech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "BME PhD@WUSTL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "BME, EE MENG@UToronto": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "BioENG@JHU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Biology@MIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CDS PhD@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CEE PhD@MIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CGGT@UPenn": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CGGT@UPenn.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CGGT%40UPenn.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CGGT%40UPenn.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "CS AI-Center PhD@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS Align@NEU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CS Align@NEU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CS%20Align%40NEU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS%20Align%40NEU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B/NEU CS ALIGN.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B/NEU%20CS%20ALIGN.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B/NEU%20CS%20ALIGN.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "CS CLS PhD@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS Direct PhD@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS General@NEU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CS General@NEU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CS%20General%40NEU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS%20General%40NEU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B/NEU MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B/NEU%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B/NEU%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "CS MEng@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CS Meng@Cornell.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CS%20Meng%40Cornell.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS%20Meng%40Cornell.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/Cornell CS MENG.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/Cornell%20CS%20MENG.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/Cornell%20CS%20MENG.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "CS MEng@UCLA": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/UCLA MENG.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/UCLA%20MENG.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/UCLA%20MENG.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "CS MPI-IS PhD@Max Planck": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS MPhil@HKU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS MS&PhD@KAUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/TX/KAUST CS Msc.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/TX/KAUST%20CS%20Msc.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/KAUST%20CS%20Msc.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "CS PhD (Joint with CUHKSZ)@KAUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD Track@IP-Paris": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD, MPI-SWS@Max Planck": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@ASU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Brown": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Caltech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Colorado Boulder": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Columbia": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Dartmouth": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Drexel": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Duke": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@GaTech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@HKU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@KAUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Max Planck": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@NUS": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@NWU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Princeton": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Purdue": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Rice": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Stanford": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Stony Brook": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@TAMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@TUM": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/TX/TUM CS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/TX/TUM%20CS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/TX/TUM%20CS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "CS PhD@Tübingen": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UCI": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UCLA": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UCSB": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UCSD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UChicago": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UIUC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UMD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UNC-Chapel Hill": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UPenn": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UPitt": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@USC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UT-Austin": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UToronto": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UVA": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UW": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UW-Madison": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@UWaterloo": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Utah": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Vanderbilt": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS PhD@Yale": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS Phd@HKBU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS Phd@JHU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CS-PMP@UW-Madison": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CS-PMP@Wisc.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CS-PMP%40Wisc.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS-PMP%40Wisc.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/Wisc CS PMP.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/Wisc%20CS%20PMP.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Wisc%20CS%20PMP.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "CS75@UCSD": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CS75@UCSD.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CS75%40UCSD.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CS75%40UCSD.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/ucsd cs75.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/ucsd%20cs75.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/ucsd%20cs75.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "CS76@UCSD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSA PhD@Virginia Tech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSC PhD@NCSU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSE PhD@HKUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSE PhD@MIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSE PhD@OSU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSE PhD@PSU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSE PhD@UCSC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSE PhD@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "CSE@Harvard": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CSE@Harvard.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CSE%40Harvard.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CSE%40Harvard.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SS/Harvard CSE.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SS/Harvard%20CSE.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/Harvard%20CSE.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "Computer Science (General Stream)@HKU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T1.5/HKU CS Msc.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T1.5/HKU%20CS%20Msc.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/HKU%20CS%20Msc.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "Courant MSCS@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@NYU Courant.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40NYU%20Courant.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40NYU%20Courant.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "DID PhD@NUS": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Data Science Course@UKyoto": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Department of Creative Informatics@UTokyo": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Doctoral Program in Chemical and Biological Sciences@TSRI": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Dual MSIS in Health Tech@Cornell Tech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE MEng@UIUC": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/ECE Meng@UIUC.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/ECE%20Meng%40UIUC.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20Meng%40UIUC.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B/UIUC ECE MENG.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B/UIUC%20ECE%20MENG.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B/UIUC%20ECE%20MENG.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "ECE MEng@UMD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE MPhil@HKUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE MS@UCLA": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@Binghamton": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A/CMU ECE.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A/CMU%20ECE.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A/CMU%20ECE.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "ECE PhD@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@GaTech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/Gatech ECE.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/Gatech%20ECE.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/Gatech%20ECE.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "ECE PhD@HKUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@NCSU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@NEU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@OSU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@Purdue": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@Rice": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@TAMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UCLA": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UCR": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UCSD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UIUC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UMD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@USC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UT-Austin": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/ut ece.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/ut%20ece.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/ut%20ece.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "ECE PhD@UToronto": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UW": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@UW-Madison": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE PhD@Virginia Tech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE-PMP@UW-Madison": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ECE@UCSD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "EDIC PhD@EPFL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "EE MS&PhD@Columbia": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B+/Columbia ee.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B%2B/Columbia%20ee.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/Columbia%20ee.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "EE PhD@NWU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "EE PhD@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "EE PhD@PSU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "EECS MEng@UCB": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/EECS Meng@Berkeley.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/EECS%20Meng%40Berkeley.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/EECS%20Meng%40Berkeley.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/UCB EECS meng.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/UCB%20EECS%20meng.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/UCB%20EECS%20meng.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "EECS PhD@MIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/SSS/MIT EECS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/SSS/MIT%20EECS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/SSS/MIT%20EECS.md"
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SSS/MIT EECS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SSS/MIT%20EECS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SSS/MIT%20EECS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "EECS PhD@UCB": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "EEE PhD@Bristol": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "EIE MsC@PolyU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ELLIS PhD@ELLIS": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Engineering PhD@Dartmouth": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Engineering Science MENG@SFU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "G30-TMI MPhil@UTokyo": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "GFLS MS@UKyoto": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "GSAS CS PhD@Harvard": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Graduate Program in Neuroscience (GPN)@UMN": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "HCDE@UW": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "HCII PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "HCIM@UMD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Human Technology Interaction - Human Centered AI@TU/e": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Human-Computer Interaction Design (HCID)@EIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Human-Technology Interaction@TU/e": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "IDS MPhil&PhD@HKU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "IE PhD@CUHK": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T1.5/CUHK IE.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T1.5/CUHK%20IE.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/CUHK%20IE.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "IMPRS-Neurosciences@Max Planck": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "IMPRS-TRUST@Max Planck": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ITP@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Intelligence Science and Technology Course@UKyoto": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Interactive Media Technology@KTH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "International Graduate Program (C)@Tokyo Tech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "LIT MS/PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "LTI PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MCS@Rice": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MCS@Rice.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MCS%40Rice.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCS%40Rice.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B+/Rics MCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B%2B/Rics%20MCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/Rics%20MCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MCS@TAMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MCS@TAMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MCS%40TAMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCS%40TAMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MCS@UCI": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MCS@UCI.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MCS%40UCI.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCS%40UCI.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B/UCI MCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B/UCI%20MCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B/UCI%20MCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MCS@UIUC": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MCS@UIUC.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MCS%40UIUC.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCS%40UIUC.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A/uiuc mcs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A/uiuc%20mcs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A/uiuc%20mcs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MCS@UVA": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MCS@UVa.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MCS%40UVa.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MCS%40UVa.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MComp-AI@NUS": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T1.5/NUS Mcomp.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T1.5/NUS%20Mcomp.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/NUS%20Mcomp.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MDSH@UCLA": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MDes in ISD@PolyU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MDes@UCB": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MDevEng@UCB": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "ME PhD@WUSTL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MECHE@MIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MET@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MEng@USyd": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MHI@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MIIS@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MIIS@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MIIS%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MIIS%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/CMU MIIS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/CMU%20MIIS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/CMU%20MIIS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "ML PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MLT@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MLT@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MLT%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MLT%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MMath@UWaterloo": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MMath@Waterloo.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MMath%40Waterloo.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MMath%40Waterloo.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MPhil （RedBird）@HKUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MRSD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS CSE@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS CSE@MIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/CSE@MIT.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/CSE%40MIT.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/CSE%40MIT.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SSS/MIT CSE.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SSS/MIT%20CSE.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SSS/MIT%20CSE.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MS Cyber Security@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T0/ETH Cyber Security.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T0/ETH%20Cyber%20Security.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T0/ETH%20Cyber%20Security.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MS ECE@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/ECE@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/ECE%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A/CMU ECE.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A/CMU%20ECE.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A/CMU%20ECE.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MS ECE@GaTech": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/ECE@GaTech.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/ECE%40GaTech.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%40GaTech.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/Gatech ECE.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/Gatech%20ECE.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/Gatech%20ECE.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MS ECE@UCSD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS EE@Columbia": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B+/Columbia ee.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B%2B/Columbia%20ee.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/Columbia%20ee.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MS EE@IP-Paris": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS EEIT@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS Game Design and Development@USC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS RSC@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS SCMP@UPenn": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MS in AIDM@HKBU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSAI@NTU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T1.5/NTU MSAI.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T1.5/NTU%20MSAI.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/NTU%20MSAI.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSAII@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSAII@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSAII%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSAII%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/CMU MSAII.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/CMU%20MSAII.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/CMU%20MSAII.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSBME@JHU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCE@NUS": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T2/NUS CE.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T2/NUS%20CE.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T2/NUS%20CE.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCE@NWU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCE@UCI": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCS (advanced)@USyd": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCS@Aarhus": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T1.5/Aarhus CS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T1.5/Aarhus%20CS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/Aarhus%20CS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@BU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@BU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40BU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40BU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SS/cmu mscs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SS/cmu%20mscs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/cmu%20mscs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@Columbia": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@Columbia.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40Columbia.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Columbia.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A/columbia mscs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A/columbia%20mscs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A/columbia%20mscs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@Cornell.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40Cornell.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Cornell.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@Duke": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@Duke.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40Duke.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Duke.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/Duke mscs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/Duke%20mscs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Duke%20mscs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@EPFL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T0/EPFL MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T0/EPFL%20MSCS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T0/EPFL%20MSCS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T0/ETH MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T0/ETH%20MSCS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T0/ETH%20MSCS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@GaTech": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@GaTech.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40GaTech.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40GaTech.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/gatech mscs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/gatech%20mscs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/gatech%20mscs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@HKU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCS@KAUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCS@NWU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@NWU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40NWU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40NWU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B+/NWU MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B%2B/NWU%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/NWU%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@Purdue": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@Purdue.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40Purdue.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Purdue.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@Stanford": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@Stanford.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40Stanford.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Stanford.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SSS/stanford mscs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SSS/stanford%20mscs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SSS/stanford%20mscs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@TAMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@TAMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40TAMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40TAMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@TU Delft": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T1/TUD MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T1/TUD%20MSCS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1/TUD%20MSCS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@Tufts": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@Tufts.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40Tufts.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Tufts.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@UCI": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCS@UCLA": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UCLA.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UCLA.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UCLA.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/UCLA MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/UCLA%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/UCLA%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@UCSB": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UCSB.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UCSB.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UCSB.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/UCSB MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/UCSB%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/UCSB%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@UF": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UF.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UF.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UF.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@UIUC": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UIUC.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UIUC.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UIUC.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SS/uiuc mscs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SS/uiuc%20mscs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/uiuc%20mscs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@UMD": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UMD.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UMD.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UMD.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A/UMD MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A/UMD%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A/UMD%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@UMN": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UMN.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UMN.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UMN.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/C+/UMN MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/C%2B/UMN%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/C%2B/UMN%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@UMass-Amherst": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UMass.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UMass.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UMass.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B/UMass MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B/UMass%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B/UMass%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@UPenn": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCS@USC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCS@UT-Austin": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UT-Austin.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UT-Austin.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UT-Austin.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/UT MSCS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/UT%20MSCS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/UT%20MSCS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSCS@UVA": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@UVa.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40UVa.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40UVa.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@UW-Madison": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@Wisc.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40Wisc.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40Wisc.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@WUSTL": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCS@WUSTL.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCS%40WUSTL.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCS%40WUSTL.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCS@William and Mary": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSCSE@OSU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCSE@OSU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCSE%40OSU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCSE%40OSU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCSE@UCSC": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCSE@UCSC.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCSE%40UCSC.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCSE%40UCSC.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCSE@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCSE@UMich.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCSE%40UMich.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCSE%40UMich.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSCV@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSCV@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSCV%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSCV%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/CMU MSCV.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/CMU%20MSCV.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/CMU%20MSCV.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSDS@ETH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T0/ETH MSDS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T0/ETH%20MSDS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T0/ETH%20MSDS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSDS@NEU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSDS@UMD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSDS@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSDT@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSE CIS@UPenn": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/Upenn CIS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/Upenn%20CIS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/Upenn%20CIS.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSE CS@JHU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSECS@JHU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSECS%40JHU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSECS%40JHU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/jhu msecs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/jhu%20msecs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/jhu%20msecs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSE CS@Princeton": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSECS@Princeton.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSECS%40Princeton.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSECS%40Princeton.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SSS/Princeton MSECS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SSS/Princeton%20MSECS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SSS/Princeton%20MSECS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSE EE@UPenn": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B+/Upenn EE.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B%2B/Upenn%20EE.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B%2B/Upenn%20EE.md"
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MSE-SE@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSE-SS@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSE-SS@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSE-SS%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSE-SS%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/CMU MSESS.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/CMU%20MSESS.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/CMU%20MSESS.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSECE@Duke": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/ECE@Duke.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/ECE%40Duke.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%40Duke.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/duke ece.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/duke%20ece.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/duke%20ece.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSECE@Purdue": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSECE@UCD": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSECE@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSECE@USC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSECE@UT-Austin": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/ECE@UT Austin.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/ECE%40UT%20Austin.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%40UT%20Austin.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A+/ut ece.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A%2B/ut%20ece.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A%2B/ut%20ece.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSECE@WUSTL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSEE@Stanford": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/EE@Stanford.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/EE%40Stanford.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/EE%40Stanford.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/SS/stanford msee.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/SS/stanford%20msee.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/SS/stanford%20msee.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSEE@TU Delft": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSF@WUSTL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSHCI@GaTech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSHCI@RIT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSI@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSIM@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSIM@UIUC": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSIM@UIUC.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSIM%40UIUC.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSIM%40UIUC.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/B-/UIUC MSIM.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/B-/UIUC%20MSIM.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/B-/UIUC%20MSIM.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSIN@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSIN@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSIN%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSIN%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/cmu msin.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/cmu%20msin.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/cmu%20msin.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSIS@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSIS@UNC-Chapel Hill": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSML@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSML@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSML%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSML%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/CMU MSML.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/CMU%20MSML.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/CMU%20MSML.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSQF@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSR@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MSR@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MSR%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MSR%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/S/CMU MSR.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/S/CMU%20MSR.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/S/CMU%20MSR.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "MSc AI@Bristol": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc AI（CityU DG）@CityU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc BIS-FIT@CityU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc CESE@TU Delft": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc CS@UBC": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc CS@UMacau": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc CS（LGU）@CUHK": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc MAIR （LGU）@CUHK": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc MIT@CityU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc in BME@CUHK": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc in Computing@Imperial": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc in EDI@NUS": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MSc. CIE@CityU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MScAC@UToronto": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/MScAc@UofT.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/MScAc%40UofT.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/MScAc%40UofT.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MScEE@NTU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MScIC@HKUST": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MScIDT@HKU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MScSPML@NTU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Master Fast Track@UPenn": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Master of Artificial Intelligence@Monash": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Master of Informatics@UCI": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MedE-EE@Caltech": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Meng ECE@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/ECE MEng@Cornell.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/ECE%20MEng%40Cornell.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ECE%20MEng%40Cornell.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MengEECS@UCI": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MsC (joint with VU Amsterdam)@UAmsterdam": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T2/UvA&VU CS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T2/UvA%26VU%20CS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T2/UvA%26VU%20CS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MsC CS(joint degree with VU)@UAmsterdam": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T2/UvA&VU CS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T2/UvA%26VU%20CS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T2/UvA%26VU%20CS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "MsC CSE@TU/e": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": true,
+          "path": "docs/Program/T1.5/TUE CS.md",
+          "rawUrl": "https://raw.githubusercontent.com/Global-CS-application/global-cs-application.github.io/main/docs/Program/T1.5/TUE%20CS.md",
+          "htmlUrl": "https://github.com/Global-CS-application/global-cs-application.github.io/blob/main/docs/Program/T1.5/TUE%20CS.md"
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 1,
+      "hasSources": true
+    },
+    "Msc CS (CityU DG)@CityU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "MscEEE@HKU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neurobiology PhD@Duke": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neurobiology and Behavior PhD (NB&B)@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD (GPN)@BU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD (NUIN)@NWU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD@Brandeis": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD@Emory": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD@JHU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD@UPitt": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD@UT-Austin": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Neuroscience PhD@WUSTL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "New Brunswick CS PhD@Rutgers": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "PHD_CSCI@UGA": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Program in Neural Computation (PNC)@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Program in Systems Neuroscience (PSN)@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Psychology PhD@BU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "QFRM@UMich": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "RI PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "SE PhD@ASU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "SE PhD@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "SE@Cornell": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "SESV@CMU": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/SESV@CMU.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/SESV%40CMU.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/SESV%40CMU.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/cmu sesv.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/cmu%20sesv.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/cmu%20sesv.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "ScM CS@Brown": {
+      "sources": {
+        "OpenCS": {
+          "matched": true,
+          "path": "docs/ScM CS@Brown.md",
+          "rawUrl": "https://raw.githubusercontent.com/opencsapp/opencsapp.github.io/master/docs/ScM%20CS%40Brown.md",
+          "htmlUrl": "https://github.com/opencsapp/opencsapp.github.io/blob/master/docs/ScM%20CS%40Brown.md"
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": true,
+          "path": "docs/A-/brown scmcs.md",
+          "rawUrl": "https://raw.githubusercontent.com/csms-apply/csgrad/main/docs/A-/brown%20scmcs.md",
+          "htmlUrl": "https://github.com/csms-apply/csgrad/blob/main/docs/A-/brown%20scmcs.md"
+        }
+      },
+      "sourceCount": 2,
+      "hasSources": true
+    },
+    "ScM ECE@Brown": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Social Informatics Course@UKyoto": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Software Engineering of Distributed Systems@KTH": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "System Engineering PhD@Oxford": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Systems Neuroscience PhD@UCL": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Tandon MSCE@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "Tandon MSCS@NYU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "VIBOT MSc@VIBOT": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    },
+    "mse ece@JHU": {
+      "sources": {
+        "OpenCS": {
+          "matched": false
+        },
+        "GlobalCS": {
+          "matched": false
+        },
+        "CSGrad": {
+          "matched": false
+        }
+      },
+      "sourceCount": 0,
+      "hasSources": false
+    }
+  }
+}
