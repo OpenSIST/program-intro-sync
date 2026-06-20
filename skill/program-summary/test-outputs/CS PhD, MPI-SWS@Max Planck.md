@@ -1,5 +1,3 @@
-# CS PhD, MPI-SWS @ Max Planck
-
 > **ProgramID**: `CS PhD, MPI-SWS@Max Planck`
 > **官网**: [MPI-SWS Graduate Studies](https://www.mpi-sws.org/graduate-studies/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

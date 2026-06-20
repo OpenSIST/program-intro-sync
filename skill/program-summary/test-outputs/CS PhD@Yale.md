@@ -1,5 +1,3 @@
-# CS PhD @ Yale
-
 > **ProgramID**: `CS PhD@Yale`
 > **官网**: [Yale CS Graduate Program](https://engineering.yale.edu/computer-scienceacademics/graduate-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSCS @ UCSB
-
 > **ProgramID**: `MSCS@UCSB`
 > **官网**: [Master's Degree | UCSB Computer Science](https://cs.ucsb.edu/education/graduate/masters-degree) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# IE PhD @ CUHK
-
 > **ProgramID**: `IE PhD@CUHK`
 > **官网**: [MPhil-PhD in Information Engineering — IE, CUHK](https://www.ie.cuhk.edu.hk/programmes/mphil-phd-in-information-engineering/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# BME PhD @ Colorado Boulder
-
 > **ProgramID**: `BME PhD@Colorado Boulder`
 > **官网**: [CU Boulder BME PhD Program](https://www.colorado.edu/bme/academics/phd-program) _(2026-06-19)_
 > **生成日期**: 2026-06-19

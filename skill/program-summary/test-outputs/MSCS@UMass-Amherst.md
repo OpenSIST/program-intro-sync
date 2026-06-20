@@ -1,5 +1,3 @@
-# MSCS @ UMass-Amherst
-
 > **ProgramID**: `MSCS@UMass-Amherst`
 > **官网**: [MS in Computer Science — On Campus | Manning CICS](https://www.cics.umass.edu/academics/ms-computer-science-campus) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

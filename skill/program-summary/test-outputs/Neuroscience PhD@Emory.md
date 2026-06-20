@@ -1,5 +1,3 @@
-# Neuroscience PhD @ Emory
-
 > **ProgramID**: `Neuroscience PhD@Emory`
 > **官网**: [Emory Neuroscience Graduate Program](https://biomed.emory.edu/PROGRAM_SITES/NS/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

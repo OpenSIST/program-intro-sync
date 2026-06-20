@@ -1,5 +1,3 @@
-# MSECE @ UC Davis
-
 > **ProgramID**: `MSECE@UCD`
 > **官网**: [UC Davis ECE Graduate Program](https://ece.ucdavis.edu/graduate) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

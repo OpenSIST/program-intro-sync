@@ -1,5 +1,3 @@
-# MECHE @ MIT
-
 > **ProgramID**: `MECHE@MIT`
 > **官网**: [MIT Department of Mechanical Engineering – Graduate](https://meche.mit.edu/education/graduate) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

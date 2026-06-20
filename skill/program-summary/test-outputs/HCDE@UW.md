@@ -1,5 +1,3 @@
-# HCDE @ UW
-
 > **ProgramID**: `HCDE@UW`
 > **官网**: [HCDE Master of Science — University of Washington](https://www.hcde.washington.edu/ms) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

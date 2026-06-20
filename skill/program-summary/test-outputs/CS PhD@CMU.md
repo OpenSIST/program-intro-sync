@@ -1,5 +1,3 @@
-# CS PhD @ CMU
-
 > **ProgramID**: `CS PhD@CMU`
 > **官网**: [CMU CS PhD Admissions](https://csd.cmu.edu/academics/doctoral/admissions) _(2026-06-19)_
 > **生成日期**: 2026-06-19

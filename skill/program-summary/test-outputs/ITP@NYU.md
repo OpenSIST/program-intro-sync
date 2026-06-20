@@ -1,5 +1,3 @@
-# ITP @ NYU
-
 > **ProgramID**: `ITP@NYU`
 > **官网**: [ITP - NYU Tisch School of the Arts](https://tisch.nyu.edu/itp) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

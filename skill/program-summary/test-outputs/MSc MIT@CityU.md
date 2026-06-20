@@ -1,5 +1,3 @@
-# MSc MIT @ CityU
-
 > **ProgramID**: `MSc MIT@CityU`
 > **官网**: [MSc Multimedia Information Technology | CityUHK Postgraduate Admissions](https://www.cityu.edu.hk/pg/programme/p59) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

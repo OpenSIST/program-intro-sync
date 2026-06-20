@@ -1,5 +1,3 @@
-# CS PhD @ UChicago
-
 > **ProgramID**: `CS PhD@UChicago`
 > **官网**: [UChicago CS PhD Program](https://cs.uchicago.edu/academics/phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

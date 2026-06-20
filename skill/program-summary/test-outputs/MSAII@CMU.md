@@ -1,5 +1,3 @@
-# MSAII @ CMU
-
 > **ProgramID**: `MSAII@CMU`
 > **官网**: [Carnegie Mellon University MSAII](https://msaii.cs.cmu.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# CS Align @ NEU (Northeastern University)
-
 > **ProgramID**: `CS Align@NEU`
 > **官网**: [Align MSCS – Boston](https://graduate.northeastern.edu/programs/mscs-computer-science-align/master-of-science-in-computer-science-align-boston/) _(WebSearch + WebFetch，2026-06-19)_
 > **申请页**: [How to Apply – Align](https://www.khoury.northeastern.edu/apply/align-how-to-apply/) _(WebFetch，2026-06-19)_

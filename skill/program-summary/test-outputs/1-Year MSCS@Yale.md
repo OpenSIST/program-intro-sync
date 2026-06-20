@@ -1,5 +1,3 @@
-# 1-Year MSCS @ Yale
-
 > **ProgramID**: `1-Year MSCS@Yale`
 > **官网**: [Computer Science | Master of Science | Yale Engineering](https://engineering.yale.edu/computer-scienceacademics/graduate-program/master-science) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

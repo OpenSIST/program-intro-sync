@@ -1,5 +1,3 @@
-# EEE PhD @ Bristol
-
 > **ProgramID**: `EEE PhD@Bristol`
 > **官网**: [PhD Electrical and Electronic Engineering — University of Bristol](https://www.bristol.ac.uk/study/postgraduate/research/electrical-and-electronic-engineering/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

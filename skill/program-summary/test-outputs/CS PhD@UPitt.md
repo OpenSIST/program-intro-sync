@@ -1,5 +1,3 @@
-# CS PhD @ UPitt
-
 > **ProgramID**: `CS PhD@UPitt`
 > **官网**: [PhD in Computer Science - Pitt SCI](https://www.sci.pitt.edu/academics/doctoral-degrees/computer-science-phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# ELLIS PhD @ ELLIS
-
 > **ProgramID**: `ELLIS PhD@ELLIS`
 > **官网**: [ELLIS PhD Program Details](https://ellis.eu/research/phd-postdoc/phd-postdoc-program-details) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MS EE @ IP-Paris
-
 > **ProgramID**: `MS EE@IP-Paris`
 > **官网**: [Electrical Engineering Program — Institut Polytechnique de Paris](https://www.ip-paris.fr/en/education/masters/electrical-engineering-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

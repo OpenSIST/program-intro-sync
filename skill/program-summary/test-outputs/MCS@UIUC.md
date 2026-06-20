@@ -1,5 +1,3 @@
-# MCS @ UIUC
-
 > **ProgramID**: `MCS@UIUC`
 > **官网**: [Master of Computer Science in Urbana-Champaign | Siebel School](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/campus-master-computer-science) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

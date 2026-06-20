@@ -1,5 +1,3 @@
-# CS PhD @ GaTech
-
 > **ProgramID**: `CS PhD@GaTech`
 > **官网**: [Ph.D. CS Admissions Requirements — College of Computing](https://www.cc.gatech.edu/phd-cs-admissions-requirements) _(2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSc AI（CityU DG）@ CityU
-
 > **ProgramID**: `MSc AI（CityU DG）@CityU`
 > **官网**: [Artificial Intelligence | CityU Dongguan Admissions](https://pga.cityu-dg.edu.cn/en/artificial-intelligence) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

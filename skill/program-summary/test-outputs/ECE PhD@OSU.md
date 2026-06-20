@@ -1,5 +1,3 @@
-# ECE PhD @ OSU (The Ohio State University)
-
 > **ProgramID**: `ECE PhD@OSU`
 > **官网**: [ECE Graduate Admissions - The Ohio State University](https://ece.osu.edu/graduate-admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

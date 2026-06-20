@@ -1,5 +1,3 @@
-# ECE PhD @ CMU
-
 > **ProgramID**: `ECE PhD@CMU`
 > **官网**: [CMU ECE PhD Admissions](https://www.ece.cmu.edu/admissions/index.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

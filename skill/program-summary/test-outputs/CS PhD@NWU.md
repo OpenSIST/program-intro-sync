@@ -1,5 +1,3 @@
-# CS PhD @ Northwestern University (NWU)
-
 > **ProgramID**: `CS PhD@NWU`
 > **官网**: [Northwestern CS PhD – McCormick School of Engineering](https://www.mccormick.northwestern.edu/computer-science/graduate/phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

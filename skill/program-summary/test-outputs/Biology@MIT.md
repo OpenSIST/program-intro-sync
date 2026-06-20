@@ -1,5 +1,3 @@
-# Biology @ MIT
-
 > **ProgramID**: `Biology@MIT`
 > **官网**: [MIT Department of Biology — Graduate Prospective Students](https://biology.mit.edu/graduate/prospective-students/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

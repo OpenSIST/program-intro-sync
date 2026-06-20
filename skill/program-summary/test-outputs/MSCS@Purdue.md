@@ -1,5 +1,3 @@
-# MSCS @ Purdue University
-
 > **ProgramID**: `MSCS@Purdue`
 > **官网**: [Purdue CS Master's Program](https://www.cs.purdue.edu/graduate/curriculum/masters.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

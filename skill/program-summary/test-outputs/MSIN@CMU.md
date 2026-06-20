@@ -1,5 +1,3 @@
-# MSIN @ CMU
-
 > **ProgramID**: `MSIN@CMU`
 > **官网**: [Master of Science in Information Networking (MSIN) – CMU INI](https://www.cmu.edu/ini/academics/msin/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

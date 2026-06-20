@@ -1,5 +1,3 @@
-# PHD_CSCI @ University of Georgia (UGA)
-
 > **ProgramID**: `PHD_CSCI@UGA`
 > **官网**: [Doctor of Philosophy in Computer Science | UGA School of Computing](https://computing.uga.edu/doctor-philosophy-computer-science) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

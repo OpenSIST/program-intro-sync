@@ -1,5 +1,3 @@
-# Master of Artificial Intelligence @ Monash
-
 > **ProgramID**: `Master of Artificial Intelligence@Monash`
 > **官网**: [Master of Artificial Intelligence | Monash University](https://www.monash.edu/study/courses/find-a-course/artificial-intelligence-c6007) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

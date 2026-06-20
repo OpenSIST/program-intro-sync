@@ -1,5 +1,3 @@
-# MS EE @ Columbia
-
 > **ProgramID**: `MS EE@Columbia`
 > **官网**: [MS EE Program - Columbia Electrical Engineering](https://www.ee.columbia.edu/ms-program-ee) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# ME PhD @ WUSTL
-
 > **ProgramID**: `ME PhD@WUSTL`
 > **官网**: [PhD in Mechanical Engineering | WashU MEMS](https://mems.washu.edu/academics/graduate/PhD-in-Mechanical-Engineering.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSECE @ UT-Austin
-
 > **ProgramID**: `MSECE@UT-Austin`
 > **官网**: [Texas ECE Graduate Program](https://ece.utexas.edu/academics/graduate) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

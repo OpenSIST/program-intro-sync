@@ -1,5 +1,3 @@
-# Intelligence Science and Technology Course @ Kyoto University (UKyoto)
-
 > **ProgramID**: `Intelligence Science and Technology Course@UKyoto`
 > **官网**: [Intelligence Science and Technology Course — Graduate School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/course/ist/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

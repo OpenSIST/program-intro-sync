@@ -1,5 +1,3 @@
-# Social Informatics Course @ Kyoto University (UKyoto)
-
 > **ProgramID**: `Social Informatics Course@UKyoto`
 > **官网**: [Social Informatics Course, Graduate School of Informatics, Kyoto University](https://www.soc.i.kyoto-u.ac.jp/en/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

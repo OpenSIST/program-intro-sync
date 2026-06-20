@@ -1,5 +1,3 @@
-# Msc CS (CityU DG) @ CityU
-
 > **ProgramID**: `Msc CS (CityU DG)@CityU`
 > **官网**: [MSc in Computer Science - CityU Dongguan Admissions](https://pga.cityu-dg.edu.cn/en/computer-science) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

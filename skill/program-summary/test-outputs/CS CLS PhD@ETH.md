@@ -1,5 +1,3 @@
-# CS CLS PhD @ ETH
-
 > **ProgramID**: `CS CLS PhD@ETH`
 > **官网**: [Max Planck ETH Center for Learning Systems](https://learning-systems.org/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

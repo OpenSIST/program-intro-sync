@@ -1,5 +1,3 @@
-# Data Science Course @ Kyoto University (UKyoto)
-
 > **ProgramID**: `Data Science Course@UKyoto`
 > **官网**: [Data Science Course — Graduate School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/course/ds/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

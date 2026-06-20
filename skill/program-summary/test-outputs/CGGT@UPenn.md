@@ -1,5 +1,3 @@
-# Computer Graphics and Game Technology (MSE-CGGT) @ UPenn
-
 > **ProgramID**: `CGGT@UPenn`
 > **官网**: [MSE in Computer Graphics and Game Technology | CIS UPenn](https://www.cis.upenn.edu/mse-in-cggt/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

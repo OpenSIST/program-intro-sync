@@ -1,5 +1,3 @@
-# MSE CS @ Princeton University
-
 > **ProgramID**: `MSE CS@Princeton`
 > **官网**: [M.S.E. Track | CS - Princeton](https://www.cs.princeton.edu/grad/mse-track) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# ECE PhD @ UCLA
-
 > **ProgramID**: `ECE PhD@UCLA`
 > **官网**: [UCLA Samueli ECE Graduate Admissions](https://www.ee.ucla.edu/graduate-application-requirements/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

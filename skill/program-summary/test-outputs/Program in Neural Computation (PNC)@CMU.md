@@ -1,5 +1,3 @@
-# Program in Neural Computation (PNC) @ CMU
-
 > **ProgramID**: `Program in Neural Computation (PNC)@CMU`
 > **官网**: [Ph.D. in Neural Computation (PNC) | CMU Neuroscience Institute](https://www.cmu.edu/ni/academics/pnc/index.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

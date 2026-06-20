@@ -1,5 +1,3 @@
-# Neurobiology and Behavior PhD (NB&B) @ Cornell
-
 > **ProgramID**: `Neurobiology and Behavior PhD (NB&B)@Cornell`
 > **官网**: [Cornell NB&B Graduate Program](https://nbb.cornell.edu/graduate-nbb) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

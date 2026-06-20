@@ -1,5 +1,3 @@
-# LIT MS/PhD @ CMU
-
 > **ProgramID**: `LIT MS/PhD@CMU`
 > **官网**: [Language Technologies Institute - CMU](https://www.lti.cs.cmu.edu/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

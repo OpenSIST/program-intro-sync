@@ -1,5 +1,3 @@
-# CS PhD @ Dartmouth
-
 > **ProgramID**: `CS PhD@Dartmouth`
 > **官网**: [PhD in Computer Science | Dartmouth CS](https://web.cs.dartmouth.edu/graduate/applying/phd-computer-science) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

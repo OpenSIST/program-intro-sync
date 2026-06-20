@@ -1,5 +1,3 @@
-# MSc in EDI @ NUS
-
 > **ProgramID**: `MSc in EDI@NUS`
 > **官网**: [MSc in Engineering Design & Innovation - NUS EDIC](https://cde.nus.edu.sg/edic/msc/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

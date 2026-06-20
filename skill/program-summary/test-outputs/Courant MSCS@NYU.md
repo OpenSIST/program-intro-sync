@@ -1,5 +1,3 @@
-# Courant MSCS @ NYU
-
 > **ProgramID**: `Courant MSCS@NYU`
 > **官网**: [MS in Computer Science | NYU Computer Science](https://cs.nyu.edu/dynamic/masters/prospective-overview/masters-in-computer-science-mscs/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

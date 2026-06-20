@@ -1,5 +1,3 @@
-# CSE PhD @ OSU
-
 > **ProgramID**: `CSE PhD@OSU`
 > **官网**: [Doctor of Philosophy Program | Computer Science and Engineering](https://cse.osu.edu/graduate/graduate/doctor-philosophy-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

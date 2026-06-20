@@ -1,5 +1,3 @@
-# CS PhD @ JHU
-
 > **ProgramID**: `CS Phd@JHU`
 > **官网**: [CS PhD Program — Johns Hopkins Department of Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

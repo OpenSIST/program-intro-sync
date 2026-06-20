@@ -1,5 +1,3 @@
-# SE (Systems Engineering M.Eng.) @ Cornell
-
 > **ProgramID**: `SE@Cornell`
 > **官网**: [Cornell Systems Engineering Program](https://www.duffield.cornell.edu/sys/master-engineering) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

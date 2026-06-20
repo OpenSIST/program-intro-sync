@@ -1,5 +1,3 @@
-# MSCSE @ OSU (Ohio State University)
-
 > **ProgramID**: `MSCSE@OSU`
 > **官网**: [Master of Science Program | CSE @ Ohio State](https://cse.osu.edu/graduate/master-science-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

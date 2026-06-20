@@ -1,5 +1,3 @@
-# MSR @ CMU
-
 > **ProgramID**: `MSR@CMU`
 > **官网**: [Master of Science in Robotics – Robotics Institute CMU](https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

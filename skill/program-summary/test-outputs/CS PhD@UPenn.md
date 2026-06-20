@@ -1,5 +1,3 @@
-# CS PhD @ UPenn
-
 > **ProgramID**: `CS PhD@UPenn`
 > **官网**: [PhD | Computer and Information Science](https://www.cis.upenn.edu/phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

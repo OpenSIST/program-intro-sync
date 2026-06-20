@@ -1,5 +1,3 @@
-# MSIM @ CMU
-
 > **ProgramID**: `MSIM@CMU`
 > **官网**: [Master of Information Systems Management — CMU Heinz College](https://www.heinz.cmu.edu/programs/information-systems-management-master/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

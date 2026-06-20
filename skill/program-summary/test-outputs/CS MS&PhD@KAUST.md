@@ -1,5 +1,3 @@
-# CS MS&PhD @ KAUST
-
 > **ProgramID**: `CS MS&PhD@KAUST`
 > **官网**: [KAUST Computer Science](https://cs.kaust.edu.sa/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

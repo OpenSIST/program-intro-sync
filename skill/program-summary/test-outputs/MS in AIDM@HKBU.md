@@ -1,5 +1,3 @@
-# MS in AIDM @ HKBU
-
 > **ProgramID**: `MS in AIDM@HKBU`
 > **官网**: [MSc in AI and Digital Media – HKBU School of Communication](https://comd.hkbu.edu.hk/masters/en/aidm) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

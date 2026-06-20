@@ -1,5 +1,3 @@
-# CS MEng @ Cornell
-
 > **ProgramID**: `CS MEng@Cornell`
 > **官网**: [Master of Engineering in Computer Science — Cornell Bowers CS](https://www.cs.cornell.edu/master-engineering-computer-science) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

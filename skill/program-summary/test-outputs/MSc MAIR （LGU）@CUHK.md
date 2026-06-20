@@ -1,5 +1,3 @@
-# MSc MAIR （LGU） @ CUHK
-
 > **ProgramID**: `MSc MAIR （LGU）@CUHK`
 > **官网**: [M.Sc. in Artificial Intelligence and Robotics – School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en/mair) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

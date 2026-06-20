@@ -1,5 +1,3 @@
-# MS EEIT @ ETH Zurich
-
 > **ProgramID**: `MS EEIT@ETH`
 > **官网**: [ETH Zurich – Master Electrical Engineering and Information Technology](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/electrical-engineering-and-information-technology.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

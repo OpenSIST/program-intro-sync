@@ -1,5 +1,3 @@
-# CSE @ Harvard
-
 > **ProgramID**: `CSE@Harvard`
 > **官网**: [Master's in Computational Science and Engineering | Harvard SEAS](https://seas.harvard.edu/masters-computational-science-and-engineering) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

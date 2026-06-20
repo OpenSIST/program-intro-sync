@@ -1,5 +1,3 @@
-# MengEECS @ UCI
-
 > **ProgramID**: `MengEECS@UCI`
 > **官网**: [UCI Master of Engineering (M.Eng) - EECS](https://meng.eng.uci.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

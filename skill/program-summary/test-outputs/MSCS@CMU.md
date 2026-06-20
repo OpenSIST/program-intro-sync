@@ -1,5 +1,3 @@
-# Master of Science in Computer Science (MSCS) @ CMU
-
 > **ProgramID**: `MSCS@CMU`
 > **官网**: [Carnegie Mellon University — M.S. in Computer Science](https://csd.cmu.edu/academics/masters/ms-in-computer-science) _(来源：WebSearch + WebFetch，访问于 2026-06-19)_
 > **汇总生成**: 2026-06-20

@@ -1,5 +1,3 @@
-# ECE PhD @ Cornell
-
 > **ProgramID**: `ECE PhD@Cornell`
 > **官网**: [Ph.D. in Electrical and Computer Engineering – Cornell ECE](https://www.duffield.cornell.edu/ece/programs/graduate-programs/phd-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

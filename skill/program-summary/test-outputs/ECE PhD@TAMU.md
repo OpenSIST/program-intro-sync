@@ -1,5 +1,3 @@
-# ECE PhD @ TAMU
-
 > **ProgramID**: `ECE PhD@TAMU`
 > **官网**: [Texas A&M ECE Graduate Admissions](https://engineering.tamu.edu/electrical/admissions-and-aid/graduate-admissions/index.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

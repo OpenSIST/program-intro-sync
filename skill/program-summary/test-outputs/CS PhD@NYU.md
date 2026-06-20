@@ -1,5 +1,3 @@
-# CS PhD @ NYU
-
 > **ProgramID**: `CS PhD@NYU`
 > **官网**: [NYU Computer Science Ph.D.](https://cs.nyu.edu/home/phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

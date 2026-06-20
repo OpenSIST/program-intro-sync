@@ -1,5 +1,3 @@
-# MSCS @ UMN (University of Minnesota Twin Cities)
-
 > **ProgramID**: `MSCS@UMN`
 > **官网**: [M.S. in Computer Science – Admissions](https://cse.umn.edu/cs/ms-admissions) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

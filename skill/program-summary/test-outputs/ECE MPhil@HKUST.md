@@ -1,5 +1,3 @@
-# ECE MPhil @ HKUST
-
 > **ProgramID**: `ECE MPhil@HKUST`
 > **官网**: [MPhil in Electronic and Computer Engineering](https://ece.hkust.edu.hk/programs/pg_mphil_ece) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

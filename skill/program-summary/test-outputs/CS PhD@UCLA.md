@@ -1,5 +1,3 @@
-# CS PhD @ UCLA
-
 > **ProgramID**: `CS PhD@UCLA`
 > **官网**: [UCLA CS Graduate Admissions](https://www.cs.ucla.edu/graduate-admissions/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

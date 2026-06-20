@@ -1,5 +1,3 @@
-# CS PhD @ Stony Brook
-
 > **ProgramID**: `CS PhD@Stony Brook`
 > **官网**: [Stony Brook CS PhD Program](https://www.cs.stonybrook.edu/graduate-programs/phd-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

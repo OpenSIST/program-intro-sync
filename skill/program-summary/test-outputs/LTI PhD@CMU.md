@@ -1,5 +1,3 @@
-# LTI PhD @ CMU
-
 > **ProgramID**: `LTI PhD@CMU`
 > **官网**: [PhD in LTI – Language Technologies Institute, CMU](https://www.lti.cs.cmu.edu/academics/phd-programs/phd-lti.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MDSH @ UCLA
-
 > **ProgramID**: `MDSH@UCLA`
 > **官网**: [Master of Data Science in Health](https://mdsh.ucla.edu/index.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

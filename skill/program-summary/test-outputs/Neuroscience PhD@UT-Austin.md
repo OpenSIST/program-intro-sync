@@ -1,5 +1,3 @@
-# Neuroscience PhD @ UT-Austin
-
 > **ProgramID**: `Neuroscience PhD@UT-Austin`
 > **官网**: [Interdisciplinary Neuroscience Program (INP)](https://inp.neuroscience.utexas.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

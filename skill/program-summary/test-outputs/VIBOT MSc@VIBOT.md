@@ -1,5 +1,3 @@
-# VIBOT MSc @ VIBOT
-
 > **ProgramID**: `VIBOT MSc@VIBOT`
 > **官网**: [VIBOT - International Programme in VIsion & roBOTics](https://www.vibot.org/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

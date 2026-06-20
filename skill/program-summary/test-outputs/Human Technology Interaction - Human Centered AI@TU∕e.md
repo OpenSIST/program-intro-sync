@@ -1,5 +1,3 @@
-# Human Technology Interaction - Human Centered AI @ TU/e
-
 > **ProgramID**: `Human Technology Interaction - Human Centered AI@TU/e`
 > **官网**: [Master's Track Human-Centered AI](https://www.tue.nl/en/education/graduate-school/masters-track-human-centered-ai) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

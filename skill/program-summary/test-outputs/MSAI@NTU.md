@@ -1,5 +1,3 @@
-# MSAI @ Nanyang Technological University
-
 > **ProgramID**: `MSAI@NTU`
 > **官网**: [Master of Science in Artificial Intelligence (MSAI) — NTU Singapore](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-artificial-intelligence) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

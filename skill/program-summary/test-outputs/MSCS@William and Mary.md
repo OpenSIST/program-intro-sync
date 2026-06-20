@@ -1,5 +1,3 @@
-# MSCS @ William and Mary
-
 > **ProgramID**: `MSCS@William and Mary`
 > **官网**: [Graduate Program in CS | W&M CDSP](https://cdsp.wm.edu/computerscience/graduate/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

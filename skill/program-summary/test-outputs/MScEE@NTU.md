@@ -1,5 +1,3 @@
-# MScEE @ NTU (Nanyang Technological University)
-
 > **ProgramID**: `MScEE@NTU`
 > **官网**: [NTU EEE MSc Programmes](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/msc) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

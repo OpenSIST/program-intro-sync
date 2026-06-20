@@ -1,5 +1,3 @@
-# MSCS @ USC
-
 > **ProgramID**: `MSCS@USC`
 > **官网**: [USC Viterbi M.S. in Computer Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

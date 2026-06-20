@@ -1,5 +1,3 @@
-# ECE PhD @ UToronto
-
 > **ProgramID**: `ECE PhD@UToronto`
 > **官网**: [ECE Graduate Studies – University of Toronto](https://gradstudies.engineering.utoronto.ca/prospective-students/departments/electrical-computer-engineering-graduate-studies-programs-and-degrees/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

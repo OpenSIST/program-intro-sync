@@ -1,5 +1,3 @@
-# MSDS @ ETH Zurich
-
 > **ProgramID**: `MSDS@ETH`
 > **官网**: [Master Data Science | ETH Zurich](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

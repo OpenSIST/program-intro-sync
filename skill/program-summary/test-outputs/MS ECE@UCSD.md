@@ -1,5 +1,3 @@
-# MS ECE @ UCSD
-
 > **ProgramID**: `MS ECE@UCSD`
 > **官网**: [ECE Graduate Admissions — UC San Diego](https://www.ece.ucsd.edu/graduate/graduate-admissions) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

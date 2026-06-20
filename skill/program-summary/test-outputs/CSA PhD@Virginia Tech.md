@@ -1,5 +1,3 @@
-# CSA PhD @ Virginia Tech
-
 > **ProgramID**: `CSA PhD@Virginia Tech`
 > **官网**: [Computer Science PhD @ Virginia Tech](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

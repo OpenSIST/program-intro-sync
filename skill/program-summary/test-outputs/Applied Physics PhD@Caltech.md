@@ -1,5 +1,3 @@
-# Applied Physics PhD @ Caltech
-
 > **ProgramID**: `Applied Physics PhD@Caltech`
 > **官网**: [Graduate Degree in Applied Physics – Caltech APh](https://aph.caltech.edu/academics/grad) _(2026-06-19)_
 > **生成日期**: 2026-06-19

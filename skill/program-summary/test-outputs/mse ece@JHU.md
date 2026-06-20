@@ -1,5 +1,3 @@
-# mse ece @ JHU (Master of Science in Engineering, Electrical and Computer Engineering)
-
 > **ProgramID**: `mse ece@JHU`
 > **官网**: [JHU ECE Graduate Admissions](https://engineering.jhu.edu/ece/ece-admissions/graduate-admission-info/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSCS @ KAUST
-
 > **ProgramID**: `MSCS@KAUST`
 > **官网**: [KAUST Computer Science Program](https://cs.kaust.edu.sa/computer-science-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

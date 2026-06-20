@@ -1,5 +1,3 @@
-# MSCS @ Georgia Tech
-
 > **ProgramID**: `MSCS@GaTech`
 > **官网**: [M.S. Computer Science | Georgia Tech College of Computing](https://www.cc.gatech.edu/ms-computer-science-admissions-faq) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

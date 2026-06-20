@@ -1,5 +1,3 @@
-# CS PhD @ UIUC
-
 > **ProgramID**: `CS PhD@UIUC`
 > **官网**: [Siebel School of Computing and Data Science — PhD Program](https://siebelschool.illinois.edu/academics/graduate/phd-program/phd-requirements) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

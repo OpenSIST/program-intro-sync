@@ -1,5 +1,3 @@
-# MSCE @ Northwestern University (NWU)
-
 > **ProgramID**: `MSCE@NWU`
 > **官网**: [Master of Science in Computer Engineering | Northwestern Engineering](https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/computer-engineering/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

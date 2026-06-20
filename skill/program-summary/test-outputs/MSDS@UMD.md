@@ -1,5 +1,3 @@
-# MSDS @ UMD (University of Maryland, College Park)
-
 > **ProgramID**: `MSDS@UMD`
 > **官网**: [MS in Data Science - UMD CMNS](https://cmns.umd.edu/graduate/science-academy/data-science/masters) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

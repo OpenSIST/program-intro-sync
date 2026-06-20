@@ -1,5 +1,3 @@
-# MSHCI @ GaTech
-
 > **ProgramID**: `MSHCI@GaTech`
 > **官网**: [MS Program in Human-Computer Interaction](https://mshci.gatech.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

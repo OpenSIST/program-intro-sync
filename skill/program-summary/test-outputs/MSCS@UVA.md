@@ -1,5 +1,3 @@
-# MSCS @ UVA
-
 > **ProgramID**: `MSCS@UVA`
 > **官网**: [M.S. in Computer Science | UVA SEAS](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/ms-computer-science) _(WebSearch，2026-06-20)_
 > **生成日期**: 2026-06-20

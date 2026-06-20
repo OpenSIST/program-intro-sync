@@ -1,5 +1,3 @@
-# CS PhD @ Utah
-
 > **ProgramID**: `CS PhD@Utah`
 > **官网**: [Kahlert School of Computing - Graduate](https://www.cs.utah.edu/page_category/graduate/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSc. CIE @ CityU
-
 > **ProgramID**: `MSc. CIE@CityU`
 > **官网**: [MSc Computer and Information Engineering | CityUHK Postgraduate Admissions](https://www.cityu.edu.hk/pg/programme/program-list/2026/college-of-engineering/department-of-electrical-engineering/p59) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

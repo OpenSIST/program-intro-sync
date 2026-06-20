@@ -1,5 +1,3 @@
-# CSE PhD @ UCSC
-
 > **ProgramID**: `CSE PhD@UCSC`
 > **官网**: [Computer Science and Engineering – Baskin Engineering](https://grad.engineering.ucsc.edu/cse/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

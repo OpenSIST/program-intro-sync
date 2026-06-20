@@ -1,5 +1,3 @@
-# Psychology PhD @ BU
-
 > **ProgramID**: `Psychology PhD@BU`
 > **官网**: [Psychological & Brain Sciences PhD](https://www.bu.edu/psych/academics/phd/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

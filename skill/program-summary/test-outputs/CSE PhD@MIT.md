@@ -1,5 +1,3 @@
-# CSE PhD @ MIT
-
 > **ProgramID**: `CSE PhD@MIT`
 > **官网**: [MIT CCSE PhD Program](https://cse.mit.edu/programs-admissions/cse-phd-program/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

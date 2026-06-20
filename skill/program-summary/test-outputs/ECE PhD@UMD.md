@@ -1,5 +1,3 @@
-# ECE PhD @ UMD
-
 > **ProgramID**: `ECE PhD@UMD`
 > **官网**: [Doctor of Philosophy – UMD ECE](https://ece.umd.edu/graduate/degrees/doctor-philosophy) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

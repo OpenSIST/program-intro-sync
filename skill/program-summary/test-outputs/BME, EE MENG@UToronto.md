@@ -1,5 +1,3 @@
-# BME, EE MEng @ University of Toronto
-
 > **ProgramID**: `BME, EE MENG@UToronto`
 > **官网（BME MEng）**: [Master of Engineering – UofT Biomedical Engineering](https://bme.utoronto.ca/prospective-student/master-of-engineering/) _(WebSearch + WebFetch，2026-06-19)_
 > **官网（ECE MEng）**: [Graduate Students – ECE UofT](https://www.ece.utoronto.ca/graduates/) _(WebSearch + WebFetch，2026-06-19)_

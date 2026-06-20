@@ -1,5 +1,3 @@
-# G30-TMI MPhil @ UTokyo
-
 > **ProgramID**: `G30-TMI MPhil@UTokyo`
 > **官网**: [G30 International Technology Management](https://www.global30.t.u-tokyo.ac.jp/g30_hp/international-technology-management.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

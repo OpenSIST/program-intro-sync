@@ -1,5 +1,3 @@
-# Graduate Program in Neuroscience (GPN) @ UMN
-
 > **ProgramID**: `Graduate Program in Neuroscience (GPN)@UMN`
 > **官网**: [Graduate Program in Neuroscience | University of Minnesota](https://www.neuroscience.umn.edu/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

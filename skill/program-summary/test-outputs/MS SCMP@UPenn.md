@@ -1,5 +1,3 @@
-# MS SCMP @ UPenn
-
 > **ProgramID**: `MS SCMP@UPenn`
 > **官网**: [Master's of Science in Engineering in Scientific Computing](https://pics.upenn.edu/masters-science-engineering-scientific-computing/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

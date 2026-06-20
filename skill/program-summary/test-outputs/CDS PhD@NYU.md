@@ -1,5 +1,3 @@
-# CDS PhD @ NYU
-
 > **ProgramID**: `CDS PhD@NYU`
 > **官网**: [PhD in Data Science | NYU Center for Data Science](https://cds.nyu.edu/phd-program-overview/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

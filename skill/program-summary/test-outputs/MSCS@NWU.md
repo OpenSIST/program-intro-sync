@@ -1,5 +1,3 @@
-# MSCS @ NWU (Northwestern University)
-
 > **ProgramID**: `MSCS@NWU`
 > **官网**: [Master of Science in Computer Science | Northwestern Engineering](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSCS @ UIUC
-
 > **ProgramID**: `MSCS@UIUC`
 > **官网**: [M.S. in Computer Science — Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/academics/graduate/ms-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

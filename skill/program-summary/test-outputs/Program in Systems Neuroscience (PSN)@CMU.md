@@ -1,5 +1,3 @@
-# Program in Systems Neuroscience (PSN) @ CMU
-
 > **ProgramID**: `Program in Systems Neuroscience (PSN)@CMU`
 > **官网**: [Ph.D. in Systems Neuroscience (PSN) | Neuroscience Institute](https://www.cmu.edu/ni/academics/psn/index.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MedE-EE @ Caltech
-
 > **ProgramID**: `MedE-EE@Caltech`
 > **官网**: [Joint Med/EE Track - Medical Engineering - Caltech](https://mede.caltech.edu/academics/medee-track) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

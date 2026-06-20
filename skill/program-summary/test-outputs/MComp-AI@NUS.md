@@ -1,5 +1,3 @@
-# MComp-AI @ NUS
-
 > **ProgramID**: `MComp-AI@NUS`
 > **官网**: [Master of Computing (Artificial Intelligence Specialisation) — NUS School of Computing](https://www.comp.nus.edu.sg/programmes/pg/mai/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSDS @ NEU (Northeastern University)
-
 > **ProgramID**: `MSDS@NEU`
 > **官网**: [MS in Data Science – Boston](https://graduate.northeastern.edu/programs/ms-data-science/master-of-science-in-data-science-boston/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

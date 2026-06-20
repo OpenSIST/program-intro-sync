@@ -1,5 +1,3 @@
-# MSE EE @ UPenn
-
 > **ProgramID**: `MSE EE@UPenn`
 > **官网**: [MSE Electrical Engineering Program | Penn ESE](https://www.ese.upenn.edu/masters/electrical-engineering-program/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

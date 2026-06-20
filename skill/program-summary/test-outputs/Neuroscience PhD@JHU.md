@@ -1,5 +1,3 @@
-# Neuroscience PhD @ JHU
-
 > **ProgramID**: `Neuroscience PhD@JHU`
 > **官网**: [The Solomon H. Snyder Department of Neuroscience – Graduate Program](https://neuroscience.jhu.edu/graduate) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

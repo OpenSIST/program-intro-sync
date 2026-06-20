@@ -1,5 +1,3 @@
-# BME MENG @ UBC
-
 > **ProgramID**: `BME MENG@UBC`
 > **官网**: [Master of Engineering in Biomedical Engineering (MEng) | UBC Graduate School](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-biomedical-engineering) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

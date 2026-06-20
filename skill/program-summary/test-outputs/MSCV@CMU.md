@@ -1,5 +1,3 @@
-# MSCV @ CMU
-
 > **ProgramID**: `MSCV@CMU`
 > **官网**: [Master of Science in Computer Vision – CMU Robotics Institute](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

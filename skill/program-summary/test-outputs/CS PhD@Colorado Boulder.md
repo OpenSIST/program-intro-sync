@@ -1,5 +1,3 @@
-# CS PhD @ Colorado Boulder
-
 > **ProgramID**: `CS PhD@Colorado Boulder`
 > **官网**: [Computer Science PhD — Graduate Admissions](https://www.colorado.edu/cs/admissions/graduate-admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

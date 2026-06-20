@@ -1,5 +1,3 @@
-# MLT @ CMU
-
 > **ProgramID**: `MLT@CMU`
 > **官网**: [Master of Language Technologies - LTI, CMU](https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

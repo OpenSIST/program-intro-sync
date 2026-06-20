@@ -1,5 +1,3 @@
-# CS PhD @ UW-Madison
-
 > **ProgramID**: `CS PhD@UW-Madison`
 > **官网**: [Traditional CS MS/PhD – Computer Sciences – UW–Madison](https://www.cs.wisc.edu/grad/programs/traditional/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSML @ CMU
-
 > **ProgramID**: `MSML@CMU`
 > **官网**: [Master's in Machine Learning - CMU](https://ml.cmu.edu/academics/primary-ms-machine-learning-masters) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

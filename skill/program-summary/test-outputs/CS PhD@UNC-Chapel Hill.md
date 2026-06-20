@@ -1,5 +1,3 @@
-# CS PhD @ UNC-Chapel Hill
-
 > **ProgramID**: `CS PhD@UNC-Chapel Hill`
 > **官网**: [Doctor of Philosophy in Computer Science - UNC Computer Science](https://cs.unc.edu/graduate/phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

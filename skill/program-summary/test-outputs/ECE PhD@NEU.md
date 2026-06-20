@@ -1,5 +1,3 @@
-# ECE PhD @ NEU
-
 > **ProgramID**: `ECE PhD@NEU`
 > **官网**: [Northeastern University ECE Graduate Programs](https://catalog.northeastern.edu/graduate/engineering/electrical-computer/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

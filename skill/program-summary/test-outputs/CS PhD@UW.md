@@ -1,5 +1,3 @@
-# CS PhD @ UW
-
 > **ProgramID**: `CS PhD@UW`
 > **官网**: [Paul G. Allen School of Computer Science & Engineering — Ph.D. Program](https://www.cs.washington.edu/academics/phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

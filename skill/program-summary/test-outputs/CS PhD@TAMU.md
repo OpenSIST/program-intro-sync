@@ -1,5 +1,3 @@
-# CS PhD @ TAMU
-
 > **ProgramID**: `CS PhD@TAMU`
 > **官网**: [Doctor of Philosophy - Computer Science | Texas A&M Engineering](https://engineering.tamu.edu/cse/academics/degrees/graduate/phd-cs.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSECE @ Duke
-
 > **ProgramID**: `MSECE@Duke`
 > **官网**: [Duke ECE Master's Programs](https://ece.duke.edu/academics/masters/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

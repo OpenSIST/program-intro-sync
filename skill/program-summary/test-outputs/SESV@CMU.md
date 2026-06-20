@@ -1,5 +1,3 @@
-# SESV @ CMU
-
 > **ProgramID**: `SESV@CMU`
 > **官网**: [MS in Software Engineering - CMU Silicon Valley](https://sv.cmu.edu/programs/msse.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

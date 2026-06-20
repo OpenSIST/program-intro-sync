@@ -1,5 +1,3 @@
-# EE PhD @ NYU
-
 > **ProgramID**: `EE PhD@NYU`
 > **官网**: [Electrical and Computer Engineering, Ph.D. | NYU Tandon](https://engineering.nyu.edu/academics/programs/electrical-engineering-phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

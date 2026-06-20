@@ -1,5 +1,3 @@
-# MSCS @ Duke
-
 > **ProgramID**: `MSCS@Duke`
 > **官网**: [Masters in Computer Science | Duke CS](https://cs.duke.edu/masters-computer-science) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

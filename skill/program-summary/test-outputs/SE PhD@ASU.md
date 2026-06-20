@@ -1,5 +1,3 @@
-# SE PhD @ ASU
-
 > **ProgramID**: `SE PhD@ASU`
 > **官网**: [Systems Engineering, PhD — ASU Degree Search](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESSYSPHD/systems-engineering-phd) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

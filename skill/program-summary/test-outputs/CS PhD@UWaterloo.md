@@ -1,5 +1,3 @@
-# CS PhD @ UWaterloo
-
 > **ProgramID**: `CS PhD@UWaterloo`
 > **官网**: [Computer Science - Doctor of Philosophy (PhD) | University of Waterloo](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-doctor-philosophy-phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

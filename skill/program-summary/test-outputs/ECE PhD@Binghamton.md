@@ -1,5 +1,3 @@
-# ECE PhD @ Binghamton University
-
 > **ProgramID**: `ECE PhD@Binghamton`
 > **官网**: [PhD in Electrical and Computer Engineering](https://www.binghamton.edu/electrical-computer-engineering/graduate/phd-electrical-computer-engineering.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSEE @ Stanford
-
 > **ProgramID**: `MSEE@Stanford`
 > **官网**: [Stanford EE MS Admissions](https://ee.stanford.edu/admissions/ms) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

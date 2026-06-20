@@ -1,5 +1,3 @@
-# MSCS @ UT-Austin
-
 > **ProgramID**: `MSCS@UT-Austin`
 > **官网**: [UT Austin CS Graduate Programs](https://www.cs.utexas.edu/graduate-program/prospective-students) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

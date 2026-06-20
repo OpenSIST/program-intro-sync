@@ -1,5 +1,3 @@
-# MSBME @ JHU
-
 > **ProgramID**: `MSBME@JHU`
 > **官网**: [Johns Hopkins BME Master's Program](https://www.bme.jhu.edu/academics/graduate/masters-programs/masters-program/) _(WebSearch，2026-06-20)_
 > **生成日期**: 2026-06-20

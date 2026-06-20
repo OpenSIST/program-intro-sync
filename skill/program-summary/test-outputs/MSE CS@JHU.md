@@ -1,5 +1,3 @@
-# MSE CS @ Johns Hopkins University
-
 > **ProgramID**: `MSE CS@JHU`
 > **官网**: [MSE in Computer Science - JHU CS Department](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

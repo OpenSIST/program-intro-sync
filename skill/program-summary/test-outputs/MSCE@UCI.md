@@ -1,5 +1,3 @@
-# MSCE @ UCI
-
 > **ProgramID**: `MSCE@UCI`
 > **官网**: [Computer Engineering Graduate Program - UCI Samueli School of Engineering](https://engineering.uci.edu/dept/eecs/academics/graduate/computer-engineering) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# Neuroscience PhD @ WUSTL
-
 > **ProgramID**: `Neuroscience PhD@WUSTL`
 > **官网**: [Neurosciences, PhD — Washington University Bulletin](https://bulletin.wustl.edu/grad/artsci/degrees/dbbs-neurosciences-phd/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

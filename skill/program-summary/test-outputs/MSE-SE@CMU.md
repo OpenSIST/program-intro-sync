@@ -1,5 +1,3 @@
-# MSE-SE @ CMU
-
 > **ProgramID**: `MSE-SE@CMU`
 > **官网**: [Master of Software Engineering – Scalable Systems, CMU](https://mse.s3d.cmu.edu/applicants/mse-as/index.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# CS PhD @ UVA
-
 > **ProgramID**: `CS PhD@UVA`
 > **官网**: [Ph.D. in Computer Science | UVA Engineering](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science) _(WebSearch，2026-06-19)_
 > **生成日期**: 2026-06-19

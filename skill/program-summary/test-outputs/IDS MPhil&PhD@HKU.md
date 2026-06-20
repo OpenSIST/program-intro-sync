@@ -1,5 +1,3 @@
-# IDS MPhil&PhD @ HKU
-
 > **ProgramID**: `IDS MPhil&PhD@HKU`
 > **官网**: [HKU Musketeers Foundation Institute of Data Science – Research Postgraduate Programme](https://datascience.hku.hk/study/research-postgraduate/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

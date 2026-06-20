@@ -1,5 +1,3 @@
-# CS PhD @ UMD
-
 > **ProgramID**: `CS PhD@UMD`
 > **官网**: [UMD Department of Computer Science – PhD Program](https://www.cs.umd.edu/grad/phd-catalog) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# Human-Computer Interaction Design (HCID) @ EIT Digital
-
 > **ProgramID**: `Human-Computer Interaction Design (HCID)@EIT`
 > **官网**: [EIT Digital Master School - HCID](https://masterschool.eitdigital.eu/human-computer-interaction-and-design) _(WebSearch，2026-06-19)_
 > **生成日期**: 2026-06-19

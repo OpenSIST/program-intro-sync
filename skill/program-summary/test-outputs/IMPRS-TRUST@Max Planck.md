@@ -1,5 +1,3 @@
-# IMPRS-TRUST @ Max Planck
-
 > **ProgramID**: `IMPRS-TRUST@Max Planck`
 > **官网**: [IMPRS-TRUST Official Site](https://www.imprs-trust.mpg.de/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

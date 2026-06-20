@@ -1,5 +1,3 @@
-# MSc CS @ UBC
-
 > **ProgramID**: `MSc CS@UBC`
 > **官网**: [UBC Computer Science - Full-Time Master's Programs](https://www.cs.ubc.ca/students/grad/prospective-grads/grad-programs/full-time-masters-programs) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

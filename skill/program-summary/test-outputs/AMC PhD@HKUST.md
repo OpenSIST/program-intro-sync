@@ -1,5 +1,3 @@
-# AMC PhD @ HKUST
-
 > **ProgramID**: `AMC PhD@HKUST`
 > **官网**: [Division of Arts and Machine Creativity — MPhil/PhD Program](https://amc.hkust.edu.hk/mphil-phd-program-application-admission-requirement) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

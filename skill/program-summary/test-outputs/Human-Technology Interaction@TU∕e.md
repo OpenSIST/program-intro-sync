@@ -1,5 +1,3 @@
-# Human-Technology Interaction @ TU/e
-
 > **ProgramID**: `Human-Technology Interaction@TU/e`
 > **官网**: [Master Human-Technology Interaction](https://www.tue.nl/en/education/graduate-school/master-human-technology-interaction) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

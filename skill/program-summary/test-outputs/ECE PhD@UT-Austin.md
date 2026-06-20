@@ -1,5 +1,3 @@
-# ECE PhD @ UT-Austin
-
 > **ProgramID**: `ECE PhD@UT-Austin`
 > **官网**: [Texas ECE Graduate Admissions](https://ece.utexas.edu/academics/graduate/admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

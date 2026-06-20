@@ -1,5 +1,3 @@
-# MRSD @ CMU
-
 > **ProgramID**: `MRSD@CMU`
 > **官网**: [MRSD — Master of Science in Robotic Systems Development](https://mrsd.ri.cmu.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSCS @ University of Florida
-
 > **ProgramID**: `MSCS@UF`
 > **官网**: [CISE Graduate Admissions - UF](https://cise.ufl.edu/admissions/graduate/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

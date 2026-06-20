@@ -1,5 +1,3 @@
-# Computer Science (General Stream) @ HKU
-
 > **ProgramID**: `Computer Science (General Stream)@HKU`
 > **官网**: [MSc in Computer Science – HKU](https://www.msc-cs.hku.hk/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

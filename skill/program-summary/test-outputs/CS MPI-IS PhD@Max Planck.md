@@ -1,5 +1,3 @@
-# CS MPI-IS PhD @ Max Planck
-
 > **ProgramID**: `CS MPI-IS PhD@Max Planck`
 > **官网**: [IMPRS-IS 官网](https://imprs.is.mpg.de/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

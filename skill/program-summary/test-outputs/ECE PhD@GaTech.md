@@ -1,5 +1,3 @@
-# ECE PhD @ GaTech
-
 > **ProgramID**: `ECE PhD@GaTech`
 > **官网**: [Graduate Admissions - School of ECE](https://ece.gatech.edu/future-students/graduate-admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

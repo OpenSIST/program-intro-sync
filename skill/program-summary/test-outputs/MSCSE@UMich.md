@@ -1,5 +1,3 @@
-# MSCSE @ UMich
-
 > **ProgramID**: `MSCSE@UMich`
 > **官网**: [Master's in CSE | Computer Science & Engineering at Michigan](https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/) _(WebSearch，2026-06-20)_
 > **生成日期**: 2026-06-20

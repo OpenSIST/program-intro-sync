@@ -1,5 +1,3 @@
-# CS PhD (Joint with CUHKSZ) @ KAUST
-
 > **ProgramID**: `CS PhD (Joint with CUHKSZ)@KAUST`
 > **官网**: [KAUST CS PhD](https://cs.kaust.edu.sa/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

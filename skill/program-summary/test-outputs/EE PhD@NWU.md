@@ -1,5 +1,3 @@
-# EE PhD @ Northwestern University (NWU)
-
 > **ProgramID**: `EE PhD@NWU`
 > **官网**: [ECE Graduate Admissions – Northwestern Engineering](https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/admissions/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

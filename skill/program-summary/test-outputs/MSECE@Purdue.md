@@ -1,5 +1,3 @@
-# MSECE @ Purdue
-
 > **ProgramID**: `MSECE@Purdue`
 > **官网**: [Elmore Family School of ECE — Graduate Programs](https://engineering.purdue.edu/ECE/Academics/Graduates) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

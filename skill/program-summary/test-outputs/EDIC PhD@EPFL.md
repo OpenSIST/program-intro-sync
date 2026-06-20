@@ -1,5 +1,3 @@
-# EDIC PhD @ EPFL
-
 > **ProgramID**: `EDIC PhD@EPFL`
 > **官网**: [EDIC For Applicants](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-for-applicants/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

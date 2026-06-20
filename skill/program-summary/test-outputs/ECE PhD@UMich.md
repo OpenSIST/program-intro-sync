@@ -1,5 +1,3 @@
-# ECE PhD @ UMich
-
 > **ProgramID**: `ECE PhD@UMich`
 > **官网**: [Electrical & Computer Engineering – University of Michigan](https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/) _(WebSearch，2026-06-19)_
 > **生成日期**: 2026-06-19

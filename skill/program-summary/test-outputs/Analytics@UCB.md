@@ -1,5 +1,3 @@
-# Analytics @ UC Berkeley
-
 > **ProgramID**: `Analytics@UCB`
 > **官网**: [Master of Analytics — UC Berkeley](https://analytics.berkeley.edu/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

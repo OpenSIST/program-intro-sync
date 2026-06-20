@@ -1,5 +1,3 @@
-# MSc CS（LGU） @ CUHK
-
 > **ProgramID**: `MSc CS（LGU）@CUHK`
 > **官网**: [M.Sc in Computer Science – School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en/page/2132) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

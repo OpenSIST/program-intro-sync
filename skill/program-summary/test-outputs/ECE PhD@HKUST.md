@@ -1,5 +1,3 @@
-# ECE PhD @ HKUST
-
 > **ProgramID**: `ECE PhD@HKUST`
 > **官网**: [PhD in Electronic and Computer Engineering - HKUST ECE](https://ece.hkust.edu.hk/programs/pg_phd_ece) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

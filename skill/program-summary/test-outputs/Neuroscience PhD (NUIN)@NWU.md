@@ -1,5 +1,3 @@
-# Neuroscience PhD (NUIN) @ Northwestern University
-
 > **ProgramID**: `Neuroscience PhD (NUIN)@NWU`
 > **官网**: [Northwestern NUIN](https://www.nuin.northwestern.edu/index.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

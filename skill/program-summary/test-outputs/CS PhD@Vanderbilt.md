@@ -1,5 +1,3 @@
-# CS PhD @ Vanderbilt
-
 > **ProgramID**: `CS PhD@Vanderbilt`
 > **官网**: [Computer Science Graduate Programs — Vanderbilt Engineering](https://engineering.vanderbilt.edu/departments/computer-science/graduate/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

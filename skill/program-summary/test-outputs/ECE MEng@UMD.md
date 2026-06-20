@@ -1,5 +1,3 @@
-# ECE MEng @ UMD
-
 > **ProgramID**: `ECE MEng@UMD`
 > **官网**: [Master of Engineering - UMD ECE](https://ece.umd.edu/graduate/degrees/master-engineering) _(WebSearch + WebFetch，2026-06-19)_
 > **MAGE 项目页**: [Electrical & Computer Engineering - MAGE](https://mage.umd.edu/electrical-computer) _(WebFetch，2026-06-19)_

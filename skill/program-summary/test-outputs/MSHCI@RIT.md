@@ -1,5 +1,3 @@
-# MSHCI @ RIT
-
 > **ProgramID**: `MSHCI@RIT`
 > **官网**: [Human-Computer Interaction MS | RIT](https://www.rit.edu/study/human-computer-interaction-ms) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

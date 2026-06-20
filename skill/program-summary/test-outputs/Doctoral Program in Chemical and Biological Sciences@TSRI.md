@@ -1,5 +1,3 @@
-# Doctoral Program in Chemical and Biological Sciences @ TSRI
-
 > **ProgramID**: `Doctoral Program in Chemical and Biological Sciences@TSRI`
 > **官网**: [Scripps Research Graduate Admissions](https://education.scripps.edu/graduate/doctoral-program/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

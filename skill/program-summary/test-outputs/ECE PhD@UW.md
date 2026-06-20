@@ -1,5 +1,3 @@
-# ECE PhD @ UW
-
 > **ProgramID**: `ECE PhD@UW`
 > **官网**: [UW ECE PhD Program](https://www.ece.uw.edu/academics/grad/admissions/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# CS PhD @ TUM
-
 > **ProgramID**: `CS PhD@TUM`
 > **官网**: [Doctorate at TUM CIT](https://www.cit.tum.de/en/cit/research/doctorate/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

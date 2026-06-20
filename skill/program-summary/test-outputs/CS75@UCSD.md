@@ -1,5 +1,3 @@
-# CS75 (MS in Computer Science and Engineering) @ UCSD
-
 > **ProgramID**: `CS75@UCSD`
 > **官网**: [Master of Science Programs in CSE](https://cse.ucsd.edu/graduate/degree-programs/ms-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# CS PhD @ HKBU
-
 > **ProgramID**: `CS Phd@HKBU`
 > **官网**: [MPhil/PhD in Computer Science | HKBU Graduate School](https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-computer-science) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

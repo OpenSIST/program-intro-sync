@@ -1,5 +1,3 @@
-# MSCSE @ UCSC
-
 > **ProgramID**: `MSCSE@UCSC`
 > **官网**: [CSE Graduate Program – Baskin Engineering](https://grad.engineering.ucsc.edu/cse/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

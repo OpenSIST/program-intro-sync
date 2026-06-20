@@ -1,5 +1,3 @@
-# CS PhD @ UCSD
-
 > **ProgramID**: `CS PhD@UCSD`
 > **官网**: [UCSD CSE Graduate Admissions](https://cse.ucsd.edu/graduate/admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

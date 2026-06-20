@@ -1,5 +1,3 @@
-# ECE PhD @ UIUC
-
 > **ProgramID**: `ECE PhD@UIUC`
 > **官网**: [Ph.D. Admissions — ECE Illinois](https://ece.illinois.edu/admissions/graduate/phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

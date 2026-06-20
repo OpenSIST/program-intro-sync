@@ -1,5 +1,3 @@
-# Interactive Media Technology @ KTH
-
 > **ProgramID**: `Interactive Media Technology@KTH`
 > **官网**: [MSc Interactive Media Technology | KTH](https://www.kth.se/en/studies/master/interactive-media-technology/msc-interactive-media-technology-1.593765) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

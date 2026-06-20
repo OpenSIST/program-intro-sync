@@ -1,5 +1,3 @@
-# IMPRS-Neurosciences @ Max Planck
-
 > **ProgramID**: `IMPRS-Neurosciences@Max Planck`
 > **官网**: [IMPRS Neurosciences - Key Features](https://www.uni-goettingen.de/en/665824.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

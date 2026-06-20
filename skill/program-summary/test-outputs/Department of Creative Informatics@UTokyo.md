@@ -1,5 +1,3 @@
-# Department of Creative Informatics @ UTokyo
-
 > **ProgramID**: `Department of Creative Informatics@UTokyo`
 > **官网**: [Creative Informatics - Graduate School of IST, The University of Tokyo](https://www.i.u-tokyo.ac.jp/edu/course/ci/aim_e.shtml) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

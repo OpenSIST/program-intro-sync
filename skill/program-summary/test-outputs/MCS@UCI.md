@@ -1,5 +1,3 @@
-# MCS @ UCI
-
 > **ProgramID**: `MCS@UCI`
 > **官网**: [Master of Computer Science — UCI Donald Bren School of ICS](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_master/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

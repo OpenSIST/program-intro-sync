@@ -1,5 +1,3 @@
-# Tandon MSCE @ NYU
-
 > **ProgramID**: `Tandon MSCE@NYU`
 > **官网**: [Computer Engineering, M.S. | NYU Tandon School of Engineering](https://engineering.nyu.edu/academics/programs/computer-engineering-ms) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# CS PhD @ UToronto
-
 > **ProgramID**: `CS PhD@UToronto`
 > **官网**: [Department of Computer Science — PhD Program](https://web.cs.toronto.edu/graduate/phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

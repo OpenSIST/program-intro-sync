@@ -1,5 +1,3 @@
-# ECE PhD @ UW-Madison
-
 > **ProgramID**: `ECE PhD@UW-Madison`
 > **官网**: [ECE PhD — University of Wisconsin-Madison](https://engineering.wisc.edu/programs/degrees/electrical-and-computer-engineering-phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

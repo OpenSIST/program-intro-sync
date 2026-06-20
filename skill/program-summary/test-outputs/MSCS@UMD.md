@@ -1,5 +1,3 @@
-# MSCS @ University of Maryland (UMD)
-
 > **ProgramID**: `MSCS@UMD`
 > **官网**: [UMD CS Graduate Program](https://www.cs.umd.edu/grad/ms-catalog) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

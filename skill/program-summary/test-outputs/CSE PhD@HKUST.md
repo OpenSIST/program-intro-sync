@@ -1,5 +1,3 @@
-# CSE PhD @ HKUST
-
 > **ProgramID**: `CSE PhD@HKUST`
 > **官网**: [HKUST CSE Postgraduate Admissions](https://cse.hkust.edu.hk/pg/admissions/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

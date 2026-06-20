@@ -1,5 +1,3 @@
-# EE MS&PhD @ Columbia
-
 > **ProgramID**: `EE MS&PhD@Columbia`
 > **官网**: [Columbia Electrical Engineering Graduate Programs](https://www.engineering.columbia.edu/electrical-engineering-msphd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

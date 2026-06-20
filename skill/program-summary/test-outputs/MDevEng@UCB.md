@@ -1,5 +1,3 @@
-# MDevEng @ UCB
-
 > **ProgramID**: `MDevEng@UCB`
 > **官网**: [Master of Development Engineering - UC Berkeley](https://developmentengineering.berkeley.edu/master-of-development-engineering/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSCS @ UCLA
-
 > **ProgramID**: `MSCS@UCLA`
 > **官网**: [UCLA CS Graduate Requirements](https://www.cs.ucla.edu/graduate-requirements/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# CS PhD @ UCSB
-
 > **ProgramID**: `CS PhD@UCSB`
 > **官网**: [UCSB Computer Science PhD](https://cs.ucsb.edu/education/graduate/phd-degree) _(2026-06-19)_
 > **生成日期**: 2026-06-19

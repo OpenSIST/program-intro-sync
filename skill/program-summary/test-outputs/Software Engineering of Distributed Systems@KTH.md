@@ -1,5 +1,3 @@
-# Software Engineering of Distributed Systems @ KTH
-
 > **ProgramID**: `Software Engineering of Distributed Systems@KTH`
 > **官网**: [MSc Software Engineering of Distributed Systems - KTH](https://www.kth.se/en/studies/master/software-engineering-distributed-systems/msc-software-engineering-of-distributed-systems-1.8661) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

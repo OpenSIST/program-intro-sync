@@ -1,5 +1,3 @@
-# New Brunswick CS PhD @ Rutgers
-
 > **ProgramID**: `New Brunswick CS PhD@Rutgers`
 > **官网**: [Ph.D. Program in Computer Science | Rutgers CS](https://www.cs.rutgers.edu/academics/graduate/ph-d-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

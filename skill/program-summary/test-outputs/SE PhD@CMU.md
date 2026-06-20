@@ -1,5 +1,3 @@
-# SE PhD @ CMU
-
 > **ProgramID**: `SE PhD@CMU`
 > **官网**: [Software Engineering Ph.D. Program – CMU S3D](https://se-phd.s3d.cmu.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

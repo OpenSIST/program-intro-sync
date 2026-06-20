@@ -1,5 +1,3 @@
-# CS PhD @ KAUST
-
 > **ProgramID**: `CS PhD@KAUST`
 > **官网**: [KAUST Computer Science Program](https://cs.kaust.edu.sa/computer-science-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

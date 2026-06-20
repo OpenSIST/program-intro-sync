@@ -1,5 +1,3 @@
-# CS AI-Center PhD @ ETH Zurich
-
 > **ProgramID**: `CS AI-Center PhD@ETH`
 > **官网**: [ETH AI Center Doctoral Fellowships](https://ai.ethz.ch/research/phd-and-postdoc-programs/phd-fellowships.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# CS General @ NEU
-
 > **ProgramID**: `CS General@NEU`
 > **官网**: [MS in Computer Science – Khoury College](https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-boston/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

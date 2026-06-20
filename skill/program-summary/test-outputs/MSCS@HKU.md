@@ -1,5 +1,3 @@
-# MSCS @ HKU
-
 > **ProgramID**: `MSCS@HKU`
 > **官网**: [Master of Science in Computer Science - HKU](https://www.msc-cs.hku.hk/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

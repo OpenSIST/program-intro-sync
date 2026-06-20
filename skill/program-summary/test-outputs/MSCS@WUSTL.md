@@ -1,5 +1,3 @@
-# MSCS @ WUSTL
-
 > **ProgramID**: `MSCS@WUSTL`
 > **官网**: [MS in Computer Science | WashU CSE](https://cse.washu.edu/academics/graduate/MS-in-Computer-Science.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

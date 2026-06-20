@@ -1,5 +1,3 @@
-# MS ECE @ GaTech
-
 > **ProgramID**: `MS ECE@GaTech`
 > **官网**: [Graduate Admissions | School of Electrical and Computer Engineering](https://ece.gatech.edu/future-students/graduate-admissions) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSQF @ NYU
-
 > **ProgramID**: `MSQF@NYU`
 > **官网**: [MS in Quantitative Finance | NYU Shanghai - NYU Stern](https://stern.shanghai.nyu.edu/en/program/ms-quantitative-finance) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

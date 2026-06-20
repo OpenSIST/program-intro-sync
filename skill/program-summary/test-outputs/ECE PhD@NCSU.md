@@ -1,5 +1,3 @@
-# ECE PhD @ NCSU
-
 > **ProgramID**: `ECE PhD@NCSU`
 > **官网**: [NC State ECE Graduate Programs](https://ece.ncsu.edu/grad/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

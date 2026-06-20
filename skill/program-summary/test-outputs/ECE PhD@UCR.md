@@ -1,5 +1,3 @@
-# ECE PhD @ UCR
-
 > **ProgramID**: `ECE PhD@UCR`
 > **官网**: [Graduate Admissions - ECE UCR](https://ece.ucr.edu/graduate-admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

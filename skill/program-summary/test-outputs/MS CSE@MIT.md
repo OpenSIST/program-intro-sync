@@ -1,5 +1,3 @@
-# MS CSE @ MIT
-
 > **ProgramID**: `MS CSE@MIT`
 > **官网**: [CSE Master of Science Program - MIT CCSE](https://cse.mit.edu/programs-admissions/cse-sm/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

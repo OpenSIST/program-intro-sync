@@ -1,5 +1,3 @@
-# MsC (joint with VU Amsterdam) @ UAmsterdam
-
 > **ProgramID**: `MsC (joint with VU Amsterdam)@UAmsterdam`
 > **官网**: [Master Computer Science (joint degree UvA/VU) - UvA](https://www.uva.nl/shared-content/programmas/en/masters/computer-science/computer-science.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

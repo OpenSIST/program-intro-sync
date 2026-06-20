@@ -1,5 +1,3 @@
-# MSECE @ USC
-
 > **ProgramID**: `MSECE@USC`
 > **官网**: [MS in Electrical and Computer Engineering - USC Viterbi](https://viterbigradadmission.usc.edu/programs/masters/msprograms/electrical-computer-engineering/ms-electrical-and-computer-engineering/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

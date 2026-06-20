@@ -1,5 +1,3 @@
-# BioENG @ JHU
-
 > **ProgramID**: `BioENG@JHU`
 > **官网**: [JHU Biomedical Engineering Master's Programs](https://www.bme.jhu.edu/academics/graduate/masters-programs/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

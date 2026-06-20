@@ -1,5 +1,3 @@
-# HCIM @ UMD
-
 > **ProgramID**: `HCIM@UMD`
 > **官网**: [Master of Science in Human-Computer Interaction (HCIM) — UMD iSchool](https://ischool.umd.edu/academics/masters-programs/master-of-science-in-human-computer-interaction/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

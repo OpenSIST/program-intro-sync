@@ -1,5 +1,3 @@
-# CS PhD @ Rice
-
 > **ProgramID**: `CS PhD@Rice`
 > **官网**: [PhD Program | Computer Science | Rice University](https://csweb.rice.edu/academics/graduate-programs/phd-program) _(2026-06-19)_
 > **生成日期**: 2026-06-19

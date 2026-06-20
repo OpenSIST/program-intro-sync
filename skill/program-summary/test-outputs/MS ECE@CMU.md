@@ -1,5 +1,3 @@
-# MS ECE @ CMU
-
 > **ProgramID**: `MS ECE@CMU`
 > **官网**: [MS in ECE, Standard Program - Carnegie Mellon University](https://www.ece.cmu.edu/academics/ms-ece/standard-program.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

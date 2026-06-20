@@ -1,5 +1,3 @@
-# MSECE @ WUSTL
-
 > **ProgramID**: `MSECE@WUSTL`
 > **官网**: [MS in Electrical Engineering — WashU ESE](https://ese.washu.edu/academics/graduate-programs/masters-and-certificates/MS-in-Electrical-Engineering.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

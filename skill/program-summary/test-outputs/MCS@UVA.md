@@ -1,5 +1,3 @@
-# MCS @ UVA
-
 > **ProgramID**: `MCS@UVA`
 > **官网**: [Master of Computer Science | UVA Engineering](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/master-computer-science) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

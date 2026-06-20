@@ -1,5 +1,3 @@
-# GFLS MS @ UKyoto
-
 > **ProgramID**: `GFLS MS@UKyoto`
 > **官网**: [Graduate School of Biostudies, Kyoto University — Global Frontier in Life Science](https://www.lif.kyoto-u.ac.jp/e/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

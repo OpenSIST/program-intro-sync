@@ -1,5 +1,3 @@
-# EE PhD @ Penn State (PSU)
-
 > **ProgramID**: `EE PhD@PSU`
 > **官网**: [EE PhD - Penn State EECS](https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

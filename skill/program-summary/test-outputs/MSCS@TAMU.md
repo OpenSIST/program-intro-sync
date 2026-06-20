@@ -1,5 +1,3 @@
-# MSCS @ TAMU
-
 > **ProgramID**: `MSCS@TAMU`
 > **官网**: [MS in Computer Science – Texas A&M CSE](https://engineering.tamu.edu/cse/academics/degrees/graduate/ms-cs.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

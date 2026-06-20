@@ -1,5 +1,3 @@
-# DID PhD @ NUS
-
 > **ProgramID**: `DID PhD@NUS`
 > **官网**: [PhD in Industrial Design — NUS Division of Industrial Design](https://cde.nus.edu.sg/did/postgraduate/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

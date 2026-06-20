@@ -1,5 +1,3 @@
-# Applied Data Science (ADS) @ UChicago
-
 > **ProgramID**: `ADS@UChicago`
 > **官网**: [MS in Applied Data Science | UChicago DSI](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

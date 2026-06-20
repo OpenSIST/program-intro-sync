@@ -1,5 +1,3 @@
-# MSCS @ Stanford
-
 > **ProgramID**: `MSCS@Stanford`
 > **官网**: [Stanford CS MS Program](https://bulletin.stanford.edu/programs/CS-MS) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

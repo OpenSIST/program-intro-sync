@@ -1,5 +1,3 @@
-# CS PhD @ Drexel
-
 > **ProgramID**: `CS PhD@Drexel`
 > **官网**: [PhD in Computer Science – Drexel CCI](https://drexel.edu/cci/academics/doctoral-programs/phd-computer-science/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

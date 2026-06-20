@@ -1,5 +1,3 @@
-# CS Direct PhD @ ETH Zurich
-
 > **ProgramID**: `CS Direct PhD@ETH`
 > **官网**: [Direct Doctorate in Computer Science – ETH Zurich](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

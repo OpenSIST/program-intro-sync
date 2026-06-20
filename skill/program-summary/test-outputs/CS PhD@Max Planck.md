@@ -1,5 +1,3 @@
-# CS PhD @ Max Planck
-
 > **ProgramID**: `CS PhD@Max Planck`
 > **官网**: [CS@Max Planck Overview](https://www.cis.mpg.de/csmaxplanck-overview/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

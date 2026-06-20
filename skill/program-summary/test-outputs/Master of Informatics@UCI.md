@@ -1,5 +1,3 @@
-# Master of Informatics @ UCI
-
 > **ProgramID**: `Master of Informatics@UCI`
 > **官网**: [M.S. Informatics – UC Irvine Department of Informatics](https://www.informatics.uci.edu/grad/ms-informatics/) _(WebSearch，2026-06-20)_
 > **生成日期**: 2026-06-20

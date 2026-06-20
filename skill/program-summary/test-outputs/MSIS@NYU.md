@@ -1,5 +1,3 @@
-# MSIS @ NYU
-
 > **ProgramID**: `MSIS@NYU`
 > **官网**: [MS in Information Systems | NYU Computer Science](https://cs.nyu.edu/home/master/prospective_msis) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

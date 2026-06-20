@@ -1,5 +1,3 @@
-# CSE PhD @ PSU (Penn State)
-
 > **ProgramID**: `CSE PhD@PSU`
 > **官网**: [Penn State EECS — CSE Graduate Degree Programs](https://www.eecs.psu.edu/students/graduate/Graduate-Degree-Programs-CSE.aspx) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

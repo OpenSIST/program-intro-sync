@@ -1,5 +1,3 @@
-# MScSPML @ NTU
-
 > **ProgramID**: `MScSPML@NTU`
 > **官网**: [Master of Science in Signal Processing and Machine Learning | NTU Singapore](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-signal-processing) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# CS PhD @ NUS
-
 > **ProgramID**: `CS PhD@NUS`
 > **官网**: [PhD in Computer Science - NUS Computing](https://www.comp.nus.edu.sg/programmes/pg/phdcs/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

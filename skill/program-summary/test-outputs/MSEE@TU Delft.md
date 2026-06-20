@@ -1,5 +1,3 @@
-# MSEE @ TU Delft
-
 > **ProgramID**: `MSEE@TU Delft`
 > **官网**: [MSc Electrical Engineering - TU Delft](https://www.tudelft.nl/en/education/programmes/masters/ee/msc-electrical-engineering) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

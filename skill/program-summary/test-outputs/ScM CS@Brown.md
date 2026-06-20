@@ -1,5 +1,3 @@
-# ScM CS @ Brown
-
 > **ProgramID**: `ScM CS@Brown`
 > **官网**: [Brown CS Master's Program](https://cs.brown.edu/degrees/masters/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

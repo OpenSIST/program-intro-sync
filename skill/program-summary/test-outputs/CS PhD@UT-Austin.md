@@ -1,5 +1,3 @@
-# CS PhD @ UT-Austin
-
 > **ProgramID**: `CS PhD@UT-Austin`
 > **官网**: [UT Austin Computer Science — PhD & MS Research Programs](https://www.cs.utexas.edu/graduate/research-degrees) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

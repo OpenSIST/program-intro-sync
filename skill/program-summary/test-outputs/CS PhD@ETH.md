@@ -1,5 +1,3 @@
-# CS PhD @ ETH Zurich
-
 > **ProgramID**: `CS PhD@ETH`
 > **官网**: [Doctoral Studies – Department of Computer Science | ETH Zurich](https://inf.ethz.ch/doctorate.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

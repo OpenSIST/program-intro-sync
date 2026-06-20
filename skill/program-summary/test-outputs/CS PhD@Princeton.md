@@ -1,5 +1,3 @@
-# CS PhD @ Princeton
-
 > **ProgramID**: `CS PhD@Princeton`
 > **官网**: [Princeton CS Graduate Program](https://www.cs.princeton.edu/grad/graduate-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

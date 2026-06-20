@@ -1,5 +1,3 @@
-# MS CSE @ ETH Zurich
-
 > **ProgramID**: `MS CSE@ETH`
 > **官网**: [Master Computational Science and Engineering | ETH Zurich](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computational-science-and-engineering.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

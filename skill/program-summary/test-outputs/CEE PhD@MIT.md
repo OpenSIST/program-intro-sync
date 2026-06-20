@@ -1,5 +1,3 @@
-# CEE PhD @ MIT
-
 > **ProgramID**: `CEE PhD@MIT`
 > **官网**: [MIT Civil and Environmental Engineering – Graduate Admissions](https://cee.mit.edu/education/graduate/graduate-admissions/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

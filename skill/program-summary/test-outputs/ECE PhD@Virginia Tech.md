@@ -1,5 +1,3 @@
-# ECE PhD @ Virginia Tech
-
 > **ProgramID**: `ECE PhD@Virginia Tech`
 > **官网**: [Bradley Department of ECE — Ph.D. Admissions](https://ece.vt.edu/grad/phdadmissions.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# CS PhD @ Tübingen
-
 > **ProgramID**: `CS PhD@Tübingen`
 > **官网**: [Faculty of Science — Doctoral Studies](https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# CS MEng @ UCLA
-
 > **ProgramID**: `CS MEng@UCLA`
 > **官网**: [UCLA Samueli Master of Engineering](https://www.meng.ucla.edu/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

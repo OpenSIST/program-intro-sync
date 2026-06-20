@@ -1,5 +1,3 @@
-# MSF @ WUSTL
-
 > **ProgramID**: `MSF@WUSTL`
 > **官网**: [MS in Finance | WashU Olin Business School](https://olin.washu.edu/programs/specialized-masters/ms-in-finance/index.php) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

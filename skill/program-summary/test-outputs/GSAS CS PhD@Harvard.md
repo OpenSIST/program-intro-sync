@@ -1,5 +1,3 @@
-# GSAS CS PhD @ Harvard
-
 > **ProgramID**: `GSAS CS PhD@Harvard`
 > **官网**: [Harvard SEAS Computer Science PhD Program](https://seas.harvard.edu/computer-science/graduate-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

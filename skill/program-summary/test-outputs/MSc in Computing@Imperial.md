@@ -1,5 +1,3 @@
-# MSc in Computing @ Imperial
-
 > **ProgramID**: `MSc in Computing@Imperial`
 > **官网**: [MSc Computing | Imperial College London](https://www.imperial.ac.uk/study/courses/postgraduate-taught/computing/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

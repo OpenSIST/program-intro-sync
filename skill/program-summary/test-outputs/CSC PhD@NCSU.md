@@ -1,5 +1,3 @@
-# CSC PhD @ NCSU
-
 > **ProgramID**: `CSC PhD@NCSU`
 > **官网**: [Ph.D. in Computer Science – NC State University](https://csc.ncsu.edu/academics/graduate/phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# ECE MS @ UCLA
-
 > **ProgramID**: `ECE MS@UCLA`
 > **官网**: [UCLA Samueli ECE M.S. Program](https://www.ee.ucla.edu/m-s/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

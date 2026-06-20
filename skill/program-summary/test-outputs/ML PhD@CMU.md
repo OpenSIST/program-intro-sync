@@ -1,5 +1,3 @@
-# ML PhD @ CMU
-
 > **ProgramID**: `ML PhD@CMU`
 > **官网**: [Machine Learning Ph.D. Program - CMU](https://ml.cmu.edu/academics/machine-learning-phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# EECS PhD @ MIT
-
 > **ProgramID**: `EECS PhD@MIT`
 > **官网**: [MIT EECS Graduate Programs](https://www.eecs.mit.edu/academics/graduate-programs/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

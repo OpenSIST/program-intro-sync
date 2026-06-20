@@ -1,5 +1,3 @@
-# CS PhD @ USC
-
 > **ProgramID**: `CS PhD@USC`
 > **官网**: [USC Viterbi Thomas Lord Department of Computer Science — PhD Program](https://www.cs.usc.edu/academic-programs/phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

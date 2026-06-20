@@ -1,5 +1,3 @@
-# System Engineering PhD (DPhil Engineering Science) @ Oxford
-
 > **ProgramID**: `System Engineering PhD@Oxford`
 > **官网**: [DPhil in Engineering Science | Oxford University](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) _(WebSearch，2026-06-20)_
 > **生成日期**: 2026-06-20

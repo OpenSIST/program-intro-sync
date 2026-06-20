@@ -1,5 +1,3 @@
-# HCII PhD @ CMU
-
 > **ProgramID**: `HCII PhD@CMU`
 > **官网**: [Ph.D. in HCI — HCII](https://hcii.cmu.edu/academics/phd-hci) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

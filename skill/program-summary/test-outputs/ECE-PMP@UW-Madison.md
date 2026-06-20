@@ -1,5 +1,3 @@
-# ECE-PMP @ UW-Madison
-
 > **ProgramID**: `ECE-PMP@UW-Madison`
 > **官网**: [ECE Professional Master's Program – UW-Madison PDC](https://pdc.wisc.edu/degrees/electrical-and-computer-eng-professional-ms/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

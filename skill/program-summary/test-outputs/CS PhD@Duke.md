@@ -1,5 +1,3 @@
-# CS PhD @ Duke
-
 > **ProgramID**: `CS PhD@Duke`
 > **官网**: [Duke CS PhD Program](https://cs.duke.edu/graduate/phd) _(2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSCS @ UPenn
-
 > **ProgramID**: `MSCS@UPenn`
 > **官网**: [MSE in Computer & Information Science — Penn CIS](https://www.cis.upenn.edu/mse-in-cis/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

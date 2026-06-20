@@ -1,5 +1,3 @@
-# MSc in BME @ CUHK
-
 > **ProgramID**: `MSc in BME@CUHK`
 > **官网**: [CUHK Department of Biomedical Engineering – MSc](https://www.bme.cuhk.edu.hk/new/msc.php) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

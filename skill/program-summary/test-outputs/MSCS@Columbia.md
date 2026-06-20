@@ -1,5 +1,3 @@
-# MSCS @ Columbia University
-
 > **ProgramID**: `MSCS@Columbia`
 > **官网**: [M.S. in Computer Science — Columbia University Department of Computer Science](https://www.cs.columbia.edu/education/ms/) _(访问于 2026-06-20)_
 > **生成日期**: 2026-06-20

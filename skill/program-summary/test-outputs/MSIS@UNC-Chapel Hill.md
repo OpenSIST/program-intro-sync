@@ -1,5 +1,3 @@
-# MSIS @ UNC-Chapel Hill
-
 > **ProgramID**: `MSIS@UNC-Chapel Hill`
 > **官网**: [M.S. in Information Science - SILS, UNC-Chapel Hill](https://sils.unc.edu/master-of-science-in-information-science-msis/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

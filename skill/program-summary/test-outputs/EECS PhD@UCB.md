@@ -1,5 +1,3 @@
-# EECS PhD @ UC Berkeley
-
 > **ProgramID**: `EECS PhD@UCB`
 > **官网**: [EECS Graduate Research Program Admissions](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

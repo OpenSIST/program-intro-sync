@@ -1,5 +1,3 @@
-# MDes in ISD @ PolyU
-
 > **ProgramID**: `MDes in ISD@PolyU`
 > **官网**: [Intelligent Systems Design (MDes) - PolyU School of Design](https://www.polyu.edu.hk/sd/study/tpg/intelligent-systems-design/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

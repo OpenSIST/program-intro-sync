@@ -1,5 +1,3 @@
-# MSc AI @ Bristol
-
 > **ProgramID**: `MSc AI@Bristol`
 > **官网**: [MSc Artificial Intelligence | University of Bristol](https://www.bristol.ac.uk/study/postgraduate/taught/msc-artificial-intelligence/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

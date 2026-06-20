@@ -1,5 +1,3 @@
-# QFRM @ UMich
-
 > **ProgramID**: `QFRM@UMich`
 > **官网**: [U-M Quant Program](https://sites.lsa.umich.edu/quant/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

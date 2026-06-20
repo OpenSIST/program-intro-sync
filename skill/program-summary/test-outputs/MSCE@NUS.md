@@ -1,5 +1,3 @@
-# MSCE @ NUS
-
 > **ProgramID**: `MSCE@NUS`
 > **官网**: [MSc (Computer Engineering) – NUS ECE](https://cde.nus.edu.sg/ece/graduate/msc-computer-engineering/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

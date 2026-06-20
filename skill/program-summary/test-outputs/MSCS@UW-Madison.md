@@ -1,5 +1,3 @@
-# MSCS @ UW-Madison
-
 > **ProgramID**: `MSCS@UW-Madison`
 > **官网**: [Computer Sciences MS – UW-Madison](https://www.cs.wisc.edu/grad/programs/admissions/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

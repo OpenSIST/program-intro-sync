@@ -1,5 +1,3 @@
-# CS PhD @ ASU
-
 > **ProgramID**: `CS PhD@ASU`
 > **官网**: [ASU Computer Science PhD - Degree Details](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd?init=false&nopassive=true) _(2026-06-19)_
 > **生成日期**: 2026-06-19

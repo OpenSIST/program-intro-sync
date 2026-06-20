@@ -1,5 +1,3 @@
-# MsC CSE @ TU/e
-
 > **ProgramID**: `MsC CSE@TU/e`
 > **官网**: [Master Computer Science and Engineering - TU/e](https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

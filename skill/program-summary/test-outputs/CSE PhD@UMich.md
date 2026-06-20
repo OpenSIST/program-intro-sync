@@ -1,5 +1,3 @@
-# CSE PhD @ UMich
-
 > **ProgramID**: `CSE PhD@UMich`
 > **官网**: [PhD in CSE | Computer Science and Engineering at Michigan](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/) _(WebSearch，2026-06-19)_
 > **生成日期**: 2026-06-19

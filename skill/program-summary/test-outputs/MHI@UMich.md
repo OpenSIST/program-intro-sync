@@ -1,5 +1,3 @@
-# Master of Health Informatics (MHI) @ UMich
-
 > **ProgramID**: `MHI@UMich`
 > **官网**: [UMSI Master of Health Informatics](https://www.si.umich.edu/programs/master-health-informatics) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

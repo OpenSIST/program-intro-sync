@@ -1,5 +1,3 @@
-# Master Fast Track @ UPenn
-
 > **ProgramID**: `Master Fast Track@UPenn`
 > **官网**: [Penn Engineering Accelerated Master's Programs](https://gradadm.seas.upenn.edu/masters/accelerated-masters-programs/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

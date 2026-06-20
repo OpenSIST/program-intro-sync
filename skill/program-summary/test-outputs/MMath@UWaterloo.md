@@ -1,5 +1,3 @@
-# MMath @ UWaterloo
-
 > **ProgramID**: `MMath@UWaterloo`
 > **官网**: [Computer Science - Master of Math (MMath) | University of Waterloo](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-master-math-mmath) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

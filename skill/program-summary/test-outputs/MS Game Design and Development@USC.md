@@ -1,5 +1,3 @@
-# MS Game Design and Development @ USC
-
 > **ProgramID**: `MS Game Design and Development@USC`
 > **官网**: [USC Interactive Media & Games Division](https://cinema.usc.edu/interactive/index.cfm) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSECE @ University of Michigan (UMich)
-
 > **ProgramID**: `MSECE@UMich`
 > **官网**: [ECE Graduate Programs | UMich ECE](https://ece.engin.umich.edu/academics/graduate-programs/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

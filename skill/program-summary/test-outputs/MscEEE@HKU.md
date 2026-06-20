@@ -1,5 +1,3 @@
-# MscEEE @ HKU
-
 > **ProgramID**: `MscEEE@HKU`
 > **官网**: [Department of Electrical and Computer Engineering - Postgraduate](https://ece.hku.hk/study/postgraduate/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSCS @ TU Delft
-
 > **ProgramID**: `MSCS@TU Delft`
 > **官网**: [MSc Computer Science - TU Delft](https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

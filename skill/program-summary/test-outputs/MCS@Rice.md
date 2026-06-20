@@ -1,5 +1,3 @@
-# MCS @ Rice University
-
 > **ProgramID**: `MCS@Rice`
 > **官网**: [Master of Computer Science (MCS) Degree – Rice University](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

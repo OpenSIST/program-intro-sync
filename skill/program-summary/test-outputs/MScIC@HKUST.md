@@ -1,5 +1,3 @@
-# MScIC @ HKUST
-
 > **ProgramID**: `MScIC@HKUST`
 > **官网**: [MSc in Integrated Circuits | HKUST School of Engineering](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-ic) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

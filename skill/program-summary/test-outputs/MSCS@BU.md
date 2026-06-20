@@ -1,5 +1,3 @@
-# MSCS @ BU (Boston University)
-
 > **ProgramID**: `MSCS@BU`
 > **官网**: [MS in Computer Science | BU MET](https://www.bu.edu/met/degrees-certificates/ms-computer-science/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

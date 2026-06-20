@@ -1,5 +1,3 @@
-# MSI @ UMich
-
 > **ProgramID**: `MSI@UMich`
 > **官网**: [Master of Science in Information | UMSI](https://www.si.umich.edu/programs/master-science-information) _(WebSearch，2026-06-20)_
 > **生成日期**: 2026-06-20

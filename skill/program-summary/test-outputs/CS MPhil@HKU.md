@@ -1,5 +1,3 @@
-# CS MPhil @ HKU
-
 > **ProgramID**: `CS MPhil@HKU`
 > **官网**: [HKU School of Computing & Data Science — MPhil/PhD](https://www.cs.hku.hk/programmes/research-based/mphil-phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

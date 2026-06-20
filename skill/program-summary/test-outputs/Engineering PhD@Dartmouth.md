@@ -1,5 +1,3 @@
-# Engineering PhD @ Dartmouth
-
 > **ProgramID**: `Engineering PhD@Dartmouth`
 > **官网**: [Dartmouth Engineering PhD Program](https://engineering.dartmouth.edu/graduate/phd) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

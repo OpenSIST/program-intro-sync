@@ -1,5 +1,3 @@
-# MSCS @ Cornell
-
 > **ProgramID**: `MSCS@Cornell`
 > **官网**: [Master of Science in Computer Science | Cornell Bowers CS](https://www.cs.cornell.edu/ms) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# CS PhD @ Columbia
-
 > **ProgramID**: `CS PhD@Columbia`
 > **官网**: [Columbia CS PhD Program](https://www.cs.columbia.edu/education/phd/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

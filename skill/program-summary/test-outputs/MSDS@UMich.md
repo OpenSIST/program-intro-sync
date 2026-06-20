@@ -1,5 +1,3 @@
-# MSDS @ UMich
-
 > **ProgramID**: `MSDS@UMich`
 > **官网**: [Master of Science in Design Science – University of Michigan](https://designscience.engin.umich.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

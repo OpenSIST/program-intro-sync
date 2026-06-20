@@ -1,5 +1,3 @@
-# MCS @ TAMU (Texas A&M University)
-
 > **ProgramID**: `MCS@TAMU`
 > **官网**: [Master of Computer Science | Texas A&M Engineering](https://engineering.tamu.edu/cse/academics/degrees/graduate/mcs.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

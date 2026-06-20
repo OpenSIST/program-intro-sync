@@ -1,5 +1,3 @@
-# MPhil（RedBird）@ HKUST（广州）
-
 > **ProgramID**: `MPhil （RedBird）@HKUST`
 > **官网**: [Red Bird MPhil Program – HKUST(GZ)](https://www.hkust-gz.edu.cn/academics/education-innovation/red-bird-mphil-program/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

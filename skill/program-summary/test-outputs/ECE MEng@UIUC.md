@@ -1,5 +1,3 @@
-# ECE MEng @ UIUC
-
 > **ProgramID**: `ECE MEng@UIUC`
 > **官网**: [ECE M.Eng. Degree | Illinois](https://ece.illinois.edu/admissions/graduate/meng-degree) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

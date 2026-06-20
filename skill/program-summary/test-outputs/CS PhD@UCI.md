@@ -1,5 +1,3 @@
-# CS PhD @ UCI
-
 > **ProgramID**: `CS PhD@UCI`
 > **官网**: [Computer Science, Ph.D. – UCI Catalogue](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_phd/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

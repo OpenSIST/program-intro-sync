@@ -1,5 +1,3 @@
-# Engineering Science MENG @ SFU
-
 > **ProgramID**: `Engineering Science MENG@SFU`
 > **官网**: [Master of Engineering in Engineering Science - SFU](https://www.sfu.ca/fas/study/future-graduates/programs/master-engineering.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

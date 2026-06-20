@@ -1,5 +1,3 @@
-# International Graduate Program (C) @ Tokyo Tech
-
 > **ProgramID**: `International Graduate Program (C)@Tokyo Tech`
 > **官网**: [IGP(C) - Science Tokyo](https://admissions.isct.ac.jp/en/013/graduate/programs/science-and-engineering/igp-c) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

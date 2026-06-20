@@ -85,8 +85,6 @@ manifestEntry:
 ## 完整输出格式
 
 ```markdown
-# [ProgramName] @ [University]
-
 > **ProgramID**: `XXX@YYY`
 > **官网**: [名称](url) _(WebSearch + WebFetch，YYYY-MM-DD)_
 > **生成日期**: YYYY-MM-DD
@@ -147,8 +145,6 @@ _内容综合自 OpenCS / GlobalCS / CSGrad 及官网，数据有时效性，以
 ## 简化输出格式（仅官网）
 
 ```markdown
-# [ProgramName] @ [University]
-
 > **ProgramID**: `XXX@YYY`
 > **官网**: [名称](url) _(WebSearch，YYYY-MM-DD)_
 > **生成日期**: YYYY-MM-DD

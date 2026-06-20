@@ -1,5 +1,3 @@
-# MScAC @ UToronto
-
 > **ProgramID**: `MScAC@UToronto`
 > **官网**: [Master of Science in Applied Computing | University of Toronto](https://mscac.utoronto.ca/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSCS @ EPFL
-
 > **ProgramID**: `MSCS@EPFL`
 > **官网**: [Master in Computer Science – EPFL](https://www.epfl.ch/schools/ic/education/master/computer-science/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

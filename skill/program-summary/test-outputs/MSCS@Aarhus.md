@@ -1,5 +1,3 @@
-# MSCS @ Aarhus University
-
 > **ProgramID**: `MSCS@Aarhus`
 > **官网**: [Master's degree programme in Computer Science](https://masters.au.dk/computerscience) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

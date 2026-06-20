@@ -1,5 +1,3 @@
-# Dual MSIS in Health Tech @ Cornell Tech
-
 > **ProgramID**: `Dual MSIS in Health Tech@Cornell Tech`
 > **官网**: [Jacobs Technion-Cornell Dual MS in Health Tech](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-health-tech/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

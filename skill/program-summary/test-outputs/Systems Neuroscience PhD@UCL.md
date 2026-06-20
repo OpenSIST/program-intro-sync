@@ -1,5 +1,3 @@
-# Systems Neuroscience PhD @ UCL
-
 > **ProgramID**: `Systems Neuroscience PhD@UCL`
 > **官网**: [Sainsbury Wellcome Centre Systems Neuroscience PhD Programme](https://www.sainsburywellcome.org/web/content/systems-neuroscience-phd-programme) _(WebSearch + WebFetch，2026-06-20)_
 > **UCL 官方页面**: [UCL Graduate Research Degrees](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/sainsbury-wellcome-centre-systems-neuroscience-phd) _(WebFetch，2026-06-20)_

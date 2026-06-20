@@ -1,5 +1,3 @@
-# MSCS (advanced) @ USyd
-
 > **ProgramID**: `MSCS (advanced)@USyd`
 > **官网**: [Master of Computer Science (Advanced Entry) - University of Sydney](https://www.sydney.edu.au/courses/courses/pc/master-of-computer-science-advanced-entry.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

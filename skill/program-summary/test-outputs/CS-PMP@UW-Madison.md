@@ -1,5 +1,3 @@
-# CS-PMP @ UW-Madison
-
 > **ProgramID**: `CS-PMP@UW-Madison`
 > **官网**: [CS Professional Master's Program – UW–Madison](https://www.cs.wisc.edu/grad/programs/pmp/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

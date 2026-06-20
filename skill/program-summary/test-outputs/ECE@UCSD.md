@@ -1,5 +1,3 @@
-# ECE @ UCSD
-
 > **ProgramID**: `ECE@UCSD`
 > **官网**: [Graduate Admissions | Electrical and Computer Engineering](https://www.ece.ucsd.edu/graduate/graduate-admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# CS76 (MS in Computer Engineering) @ UCSD
-
 > **ProgramID**: `CS76@UCSD`
 > **官网**: [UCSD CSE MS Program](https://cse.ucsd.edu/graduate/degree-programs/ms-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

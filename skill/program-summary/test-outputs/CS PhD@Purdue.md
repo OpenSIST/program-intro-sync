@@ -1,5 +1,3 @@
-# CS PhD @ Purdue
-
 > **ProgramID**: `CS PhD@Purdue`
 > **官网**: [Purdue CS Graduate Program](https://www.cs.purdue.edu/graduate/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

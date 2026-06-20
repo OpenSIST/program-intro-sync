@@ -1,5 +1,3 @@
-# ECE PhD @ Rice
-
 > **ProgramID**: `ECE PhD@Rice`
 > **官网**: [PhD Program | ECE | Rice University](https://eceweb.rice.edu/academics/graduate-programs/phd-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MSc BIS-FIT @ CityU
-
 > **ProgramID**: `MSc BIS-FIT@CityU`
 > **官网**: [MSc Business Information Systems (Financial and Intelligent Technology Stream) - CityU Postgraduate Admissions](https://www.cityu.edu.hk/pg/programme/p05b) _(WebSearch + WebFetch，2026-06-20)_
 > **CityU Dongguan 招生页**: [MSc in Business Information Systems - CityU Dongguan](https://pga.cityu-dg.edu.cn/en/business-information-system) _(WebSearch + WebFetch，2026-06-20)_

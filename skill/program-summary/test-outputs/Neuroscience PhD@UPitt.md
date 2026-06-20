@@ -1,5 +1,3 @@
-# Neuroscience PhD @ UPitt
-
 > **ProgramID**: `Neuroscience PhD@UPitt`
 > **官网**: [Center for Neuroscience (CNUP) — University of Pittsburgh](https://www.cnup.pitt.edu/training-programs/phd-graduate-training/phd-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

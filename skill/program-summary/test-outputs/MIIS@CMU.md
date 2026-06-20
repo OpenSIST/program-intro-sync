@@ -1,5 +1,3 @@
-# MIIS @ CMU
-
 > **ProgramID**: `MIIS@CMU`
 > **官网**: [Carnegie Mellon MIIS](https://miis.cs.cmu.edu/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

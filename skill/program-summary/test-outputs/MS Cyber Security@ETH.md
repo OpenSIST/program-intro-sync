@@ -1,5 +1,3 @@
-# MS Cyber Security @ ETH
-
 > **ProgramID**: `MS Cyber Security@ETH`
 > **官网**: [Master Cyber Security | ETH Zurich](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/cyber-security.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

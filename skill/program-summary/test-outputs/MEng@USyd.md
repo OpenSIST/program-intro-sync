@@ -1,5 +1,3 @@
-# MEng @ University of Sydney (USyd)
-
 > **ProgramID**: `MEng@USyd`
 > **官网**: [Master of Engineering — University of Sydney](https://www.sydney.edu.au/engineering/study/postgraduate-courses.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

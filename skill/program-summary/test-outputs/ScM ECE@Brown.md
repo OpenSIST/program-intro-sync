@@ -1,5 +1,3 @@
-# ScM ECE @ Brown University
-
 > **ProgramID**: `ScM ECE@Brown`
 > **官网**: [Electrical and Computer Engineering Master's Program | Brown Engineering](https://engineering.brown.edu/graduate/programs-and-deadlines/electrical-and-computer-engineering-masters-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

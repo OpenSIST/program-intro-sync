@@ -1,5 +1,3 @@
-# CS PhD @ Brown
-
 > **ProgramID**: `CS PhD@Brown`
 > **官网**: [Applying To Our Doctoral Program – Brown CS](https://cs.brown.edu/degrees/doctoral/applications/) _(2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# MScIDT @ HKU
-
 > **ProgramID**: `MScIDT@HKU`
 > **官网**: [MSc(Eng) in Innovative Design and Technology - HKU Mechanical Engineering](https://mech.hku.hk/idt/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# RI PhD @ CMU
-
 > **ProgramID**: `RI PhD@CMU`
 > **官网**: [Doctoral Program in Robotics - Robotics Institute CMU](https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

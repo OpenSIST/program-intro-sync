@@ -1,5 +1,3 @@
-# EIE MsC @ PolyU
-
 > **ProgramID**: `EIE MsC@PolyU`
 > **官网**: [MSc in Electronic and Information Engineering - PolyU EIE Department](https://www.polyu.edu.hk/eee/study/taught-postgraduate-programmes/master-of-science-in-electronic-and-information-engineering/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

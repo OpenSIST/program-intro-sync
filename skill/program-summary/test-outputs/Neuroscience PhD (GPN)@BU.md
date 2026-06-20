@@ -1,5 +1,3 @@
-# Neuroscience PhD (GPN) @ BU
-
 > **ProgramID**: `Neuroscience PhD (GPN)@BU`
 > **官网**: [Graduate Program for Neuroscience (GPN) — Boston University](https://www.bu.edu/academics/gms/programs/neuroscience/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

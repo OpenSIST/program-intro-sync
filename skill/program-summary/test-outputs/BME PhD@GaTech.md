@@ -1,5 +1,3 @@
-# BME PhD @ GaTech
-
 > **ProgramID**: `BME PhD@GaTech`
 > **官网**: [GT Coulter BME PhD Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

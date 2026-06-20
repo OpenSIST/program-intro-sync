@@ -1,5 +1,3 @@
-# EECS MEng @ UC Berkeley
-
 > **ProgramID**: `EECS MEng@UCB`
 > **官网**: [Master of Engineering (MEng) — EECS at Berkeley](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

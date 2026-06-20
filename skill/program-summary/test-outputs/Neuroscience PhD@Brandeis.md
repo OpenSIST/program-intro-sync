@@ -1,5 +1,3 @@
-# Neuroscience PhD @ Brandeis
-
 > **ProgramID**: `Neuroscience PhD@Brandeis`
 > **官网**: [Brandeis Neuroscience PhD Program](https://www.brandeis.edu/neuroscience/graduate/phd-program/index.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

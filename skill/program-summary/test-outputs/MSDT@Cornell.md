@@ -1,5 +1,3 @@
-# MSDT @ Cornell
-
 > **ProgramID**: `MSDT@Cornell`
 > **官网**: [Master of Science in Design Technology | Cornell AAP](https://designtech.cornell.edu/design-tech/master-of-science-in-design-technology/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

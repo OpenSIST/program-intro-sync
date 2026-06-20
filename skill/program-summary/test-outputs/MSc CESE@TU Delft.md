@@ -1,5 +1,3 @@
-# MSc CESE @ TU Delft
-
 > **ProgramID**: `MSc CESE@TU Delft`
 > **官网**: [MSc Computer & Embedded Systems Engineering](https://www.tudelft.nl/en/education/programmes/masters/cese/msc-computer-embedded-systems-engineering) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

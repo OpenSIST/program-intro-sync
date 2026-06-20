@@ -1,5 +1,3 @@
-# ECE PhD @ USC
-
 > **ProgramID**: `ECE PhD@USC`
 > **官网**: [Ming Hsieh ECE PhD — USC Viterbi](https://viterbigradadmission.usc.edu/doctoral/phddegrees/phd-electrical-engineering/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

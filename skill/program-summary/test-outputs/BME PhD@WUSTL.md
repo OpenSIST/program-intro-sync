@@ -1,5 +1,3 @@
-# BME PhD @ WUSTL
-
 > **ProgramID**: `BME PhD@WUSTL`
 > **官网**: [PhD in Biomedical Engineering | WashU BME](https://bme.washu.edu/academics/graduate-programs/phd/index.html) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

@@ -1,5 +1,3 @@
-# Neurobiology PhD @ Duke
-
 > **ProgramID**: `Neurobiology PhD@Duke`
 > **官网**: [Duke Neurobiology Graduate Training Program](https://www.neuro.duke.edu/education/graduate-training-program/overview) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

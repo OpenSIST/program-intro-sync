@@ -1,5 +1,3 @@
-# CS PhD @ Stanford
-
 > **ProgramID**: `CS PhD@Stanford`
 > **官网**: [Stanford CS PhD Admissions](https://www.cs.stanford.edu/admissions/phd-admissions) _(2026-06-19)_
 > **生成日期**: 2026-06-19

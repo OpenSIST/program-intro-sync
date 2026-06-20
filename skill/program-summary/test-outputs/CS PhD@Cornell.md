@@ -1,5 +1,3 @@
-# CS PhD @ Cornell
-
 > **ProgramID**: `CS PhD@Cornell`
 > **官网**: [Cornell CS PhD - Apply](https://www.cs.cornell.edu/phd-computer-science/apply) _(2026-06-19)_
 > **生成日期**: 2026-06-19

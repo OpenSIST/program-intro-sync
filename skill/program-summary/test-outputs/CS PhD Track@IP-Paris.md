@@ -1,5 +1,3 @@
-# CS PhD Track @ IP-Paris
-
 > **ProgramID**: `CS PhD Track@IP-Paris`
 > **官网**: [PhD Track in Computer Science - Institut Polytechnique de Paris](https://www.ip-paris.fr/en/education/phd-track/phd-track-computer-science) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

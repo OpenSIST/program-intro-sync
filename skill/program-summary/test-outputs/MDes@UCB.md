@@ -1,5 +1,3 @@
-# MDes @ UC Berkeley
-
 > **ProgramID**: `MDes@UCB`
 > **官网**: [Berkeley MDes](https://design.berkeley.edu/) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19

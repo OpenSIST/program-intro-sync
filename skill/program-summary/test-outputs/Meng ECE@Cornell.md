@@ -1,5 +1,3 @@
-# Meng ECE @ Cornell
-
 > **ProgramID**: `Meng ECE@Cornell`
 > **官网**: [M.Eng. Programs in ECE | Cornell Duffield Engineering](https://www.duffield.cornell.edu/ece/programs/graduate-programs/meng-program) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

@@ -1,5 +1,3 @@
-# MSIM @ UIUC
-
 > **ProgramID**: `MSIM@UIUC`
 > **官网**: [MS in Information Management | iSchool UIUC](https://ischool.illinois.edu/academics/graduate/ms-information-management) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

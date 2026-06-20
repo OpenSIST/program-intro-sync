@@ -1,5 +1,3 @@
-# MSc CS @ UMacau
-
 > **ProgramID**: `MSc CS@UMacau`
 > **官网**: [MSc in Computer Science - CIS, University of Macau](https://www.cis.um.edu.mo/msc_computer_science.html) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

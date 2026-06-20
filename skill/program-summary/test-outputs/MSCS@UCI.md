@@ -1,5 +1,3 @@
-# MSCS @ UCI
-
 > **ProgramID**: `MSCS@UCI`
 > **官网**: [Computer Science M.S. — UCI Catalogue](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_ms/) _(WebSearch + WebFetch，2026-06-20)_
 > **生成日期**: 2026-06-20

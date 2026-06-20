@@ -1,5 +1,3 @@
-# ECE PhD @ Purdue
-
 > **ProgramID**: `ECE PhD@Purdue`
 > **官网**: [Elmore Family School of ECE — Graduate Admissions](https://engineering.purdue.edu/ECE/Academics/Graduates/Admissions) _(WebSearch + WebFetch，2026-06-19)_
 > **生成日期**: 2026-06-19
